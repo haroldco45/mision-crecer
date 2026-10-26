@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-26T16:55:17.626Z",
+  "revisado": "2026-10-26T21:32:29.466Z",
   "noticias": [
     {
       "titulo": "Colombia lleva a Nueva York una cartera de inversión por 75 billones de pesos",
@@ -75,7 +75,8 @@
       "fuente": "El Espectador",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-10-21T01:10:00.000Z"
+      "fecha": "2026-10-21T01:10:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¡Milagro Week! Colombia llevará 86 proyectos por US$56.799 millones a Nueva York",
@@ -416,7 +417,7 @@
       "titulo": "Gobierno estructura portafolio de 70 proyectos para dinamizar la economía",
       "link": "https://www.elnuevosiglo.com.co/politica/gobierno-estructura-portafolio-de-70-proyectos-para-dinamizar-la-economia",
       "fuente": "Elnuevosiglo",
-      "imagen": "",
+      "imagen": "https://www.elnuevosiglo.com.co/sites/default/files/2026-09/vicepresidente%20y%20ministro.png",
       "resumen": "El Gobierno presentó la agenda Misión Crecer para llevar la economía al 6 % con un portafolio de 70 proyectos e inversión de $75 billones.",
       "fecha": "2026-09-29T17:00:00.000Z"
     },
@@ -530,7 +531,7 @@
       "titulo": "Gobierno nacional liderará la primera ‘Milagro Week’ en Nueva York para atraer inversión extranjera con 176 proyectos",
       "link": "https://diariolalibertad.com/2026/09/28/gobierno-nacional-liderara-la-primera-milagro-week-en-nueva-york-para-atraer-inversion-extranjera-con-176-proyectos/",
       "fuente": "Diariolalibertad",
-      "imagen": "",
+      "imagen": "https://diariolalibertad.com/wp-content/uploads/2026/09/7a133e93-ed75-46b7-b7f6-d4b19f2f5c06.webp",
       "resumen": "El vicepresidente José Manuel Restrepo y el ministro de Comercio, Industria y Turismo, Mauricio Gómez Amín, encabezarán la delegación que presentará ante ...",
       "fecha": "2026-09-28T08:36:00.000Z"
     },
@@ -809,6 +810,15 @@
       "sinFoto": true
     },
     {
+      "titulo": "Vicepresidente Restrepo llevó Misión Crecer a 40 líderes en Nueva York",
+      "link": "https://www.corrillos.com.co/vicepresidente-restrepo-llevo-mision-crecer-a-40-lideres-en-nueva-york/",
+      "fuente": "Corrillos",
+      "imagen": "",
+      "resumen": "Misión Crecer llegó a Nueva York de la mano del vicepresidente de la República de Colombia, José Manuel Restrepo Abondano, quien presentó la estrategia ante 40 líderes empresariales. La hoja de ruta ...",
+      "fecha": "2026-09-20T17:00:00.000Z",
+      "sinFoto": true
+    },
+    {
       "titulo": "Qué es la Misión Crecer, tarea que le puso De la Espriella a Restrepo; anuncian primeras acciones",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcGdNWlVMZEZCeWRLSzNHZUN5TjBQMjliMVhqanFwY3ZGU3BfOWhFcmhhOFdtem1nRXVkM2FWaXlFRDZQbGhIYnJuX3NJNmZEUVpVaWt5R0JjLVNucXIwMW5XcVBuQUhqbGFNVUs0aEpnY3p1Q3h5Vklhc251djMtU1RUTVR1bWpTQ3pwT2xVa1NrM3NyQzNFZNIBngFBVV95cUxPMGc0YzFXNUNSMjBCYVFva3N3ZWVBT0lXMEZWX0hJRXItZzJWb1M0dWVfNHpGMmZYVmdPNGxRZlY1d3lMNWQ0SjlJRWRySEw4OGhSV0c5aWRLZlpUWnVRTFh3UmV3TDZKSWFZc2hSWURHc2RqQ1JUYzgzUVhqZGNJVTVHNEdha2pMdEtZUGZIWmtYdGxmOVp3TGE3cVRzdw?oc=5",
       "fuente": "Pulzo",
@@ -1017,7 +1027,7 @@
       "titulo": "‘Milagro Week’: así funcionará la estrategia del Gobierno para atraer inversión y buscar un crecimiento del 6 %",
       "link": "https://www.elcolombiano.com/colombia/milagro-week-estrategia-gobierno-atraer-inversion-crecimiento-6-LJ40948737",
       "fuente": "Elcolombiano",
-      "imagen": "",
+      "imagen": "https://estaticos.elcolombiano.com/binrepository/780x565/-112c0/1004d565/none/11101/AFJL/image-2026-06-16t090708-027-50886933_51586951_20260911114948.webp",
       "resumen": "‘Milagro Week’: así funcionará la estrategia del Gobierno para atraer inversión y buscar un crecimiento del 6 % El Gobierno de Abelardo de la Espriella prepara jornadas de inversión en EE. UU., Europa ...",
       "fecha": "2026-09-11T04:04:00.000Z"
     },
@@ -1027,7 +1037,8 @@
       "fuente": "Caracol Radio",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-10T07:00:00.000Z"
+      "fecha": "2026-09-10T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¿Qué es la ‘Milagro Week’ y por qué el Gobierno quiere llevarla por el mundo?",
@@ -1035,15 +1046,8 @@
       "fuente": "La FM",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-10T07:00:00.000Z"
-    },
-    {
-      "titulo": "¿Qué es 'Milagro Week' y de qué trata la energía nuclear anunciada por el vicepresidente Restrepo?",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaThsRUpWdDFWTFg5SDh6RUw3Z29uZnVkbTBmQU5MR2xRT1V2Z1N0R3J1RHl5QlJoaVRJU0ZPOUFHTGJsQ3p1OXZ3RHpPeDZGbFJzZHBjNVNxVU5yVFY2bTk2VnhiYThob1lWdWJRZ1lkMEQ0QV9BOHRuQ0JYUmdYdEl5MWJqMF9aWHVJUDlzT1ZrUG1MWmdZbC1HV21ONWFuMVpFb2l2LXZKWXFiTmJjNWZqalNzNlk5c0E?oc=5",
-      "fuente": "Minuto60",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-03T07:00:00.000Z"
+      "fecha": "2026-09-10T07:00:00.000Z",
+      "sinFoto": true
     }
   ]
 }
