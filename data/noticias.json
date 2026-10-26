@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-26T11:24:58.482Z",
+  "revisado": "2026-10-26T16:55:17.626Z",
   "noticias": [
     {
       "titulo": "Colombia lleva a Nueva York una cartera de inversión por 75 billones de pesos",
@@ -70,6 +70,14 @@
       "fecha": "2026-10-21T11:20:00.000Z"
     },
     {
+      "titulo": "“Comprometido con la atracción de inversión”: José Manuel Restrepo sobre las \"Milagro Weeks\"",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPby1zSE9QY3NlYkVhQTdkRTZFeUlsUkZ4TkViSTRrSDV1anpQZkt6Zm1LMkw1TkE4Um1IZTl2TjJHY3NlZVFqWlVQTEFaYnpaaXJocFlVOGt6V1hRT1Y1TGZPQVJrb2hKU3RXRTFyOXVTeHk3MjBpS3NGNTd0aWVQVmFpU0NpT3BsblJDVDBUdExLTnI5NXVxcUpGT0VhS29HS0wxbF9fTGFuTjJoeDdEOW13TlZMYzFYRWd5SHlHX0hXYk550gHYAUFVX3lxTFBocjFBdUNSNnljclVIZS1XQTF2R3kxcy1KODFLa3RfUy1yNy1WYTdIXzdjUWFlOFlmYUphQS11RDhoSk9yMDVkOWREMERQYUJSclNlbllSSjdQcFpCYTRscFo3S1JiZEJ4cEwwdHFmR0FiM1ZRZmNBRkJTdHMtQUZ5aWJVYy1uUnpTLXQ1bWpaWHEzOURpUk1rWnV1eURCWWFQNTI5SWgxZFVqeGVGMUJqcmlUOTliNTRMaDUzUUVDMkpucjBzRmwzQkFucUhVTHljMjh4bzVkdQ?oc=5",
+      "fuente": "El Espectador",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-10-21T01:10:00.000Z"
+    },
+    {
       "titulo": "¡Milagro Week! Colombia llevará 86 proyectos por US$56.799 millones a Nueva York",
       "link": "https://www.minuto30.com/milagro-week-nueva-york-86-proyectos/1723163/",
       "fuente": "Minuto30",
@@ -132,7 +140,8 @@
       "fuente": "IFM Noticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-10-18T12:36:12.000Z"
+      "fecha": "2026-10-18T12:36:12.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "La ganadería tiene con qué empujar la 'Misión Crecer' hacia el 6 %: el mensaje de Lafaurie",
@@ -189,7 +198,7 @@
       "titulo": "Milagro Week: Estos son los más de 70 proyectos con los que Gobierno busca atraer inversiones por $75 billones | El Colombiano",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjByODQ3X1k5S01iQ2hCVTFHbGMxTWR6azlJeU0yb3E1Xzl2VTZjcl9ib3VUZ1pWQm5SZXZpR2hDeThuM2FSWkM0eFJsUzVPMTNhSlV3ZjBDN1V3MDg4Yzg1Tk4tWVN5VG10RXZSdWJGS1ZEWVJkejIwcWF6TlZ6N2N6cDNpSzJPWEgzYmg3dklNM0xGd250MTZ6dUFFalFOWEN3bFp30gGrAUFVX3lxTE4xSjBHX0E4UnZ3MEI0WEtjVHR6MGJicWhCdWpDc1lhZzdoM0FPZ3JUYlJVOFVBSkNjbHhDbjYwNl8zcEtmZ3R5UFY5d0NZbGdfakR1OEF1cDIwbFdjcl9hWUZicjhGd09GOWg1em5wcjFidnRBbTRTNkJ4ZDhrODZRSC1mZDFLNU5JLTZITXdrVXVUMG5HQmJZdGhSS1BUMl9DLW1zMGpOalU0MA?oc=5",
       "fuente": "El Colombiano",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.8agkZan363lEZNiAdz7y2g&pid=News",
       "resumen": "",
       "fecha": "2026-10-14T07:00:00.000Z",
       "sinFoto": true
@@ -404,6 +413,14 @@
       "sinFoto": true
     },
     {
+      "titulo": "Gobierno estructura portafolio de 70 proyectos para dinamizar la economía",
+      "link": "https://www.elnuevosiglo.com.co/politica/gobierno-estructura-portafolio-de-70-proyectos-para-dinamizar-la-economia",
+      "fuente": "Elnuevosiglo",
+      "imagen": "",
+      "resumen": "El Gobierno presentó la agenda Misión Crecer para llevar la economía al 6 % con un portafolio de 70 proyectos e inversión de $75 billones.",
+      "fecha": "2026-09-29T17:00:00.000Z"
+    },
+    {
       "titulo": "Qué es la Milagro Week y cómo busca Colombia atraer inversión desde Nueva York",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSmFDa0otN0FHQVFXU3NGUUl1VDA3TGhDNXRxeU5qc0ktZWFwZEhUaEdvNGg0MXktMjMtM2ZDRjA0ZnBpakl3MGR5d0xpMGdQOU1LTm4zbzdjUl9fYUxGUlFxdkN0a29PRTdieTlESlVUWE8zNldEeTJ5WlZiWExHN2tpeE1QNlM4OUgweXFMSDJWR1dQTnZoeWVYU1JIZXVtbVk4RzF30gGrAUFVX3lxTFBjRnhYN2VqZHYwQl9zcHlZUlpBLWZfTlc2VC1TLXB1cEliZnozMVRXZGhqTWxsMUV3VzQ0b0xYQ0Ffb3VFc2EwWUpUVXBmSTNJUGNmZGMyODlhTXV6MTAtME8taWk0ejk0YmdwZUhDZTVJTXNJVEU2NU82SEl2Yi13VGRMVmZjeTNhajdoaGtuR0pfc2NzT3R6RWt2QnFzRnNTMEdaMU5HZUd5OA?oc=5",
       "fuente": "NotiPress",
@@ -508,6 +525,14 @@
       "imagen": "https://diariolalibertad.com/wp-content/uploads/2026/09/BBKDBFWXBBCQPEJJKYYKHDB24E.avif",
       "resumen": "El Gobierno colombiano prepara para noviembre la primera Milagro Week, una estrategia liderada por el vicepresidente José Manuel Restrepo para conectar ...",
       "fecha": "2026-09-28T10:50:00.000Z"
+    },
+    {
+      "titulo": "Gobierno nacional liderará la primera ‘Milagro Week’ en Nueva York para atraer inversión extranjera con 176 proyectos",
+      "link": "https://diariolalibertad.com/2026/09/28/gobierno-nacional-liderara-la-primera-milagro-week-en-nueva-york-para-atraer-inversion-extranjera-con-176-proyectos/",
+      "fuente": "Diariolalibertad",
+      "imagen": "",
+      "resumen": "El vicepresidente José Manuel Restrepo y el ministro de Comercio, Industria y Turismo, Mauricio Gómez Amín, encabezarán la delegación que presentará ante ...",
+      "fecha": "2026-09-28T08:36:00.000Z"
     },
     {
       "titulo": "'Milagro Week' llega a Nueva York el 16 de noviembre para atraer inversión extranjera a Colombia",
@@ -736,7 +761,8 @@
       "fuente": "Facebook",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-26T07:00:00.000Z"
+      "fecha": "2026-09-26T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Misión Crecer lleva las oportunidades de Colombia ante más de 60 inversionistas en Nueva York",
@@ -788,7 +814,8 @@
       "fuente": "Pulzo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-18T07:00:00.000Z"
+      "fecha": "2026-09-18T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "José Manuel Restrepo presentó a Abelardo de la Espriella avances de la Misión Crecer para impulsar el PIB al 6%",
@@ -796,7 +823,8 @@
       "fuente": "IFM Noticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-17T07:00:00.000Z"
+      "fecha": "2026-09-17T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Vicepresidente Restrepo anuncia \"Milagro Week\" en Asia: se sumarán a Europa y América Latina",
@@ -804,7 +832,8 @@
       "fuente": "Valora Analitik",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-17T07:00:00.000Z"
+      "fecha": "2026-09-17T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Vicepresidentes Restrepo anuncia agenda para atraer inversión a Colombia durante la “Milagro Week”",
@@ -812,13 +841,14 @@
       "fuente": "Caracol Radio",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-17T07:00:00.000Z"
+      "fecha": "2026-09-17T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Restrepo presenta a De La Espriella los primeros cuatro frentes para acelerar el crecimiento al 6%",
       "link": "https://www.portafolio.co/economia/gobierno/restrepo-presenta-a-de-la-espriella-los-primeros-cuatro-frentes-para-acelerar-el-crecimiento-al-502703",
       "fuente": "Portafolio",
-      "imagen": "",
+      "imagen": "https://imagenes.portafolio.co/files/image_1200_600/files/fp/uploads/2026/03/12/69b35343e3846.r_d.772-321-0.jpeg",
       "resumen": "El vicepresidente José Manuel Restrepo le entregó al presidente Abelardo De La Espriella el informe de la primera reunión interministerial de la Misión Crecer, la estrategia con la que el Gobierno ...",
       "fecha": "2026-09-16T12:26:00.000Z"
     },
@@ -828,7 +858,8 @@
       "fuente": "Yahoo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-16T07:00:00.000Z"
+      "fecha": "2026-09-16T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Inversión, trámites y empleo: así funcionará la ‘Misión Crecer’ del gobierno colombiano para impulsar la economía",
@@ -836,7 +867,8 @@
       "fuente": "Yahoo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-16T07:00:00.000Z"
+      "fecha": "2026-09-16T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno lanza la Misión CRECER para impulsar el crecimiento económico y coordinar esfuerzos entre sectores en Colombia",
@@ -844,7 +876,8 @@
       "fuente": "Pulzo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-16T07:00:00.000Z"
+      "fecha": "2026-09-16T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Así funcionará la ‘Misión Crecer’ del Gobierno para impulsar la economía",
@@ -852,7 +885,8 @@
       "fuente": "Valora Analitik",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-16T07:00:00.000Z"
+      "fecha": "2026-09-16T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Misión Crecer, Gobierno se propone llevar el PIB al 6 %",
@@ -860,7 +894,8 @@
       "fuente": "Ámbito Jurídico",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Misión Crecer: la hoja de ruta del Gobierno De la Espriella para acelerar el PIB de Colombia al 6 %",
@@ -868,7 +903,8 @@
       "fuente": "ABC Economía",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Misión Crecer: La estrategia con la que el Gobierno busca que la economía crezca al menos 6 %",
@@ -876,7 +912,8 @@
       "fuente": "La FM",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Vicepresidente Restrepo explicó los cuatro ejes de ‘Misión Crecer’ para atraer inversión a Colombia",
@@ -884,7 +921,8 @@
       "fuente": "Caracol Radio",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno anunció “Misión Crecer” con meta de llevar la economía colombiana a un crecimiento del 6%",
@@ -892,7 +930,8 @@
       "fuente": "IFM Noticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno convoca gabinete clave para impulsar la “Misión Crecer” y definir hoja de ruta económica de Colombia",
@@ -900,7 +939,8 @@
       "fuente": "Pulzo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Vicepresidente articula ministerios clave para construir la Misión Crecer hacia la meta del 6%",
@@ -908,7 +948,8 @@
       "fuente": "ELHERALDO.CO",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "PIB: Vicepresidente José Manuel Restrepo lanza plan para crecer al 6% basado en inversión nacional y extranjera",
@@ -916,7 +957,8 @@
       "fuente": "Portafolio.co",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-15T07:00:00.000Z"
+      "fecha": "2026-09-15T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Qué es ‘Milagro Week’, la estrategia que propuso el gobierno de Abelardo de la Espriella para impulsar la economía",
@@ -924,7 +966,8 @@
       "fuente": "Infobae",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z"
+      "fecha": "2026-09-11T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "‘Semana Milagro’: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6% anual",
@@ -932,7 +975,8 @@
       "fuente": "Portafolio.co",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z"
+      "fecha": "2026-09-11T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: qué es y cómo el Gobierno de De la Espriella busca un crecimiento del 6 por ciento",
@@ -940,7 +984,8 @@
       "fuente": "CAMBIO Colombia",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z"
+      "fecha": "2026-09-11T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno de Abelardo de la Espriella lanza la ‘Milagro Week’ para atraer inversión a Colombia",
@@ -948,7 +993,8 @@
       "fuente": "La Opinión Cúcuta",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z"
+      "fecha": "2026-09-11T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno impulsa la estrategia \"Milagro Week\" para atraer inversión extranjera y reactivar la economía",
@@ -956,13 +1002,14 @@
       "fuente": "cablenoticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z"
+      "fecha": "2026-09-11T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¿Qué es la Milagro Week, la estrategia con la que el Gobierno viajará por el mundo buscando alianzas y un crecimiento de la economía del 6 por ciento?",
       "link": "https://cambiocolombia.com/poder/articulo/2026/9/que-es-la-milagro-week-la-estrategia-con-la-que-el-gobierno-viajara-por-el-mundo-buscando-alianzas-y-un-crecimiento-de-la-economia-del-6-por-ciento",
       "fuente": "Cambiocolombia",
-      "imagen": "",
+      "imagen": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/credito_twitter_abelardo_2_1e03abedc1_full-width.webp",
       "resumen": "El Gobierno de Abelardo de la Espriella creó una estrategia para salir a buscar inversión por el mundo y acelerar el crecimiento de la economía. Se llama Semana Milagro, o Milagro Week, y quedó ...",
       "fecha": "2026-09-11T05:18:00.000Z"
     },
