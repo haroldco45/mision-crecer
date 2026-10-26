@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-26T11:17:22.877Z",
+  "revisado": "2026-10-26T11:24:58.482Z",
   "noticias": [
     {
       "titulo": "Colombia lleva a Nueva York una cartera de inversión por 75 billones de pesos",
@@ -125,6 +125,14 @@
       "resumen": "",
       "fecha": "2026-10-19T13:49:11.000Z",
       "sinFoto": true
+    },
+    {
+      "titulo": "(OPINIÓN) Misión Crecer: la oportunidad está en el campo. Por: José Félix Lafaurie",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFc5Mm1SRUt1WlR6OXdYWDBvTHZEOHJsellUZkptSDZYN0JpN3g2dHF2SmV2UmcxZG56ZFdocDFaZ2FFRzdQWjUtUGFNNDJyRU1feDBJekQzbjdzNzlkU0kxOUxLdU5yUmdDeXhpcXRvSWZiaWI3bFhmVU1hV1dxdU9mOEktQk9HenRQVXhIcko2MVI1X25NRU5udTBrSjRYZ3hLcjZ1djhvb0pLQWJz?oc=5",
+      "fuente": "IFM Noticias",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-10-18T12:36:12.000Z"
     },
     {
       "titulo": "La ganadería tiene con qué empujar la 'Misión Crecer' hacia el 6 %: el mensaje de Lafaurie",
@@ -302,7 +310,7 @@
       "titulo": "Misión crecer",
       "link": "https://www.larepublica.co/analisis/jorge-ivan-gonzalez-506394/mision-crecer-4499597",
       "fuente": "Larepublica",
-      "imagen": "",
+      "imagen": "https://img.lalr.co/cms/2017/06/16111959/Jorge-Ivan-Gonzalez-2-1.jpg?size=xl&ratio=rr16_9",
       "resumen": "La Misión Crecer, coordinada por el vicepresidente, tiene el propósito de lograr que la economía se expanda a 6%. Este objetivo es sumamente ambicioso. En el último Marco Fiscal de Mediano Plazo se ...",
       "fecha": "2026-10-08T22:02:00.000Z"
     },
@@ -328,7 +336,7 @@
       "titulo": "José Manuel Restrepo impulsa agenda de inversión entre Colombia y Venezuela",
       "link": "https://www.larepublica.co/economia/jose-manuel-restrepo-impulsa-agenda-de-inversion-entre-colombia-y-venezuela-4494249",
       "fuente": "Larepublica",
-      "imagen": "",
+      "imagen": "https://img.lalr.co/cms/2026/10/01064901/WhatsApp-Image-2026-10-01-at-6.23.33-AM.jpg?size=xl&ratio=r40_21",
       "resumen": "La iniciativa hace parte de \"Misión Crecer\", que se inició con el propósito de atraer la inversión y entrada de capitales al país ...",
       "fecha": "2026-10-01T04:56:00.000Z"
     },
@@ -507,7 +515,8 @@
       "fuente": "Msn",
       "imagen": "",
       "resumen": "El anuncio lo hizo el vicepresidente José Manuel Restrepo y el ministro de Comercio, Mauricio Gómez Amín.",
-      "fecha": "2026-09-28T08:34:36.000Z"
+      "fecha": "2026-09-28T08:34:36.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "‘Milagro Week’: Gobierno De la Espriella llevará a Nueva York un portafolio de 75 billones para buscar inversión",
@@ -550,7 +559,8 @@
       "fuente": "El Colombiano",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Colombia, lista para su primera ‘Milagro Week’ en Nueva York, presidida por el vicepresidente José Manuel Restrepo: ¿de qué se trata?",
@@ -558,7 +568,8 @@
       "fuente": "Revista Semana",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "El 16 de noviembre tendrá lugar la primera Milagro Week, encuentro de Colombia con inversionistas del mundo",
@@ -566,7 +577,8 @@
       "fuente": "Valora Analitik",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "La primera Milagro Week buscará capital en Nueva York para 176 proyectos del país",
@@ -574,7 +586,8 @@
       "fuente": "ABC Economía",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¿Qué es la Milagro Week y qué busca Colombia en Nueva York?",
@@ -582,7 +595,8 @@
       "fuente": "Kienyke",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "\"Milagro week\", asamblea general de la ONU y reuniones con privados marcan la agenda del gobierno en Nueva York",
@@ -590,7 +604,8 @@
       "fuente": "Forbes Colombia",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno presentará 176 proyectos estratégicos durante la Milagro Week",
@@ -598,7 +613,8 @@
       "fuente": "La Opinión Cúcuta",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week - Infobae",
@@ -606,7 +622,8 @@
       "fuente": "Infobae",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "La “MilagroWeek” del gobierno para atraer inversión será en Nueva York",
@@ -614,7 +631,8 @@
       "fuente": "La Silla Vacía",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno realizará en Nueva York la primera Milagro Week para atraer inversión internacional",
@@ -622,7 +640,8 @@
       "fuente": "Agencia de Periodismo Investigativo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: así buscará Colombia nuevos inversionistas en Nueva York",
@@ -630,7 +649,8 @@
       "fuente": "Vanguardia",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: fecha y sede de la cita con inversionistas",
@@ -638,7 +658,8 @@
       "fuente": "cablenoticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Colombia está lista para su primera Milagro Week: llevará a Nueva York su portafolio de proyectos para atraer inversión internacional – ALTERNATIVACARIBE",
@@ -646,7 +667,8 @@
       "fuente": "Alternativa Caribe",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Así será la primera “Milagro Week” con la que el Gobierno busca atraer inversión al país",
@@ -654,7 +676,8 @@
       "fuente": "Seguimiento.co",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Arrancan las \"Milagro Weeks\" lideradas por José Manuel Restrepo: así funcionarán",
@@ -662,13 +685,14 @@
       "fuente": "El Espectador",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z"
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Así será la ‘Milagro Week’ del gobierno de Abelardo de la Espriella en Nueva York: presentará 176 proyectos para atraer inversión",
       "link": "https://www.infobae.com/colombia/2026/09/28/asi-sera-la-milagro-week-del-gobierno-de-abelardo-de-la-espriella-en-nueva-york-presentara-176-proyectos-para-atraer-inversion/",
       "fuente": "Infobae",
-      "imagen": "",
+      "imagen": "https://www.infobae.com/resizer/v2/S62RUK2OKRGNHGDSUT4JRBG3GQ.jpeg?auth=7494476488981507f2af249f0a0cf373becb1d26c67db1b2455a401126ce9643&smart=true&width=1024&height=512&quality=85",
       "resumen": "La estrategia del Gobierno apunta a conectar iniciativas de infraestructura, energía, turismo y tecnología con empresarios, fondos e inversionistas internacionales que puedan aportar recursos para su ...",
       "fecha": "2026-09-28T04:32:00.000Z"
     },
@@ -676,7 +700,7 @@
       "titulo": "Milagro Week en Nueva York: Colombia busca convertir interés internacional en inversión y empleo",
       "link": "https://www.lafm.com.co/politica/colombia-busca-inversion-en-nueva-york-presentan-proyectos-prioritarios-412280",
       "fuente": "Lafm",
-      "imagen": "",
+      "imagen": "https://files.lafm.com.co/media/news-images/2026/09/28/173929/milagro-week-nueva-york-1200x675.jpg?w=1280",
       "resumen": "La Vicepresidencia ha dado a conocer los 176 proyectos que expondrá, en donde darán prioridad a los sectores de infraestructura, energía, minerales ...",
       "fecha": "2026-09-28T03:26:00.000Z"
     },
@@ -684,7 +708,7 @@
       "titulo": "El plan de José Manuel Restrepo para atraer grandes fondos internacionales: proyecta llegada de inversiones tras reuniones",
       "link": "https://www.infobae.com/colombia/2026/09/26/el-plan-de-jose-manuel-restrepo-para-atraer-grandes-fondos-internacionales-proyecta-atraccion-de-inversiones-tras-reuniones/",
       "fuente": "Infobae",
-      "imagen": "",
+      "imagen": "https://www.infobae.com/resizer/v2/Z5ZQS7K4T5CURHWL3QUBRVKYK4.JPG?auth=361bddcfda0f119718ef03ba3b477a175c664cdb1f59d7640eb246e5549b04aa&smart=true&width=1024&height=512&quality=85",
       "resumen": "El vicepresidente de la República señaló que la meta oficial es que la economía colombiana crezca 6%, dentro de la denominada misión Crecer ...",
       "fecha": "2026-09-26T07:02:00.000Z"
     },
@@ -694,12 +718,22 @@
       "fuente": "Canal 1 En vivo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-26T07:00:00.000Z"
+      "fecha": "2026-09-26T07:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno de Colombia en New York logra atraer inversión extranjera: anuncian promoción Milagro Week",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOekVvUTBKZ0MtcXNvSTdfeS1rby1RQ2hZc3VSTFB2ZmFQOVB3RlJFdGVpaWlydVpfUy1TdU9ycVZCSXBneHROUk5PWXJwOUFwX0RfOHdraFRwUHNoN3BZNmRuT25Eb04zZXYwM2tSNmM2bnpOeWVsMF81S1BYUWE2aVNRaHZHbU12ekEydlRGRFpHZWZUOGhEc1JLQzVLNFo4OFEwaXh6V0M5STM0S25BLUZfTC0wN0Z1amhHWXplQdIB0wFBVV95cUxOdnRKbXBMakJla0tZaFJWUVNaa0E2UTFkcXI5Q1BkQzNranUzeTc2cjl0VmhUZFYzc1diM2hxdzFEZG9SODRXZVFKcHJEQ2k4eU5TcmwteVRwbHJQak1SREljMDN6ajJObjZPczViZWlVdERHaUM4ME1INGtTNWJYN190TmRkWDh4SWFpMGVuVTZmTHU4eXFxRExibXlqYkhsSWZYM2FEVXN4LXdEcl9xMThxcy0yRXVFQnRwdUNxLVVwaklPOEhXZURRWXc2RG1OcWRz?oc=5",
       "fuente": "Caracol Radio",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-09-26T07:00:00.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "El vicepresidente de la República señaló que a meta oficial es que la economía colombiana crezca 6%, dentro de la denominada misión Crecer",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOS29GdTJTYnBOUk5FZTZfaFFETWRMNVJkZUg3eEEyTVFTMTBwSzFIZ09oVnJqR1hzeUVXbVV0V1NicE81VWtpWklSYWV3MFBJUEhWOXFSSFdVczNVd3dDbDk0Y0JIUmFwRmdzaGN2TU9VQWctMFB5RTM5aUUzWmJpZThyUGdadHpVdGE0Q3J2WHN2eG03UEpnNjRlZ3Zyc1c2M0dwMHhuU0RUNnB0dUVSS1JxZ0Q0NUVsQkNobUNzazU4TlVhTnlOUE1Yak90WXdLLVRlaFIzU2xDUlFPb0o0TUpIUEYzS0oxWk5KOGg5QXhQTTFxOVNLXw?oc=5",
+      "fuente": "Facebook",
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-26T07:00:00.000Z"
@@ -710,13 +744,14 @@
       "fuente": "Chica Noticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-09-21T21:11:30.000Z"
+      "fecha": "2026-09-21T21:11:30.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Vicepresidente presenta ante 40 empresarios de EE. UU. la ruta de inversión de la Misión Crecer",
       "link": "https://www.elheraldo.co/colombia/2026/09/21/vicepresidente-presenta-ante-40-empresarios-de-ee-uu-la-ruta-de-inversion-de-la-mision-crecer/",
       "fuente": "Elheraldo",
-      "imagen": "",
+      "imagen": "https://www.elheraldo.co/resizer/v2/XIEIWIBLMRGHFENLIQ2UEYRSOY.jpeg?smart=true&auth=3eda0ae2b6b2ab22ed56e55925442600b5398a5d4e729624572e29305f9f2a2d&width=1200&height=675",
       "resumen": "El vicepresidente José Manuel Restrepo presentó este lunes en Nueva York la Misión Crecer con la hoja de ruta de Colombia para atraer inversión ante 40 empresarios de los Estados Unidos.",
       "fecha": "2026-09-21T08:32:00.000Z"
     },
@@ -778,6 +813,14 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-17T07:00:00.000Z"
+    },
+    {
+      "titulo": "Restrepo presenta a De La Espriella los primeros cuatro frentes para acelerar el crecimiento al 6%",
+      "link": "https://www.portafolio.co/economia/gobierno/restrepo-presenta-a-de-la-espriella-los-primeros-cuatro-frentes-para-acelerar-el-crecimiento-al-502703",
+      "fuente": "Portafolio",
+      "imagen": "",
+      "resumen": "El vicepresidente José Manuel Restrepo le entregó al presidente Abelardo De La Espriella el informe de la primera reunión interministerial de la Misión Crecer, la estrategia con la que el Gobierno ...",
+      "fecha": "2026-09-16T12:26:00.000Z"
     },
     {
       "titulo": "Colombia pone en marcha Misión Crecer para llevar el PIB al 6%, ¿qué países latinos crecen a ese ritmo?",
