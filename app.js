@@ -166,7 +166,7 @@ function parseRss(xml, fuenteDefault) {
     if (imagen && !/^https?:/.test(imagen)) imagen = '';
     const resumen = g('description').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
     const fecha = new Date(g('pubDate') || Date.now()).toISOString();
-    return { titulo, link, fuente: fuente === 'Google' ? '' : fuente, imagen, resumen: fuenteDefault === 'Google' ? '' : resumen, fecha };
+    return { titulo, link, fuente: fuente === 'Google' ? '' : (fuente === 'Bing' ? (()=>{ try { return new URL(link).hostname.replace(/^www\./,'').split('.')[0].replace(/^./,c=>c.toUpperCase()); } catch(e){ return ''; } })() : fuente), imagen, resumen: fuenteDefault === 'Google' ? '' : resumen, fecha };
   }).filter(n => RELEVANT.test(n.titulo + ' ' + n.resumen));
 }
 

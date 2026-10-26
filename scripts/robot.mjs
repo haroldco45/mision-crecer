@@ -10,7 +10,8 @@ const UA = 'Mozilla/5.0 (compatible; MisionCrecerBot/1.0; +https://vibraspositiv
 const MAX = 120;
 
 const keyOf = t => (t || '').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9 ]/g, '').replace(/\s+/g, ' ').trim().slice(0, 70);
-const decode = s => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").trim();
+const decode = s => (s || '').replace(/<!\[CDATA\[|\]\]>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&quot;/g, '"').replace(/&#39;|&apos;/g, "'").replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16))).replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(+n)).trim();
+const medio = u => { try { return new URL(u).hostname.replace(/^www\./, '').split('.')[0].replace(/^./, c => c.toUpperCase()); } catch { return ''; } };
 const tag = (xml, t) => { const m = xml.match(new RegExp(`<${t}[^>]*>([\\s\\S]*?)</${t}>`, 'i')); return m ? decode(m[1]) : ''; };
 
 async function get(url, ms = 10000) {
@@ -29,6 +30,7 @@ function parse(xml, origen) {
     let imagen = tag(it, 'News:Image');
     if (!/^https?:/.test(imagen)) imagen = '';
     const pub = new Date(tag(it, 'pubDate') || Date.now());
+    if (!fuente && origen === 'bing') fuente = medio(link);
     return { titulo, link, fuente, imagen, resumen, fecha: isNaN(pub) ? new Date().toISOString() : pub.toISOString() };
   }).filter(n => n.titulo && n.link && RELEVANT.test(n.titulo + ' ' + n.resumen));
 }
@@ -42,6 +44,7 @@ async function ogImage(url) {
 }
 
 const actual = JSON.parse(await readFile(FILE, 'utf8').catch(() => '{"noticias":[]}'));
+for (const n of actual.noticias) { n.titulo = decode(n.titulo); n.resumen = decode(n.resumen); if (!n.fuente && !/news\.google/.test(n.link)) n.fuente = medio(n.link); }
 const mapa = new Map(actual.noticias.map(n => [keyOf(n.titulo), n]));
 const antes = mapa.size;
 
