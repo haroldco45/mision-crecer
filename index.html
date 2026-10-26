@@ -1,0 +1,345 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Misión Crecer al Día</title>
+<meta name="description" content="Seguimiento ciudadano a la Misión Crecer del Gobierno: meta del 6 %, Milagro Week en Nueva York y los proyectos que buscan inversión. Por Vibras Positivas HM.">
+<meta name="theme-color" content="#08160f">
+<meta property="og:title" content="Misión Crecer al Día">
+<meta property="og:description" content="La meta es crecer al 6 %. Aquí seguimos qué se anuncia, qué se cumple y qué llega de verdad.">
+<meta property="og:image" content="https://imagenes.portafolio.co/files/image_1200_600/files/fp/uploads/2026/10/19/6ad648a90bab4.r_d.688-196-0.jpeg">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icon-512.png">
+<link rel="apple-touch-icon" href="icon-512.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,800&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#08160f; --bg2:#0e2219; --card:#122a1f; --line:#23463536;
+  --txt:#eef6f0; --mut:#9fb9aa; --leaf:#34d27b; --gold:#f5c84c; --berry:#6a6ff0; --red:#ff6b5a;
+  --r:18px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--txt);font-family:Inter,system-ui,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit}
+h1,h2,h3{font-family:"Bricolage Grotesque",Inter,sans-serif;letter-spacing:-.02em;line-height:1.1}
+.wrap{max-width:1100px;margin:0 auto;padding:0 16px}
+
+/* Barra superior */
+.top{position:sticky;top:0;z-index:50;background:rgba(8,22,15,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.top .wrap{display:flex;align-items:center;gap:12px;height:58px}
+.brand{font-family:"Bricolage Grotesque";font-weight:800;font-size:18px;flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand b{color:var(--leaf)}
+.live{display:inline-flex;align-items:center;gap:6px;font-size:11px;font-weight:700;letter-spacing:.08em;color:var(--leaf);text-transform:uppercase}
+.live i{width:8px;height:8px;border-radius:50%;background:var(--leaf);box-shadow:0 0 0 0 var(--leaf);animation:pulse 1.6s infinite}
+@keyframes pulse{0%{box-shadow:0 0 0 0 #34d27b99}70%{box-shadow:0 0 0 10px #34d27b00}100%{box-shadow:0 0 0 0 #34d27b00}}
+.btn{border:0;cursor:pointer;font:700 14px Inter;border-radius:999px;padding:10px 16px;background:var(--leaf);color:#04210f;transition:transform .15s,filter .15s}
+.btn:active{transform:scale(.96)}
+.btn.ghost{background:transparent;color:var(--txt);border:1.5px solid #ffffff33}
+.btn.spin{filter:saturate(.4)}
+
+/* Ticker */
+.ticker{background:var(--gold);color:#1b1500;overflow:hidden;white-space:nowrap;font-weight:700;font-size:14px}
+.ticker .row{display:inline-block;padding:9px 0;animation:mq 60s linear infinite}
+.ticker span{margin:0 28px}
+.ticker span::before{content:"";display:inline-block;width:7px;height:7px;background:#1b1500;border-radius:50%;margin-right:10px;vertical-align:2px}
+@keyframes mq{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+
+/* Hero */
+.hero{position:relative;min-height:88vh;display:flex;align-items:flex-end;overflow:hidden}
+.hero .bg{position:absolute;inset:0;background:#0e2219 center/cover no-repeat;animation:kb 26s ease-in-out infinite alternate;transition:background-image 1.2s}
+@keyframes kb{from{transform:scale(1.05)}to{transform:scale(1.18) translate(-2%,-2%)}}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#08160f33 0%,#08160fcc 55%,#08160f 100%)}
+.hero .wrap{position:relative;z-index:2;padding-bottom:40px;padding-top:120px}
+.kicker{display:inline-block;background:#ffffff1a;border:1px solid #ffffff33;padding:6px 12px;border-radius:999px;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase}
+.hero h1{font-size:clamp(40px,9vw,92px);font-weight:800;margin:14px 0 10px}
+.hero h1 em{font-style:normal;color:var(--gold)}
+.hero p.lead{font-size:clamp(16px,2.4vw,20px);color:#dfeee5;max-width:640px}
+.count{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;max-width:520px;margin:24px 0 8px}
+.count div{background:#ffffff14;border:1px solid #ffffff26;border-radius:14px;padding:12px 6px;text-align:center;backdrop-filter:blur(6px)}
+.count b{display:block;font:800 clamp(26px,6vw,40px) "Bricolage Grotesque";font-variant-numeric:tabular-nums}
+.count small{font-size:11px;color:var(--mut);text-transform:uppercase;letter-spacing:.08em}
+.count-cap{font-size:13px;color:var(--mut)}
+
+/* Medidor 6 % */
+.meter{margin-top:26px;max-width:620px}
+.meter .bar{height:14px;background:#ffffff1a;border-radius:99px;overflow:hidden;position:relative}
+.meter .fill{height:100%;width:0;background:linear-gradient(90deg,var(--leaf),var(--gold));border-radius:99px;transition:width 2.4s cubic-bezier(.2,.8,.2,1)}
+.meter .labels{display:flex;justify-content:space-between;font-size:12px;color:var(--mut);margin-top:6px}
+
+section{padding:64px 0}
+.sec-h{display:flex;align-items:end;justify-content:space-between;gap:12px;margin-bottom:22px;flex-wrap:wrap}
+.sec-h h2{font-size:clamp(28px,5vw,44px);font-weight:800}
+.sec-h p{color:var(--mut);max-width:520px}
+.tag{font-size:12px;font-weight:700;letter-spacing:.1em;text-transform:uppercase;color:var(--leaf);margin-bottom:6px;display:block}
+
+/* Hoy */
+#hoy{background:linear-gradient(180deg,var(--bg) 0%,var(--bg2) 100%)}
+.today-date{font:800 clamp(20px,3vw,26px) "Bricolage Grotesque";color:var(--gold)}
+.today-empty{background:var(--card);border-radius:var(--r);padding:18px;color:var(--mut);margin-bottom:14px;border-left:4px solid var(--gold)}
+
+/* Tarjetas de noticias */
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px}
+.news{background:var(--card);border-radius:var(--r);overflow:hidden;display:flex;flex-direction:column;text-decoration:none;transition:transform .25s,box-shadow .25s;opacity:0;transform:translateY(18px)}
+.news.in{opacity:1;transform:none;transition:opacity .6s,transform .6s}
+.news:hover{transform:translateY(-4px);box-shadow:0 14px 40px #0008}
+.news .ph{aspect-ratio:16/9;background:linear-gradient(135deg,#1a3d2c,#0f251b);position:relative;overflow:hidden}
+.news .ph img{width:100%;height:100%;object-fit:cover;transition:transform .8s}
+.news:hover .ph img{transform:scale(1.07)}
+.news .ph .src{position:absolute;left:10px;bottom:10px;background:#000a;padding:4px 10px;border-radius:99px;font-size:12px;font-weight:700}
+.news .ph .new{position:absolute;right:10px;top:10px;background:var(--red);padding:4px 10px;border-radius:99px;font-size:11px;font-weight:800;letter-spacing:.06em}
+.news .ph .noimg{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;padding:18px;font:800 22px "Bricolage Grotesque";color:#ffffff22;text-align:center}
+.news .bd{padding:14px 16px 18px;display:flex;flex-direction:column;gap:8px;flex:1}
+.news h3{font-size:18px;font-weight:800}
+.news .meta{font-size:12px;color:var(--mut);margin-top:auto}
+.news.big{grid-column:1/-1}
+@media(min-width:760px){.news.big{flex-direction:row}.news.big .ph{flex:1.3;aspect-ratio:auto;min-height:320px}.news.big .bd{flex:1;padding:28px}.news.big h3{font-size:28px}}
+
+/* Cifras */
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:14px}
+.stat{background:var(--card);border-radius:var(--r);padding:22px;position:relative;overflow:hidden}
+.stat::before{content:"";position:absolute;width:140px;height:140px;border-radius:50%;right:-50px;top:-50px;background:radial-gradient(var(--leaf),transparent 70%);opacity:.18}
+.stat b{display:block;font:800 clamp(34px,6vw,50px) "Bricolage Grotesque";color:var(--gold);font-variant-numeric:tabular-nums}
+.stat span{color:#d5e6db;font-size:14px}
+.stat small{display:block;color:var(--mut);font-size:12px;margin-top:8px}
+
+.moves{margin-top:26px;background:var(--card);border-radius:var(--r);padding:22px}
+.moves h3{font-size:22px;margin-bottom:6px}
+.moves p{color:var(--mut);font-size:14px;margin-bottom:14px}
+.mv{display:grid;grid-template-columns:110px 1fr;gap:12px;padding:12px 0;border-top:1px solid #ffffff12}
+.mv time{font-weight:700;color:var(--leaf);font-size:14px}
+.mv div{font-size:15px}
+.mv a{color:var(--mut);font-size:12px}
+
+/* Motores */
+.motors{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:14px}
+.motor{border-radius:var(--r);padding:22px;min-height:190px;display:flex;flex-direction:column;justify-content:space-between;color:#08160f;transition:transform .3s}
+.motor:hover{transform:rotate(-1.5deg) scale(1.02)}
+.motor .n{font:800 56px "Bricolage Grotesque";opacity:.25;line-height:1}
+.motor h3{font-size:24px}
+.motor p{font-size:14px;opacity:.85}
+.m1{background:var(--leaf)}.m2{background:var(--gold)}.m3{background:#ff9a5a}.m4{background:#8f93ff}.m5{background:#5ad6d0}
+
+/* Vitrina */
+.show{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
+.pj{position:relative;border-radius:var(--r);overflow:hidden;min-height:380px;display:flex;align-items:flex-end;background:#132c20}
+.pj img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;transition:transform 1s}
+.pj:hover img{transform:scale(1.06)}
+.pj::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,transparent 30%,#08160ff2 85%)}
+.pj .in{position:relative;z-index:2;padding:22px}
+.pj h3{font-size:26px;margin:6px 0}
+.pj p{font-size:14px;color:#d6e7dc}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.chip{background:#ffffff1f;border:1px solid #ffffff30;border-radius:99px;padding:5px 12px;font-size:13px;font-weight:700}
+.pj.solid{background:linear-gradient(140deg,#3b2a6e,#1d1240)}
+.pj.solid::after{background:none}
+
+/* Línea de tiempo */
+.tl{position:relative;padding-left:28px}
+.tl::before{content:"";position:absolute;left:8px;top:6px;bottom:6px;width:3px;background:linear-gradient(var(--leaf),var(--gold));border-radius:3px}
+.ev{position:relative;padding:0 0 26px}
+.ev::before{content:"";position:absolute;left:-26px;top:6px;width:15px;height:15px;border-radius:50%;background:var(--bg);border:3px solid var(--leaf)}
+.ev.future::before{border-color:var(--gold);animation:pulse 1.6s infinite}
+.ev time{font-weight:800;color:var(--leaf);font-size:14px}
+.ev.future time{color:var(--gold)}
+.ev h3{font-size:19px;margin:2px 0 4px}
+.ev p{color:var(--mut);font-size:14px}
+
+/* Vigilar */
+.watch{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+.w{background:var(--card);border-radius:var(--r);padding:20px;border-top:4px solid var(--gold)}
+.w h3{font-size:19px;margin-bottom:6px}
+.w p{color:var(--mut);font-size:14px}
+.w .st{display:inline-block;margin-top:12px;font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;padding:4px 10px;border-radius:99px;background:#f5c84c22;color:var(--gold)}
+
+/* Buscador */
+.search{display:flex;gap:10px;margin-bottom:18px;flex-wrap:wrap}
+.search input{flex:1;min-width:200px;background:var(--card);border:1.5px solid #ffffff22;color:var(--txt);border-radius:999px;padding:13px 18px;font:500 15px Inter;outline:none}
+.search input:focus{border-color:var(--leaf)}
+.status{font-size:13px;color:var(--mut);margin-bottom:14px;min-height:20px}
+.more{display:block;margin:22px auto 0}
+
+footer{padding:40px 0 60px;border-top:1px solid #ffffff12;color:var(--mut);font-size:14px}
+footer b{color:var(--txt)}
+footer a{color:var(--leaf)}
+
+.reveal{opacity:0;transform:translateY(24px);transition:opacity .8s,transform .8s}
+.reveal.in{opacity:1;transform:none}
+.toast{position:fixed;left:50%;bottom:22px;transform:translateX(-50%) translateY(120px);background:var(--leaf);color:#04210f;font-weight:800;padding:12px 20px;border-radius:99px;z-index:99;transition:transform .4s;max-width:90vw;text-align:center}
+.toast.show{transform:translateX(-50%) translateY(0)}
+@media(max-width:520px){.count{gap:6px}.mv{grid-template-columns:1fr;gap:2px}.top .live{display:none}}
+</style>
+</head>
+<body>
+
+<header class="top">
+  <div class="wrap">
+    <div class="brand">Misión Crecer <b>al Día</b></div>
+    <span class="live"><i></i> En vivo</span>
+    <button class="btn" id="refresh">Actualizar</button>
+  </div>
+</header>
+
+<div class="ticker" aria-hidden="true"><div class="row" id="ticker"><span>Cargando lo último de la Misión Crecer</span></div></div>
+
+<section class="hero" style="padding:0">
+  <div class="bg" id="heroBg"></div>
+  <div class="wrap">
+    <span class="kicker">Seguimiento ciudadano · Vibras Positivas HM</span>
+    <h1>La meta: crecer al <em>6 %</em></h1>
+    <p class="lead">La Misión Crecer es la hoja de ruta que el presidente le encargó al vicepresidente José Manuel Restrepo para que la economía crezca 6 % al año. Aquí anotamos lo que se anuncia, lo que se cumple y la plata que llega de verdad.</p>
+    <div class="count" id="count">
+      <div><b id="cd-d">--</b><small>Días</small></div>
+      <div><b id="cd-h">--</b><small>Horas</small></div>
+      <div><b id="cd-m">--</b><small>Min</small></div>
+      <div><b id="cd-s">--</b><small>Seg</small></div>
+    </div>
+    <p class="count-cap" id="countCap">para la Milagro Week en Nueva York (16 al 19 de noviembre de 2026)</p>
+    <div class="meter">
+      <div class="bar"><div class="fill" id="fill"></div></div>
+      <div class="labels"><span>0 %</span><span>Meta del Gobierno: 6 % anual</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="hoy">
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">Hoy</span><h2 class="today-date" id="todayDate">Hoy</h2></div>
+      <p id="todayInfo">Lo nuevo de las últimas 24 horas. Se revisa cada vez que entras.</p>
+    </div>
+    <div id="todayBox"></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">Las cifras</span><h2>Lo que se ha anunciado</h2></div>
+      <p>Datos que ha dado la Vicepresidencia. Son metas y portafolios, no plata que ya llegó.</p>
+    </div>
+    <div class="stats reveal">
+      <div class="stat"><b data-to="6" data-suf=" %">0</b><span>Meta de crecimiento anual del PIB</span><small>Encargo del presidente al vicepresidente</small></div>
+      <div class="stat"><b data-to="133">0</b><span>Proyectos en el portafolio</span><small>Anunciado el 19 de octubre en Reinventando Colombia 2030</small></div>
+      <div class="stat"><b data-to="120324" data-pre="US$" data-suf=" M">0</b><span>Valor de todo el portafolio</span><small>Millones de dólares, según la Vicepresidencia</small></div>
+      <div class="stat"><b data-to="86">0</b><span>Priorizados para las Milagro Weeks</span><small>Por US$56.799 millones</small></div>
+      <div class="stat"><b data-to="53">0</b><span>Listos para rondas de inversión</span><small>Proyectos preparados para buscar financiación</small></div>
+    </div>
+    <div class="moves reveal">
+      <h3>La cifra se mueve</h3>
+      <p>El portafolio ha cambiado de tamaño en cada anuncio. Lo vamos anotando para que nadie se pierda.</p>
+      <div class="mv"><time>Fin de sep.</time><div>176 proyectos, 37 de ellos prioritarios. <a href="https://laopinion.co/economia/gobierno-anuncio-la-milagro-week-en-noviembre-para-atraer-inversion-internacional" target="_blank" rel="noopener">La Opinión</a></div></div>
+      <div class="mv"><time>Mediados oct.</time><div>Primer portafolio Patria Milagro con más de 70 proyectos estratégicos, por unos $75 billones. <a href="https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-milagro-week-los-sectores-donde-buscara-inversiones-por-75-billones/" target="_blank" rel="noopener">Valora Analitik</a></div></div>
+      <div class="mv"><time>19 oct.</time><div>133 proyectos por US$120.324 millones; 86 priorizados por US$56.799 millones. <a href="https://www.portafolio.co/economia/gobierno/vicepresidente-presenta-133-proyectos-por-us-120-324-millones-para-atraer-inversiones-a-colombia-504715" target="_blank" rel="noopener">Portafolio</a></div></div>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--bg2)">
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">Cómo piensan lograrlo</span><h2>Los cinco motores</h2></div>
+      <p>Así resumió el vicepresidente la agenda de la Misión Crecer.</p>
+    </div>
+    <div class="motors reveal">
+      <div class="motor m1"><span class="n">01</span><div><h3>Talento</h3><p>Formación en inteligencia artificial y habilidades digitales con Talento ColombIA.</p></div></div>
+      <div class="motor m2"><span class="n">02</span><div><h3>Modernizar el Estado</h3><p>Menos trámites y menos trabas para que la inversión llegue.</p></div></div>
+      <div class="motor m3"><span class="n">03</span><div><h3>Energía</h3><p>Proyectos energéticos para sostener una economía que crezca.</p></div></div>
+      <div class="motor m4"><span class="n">04</span><div><h3>Inversión</h3><p>Milagro Weeks y banco de proyectos para atraer capital extranjero.</p></div></div>
+      <div class="motor m5"><span class="n">05</span><div><h3>Financiamiento</h3><p>Rondas de financiación y más uso del ahorro nacional.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">En vitrina</span><h2>Proyectos que van a Nueva York</h2></div>
+      <p>Algunos de los proyectos que los ministerios han anunciado para la Milagro Week.</p>
+    </div>
+    <div class="show reveal">
+      <article class="pj">
+        <img src="https://elfrente.com.co/content/images/2026/10/1-36.jpg" alt="Anuncio del proyecto de arándanos Agroventure con el Ministerio de Agricultura" referrerpolicy="no-referrer" loading="lazy">
+        <div class="in">
+          <span class="tag">MinAgricultura</span>
+          <h3>Arándanos de Agroventure</h3>
+          <p>Productora de arándanos en Cundinamarca y Boyacá que busca inversión para sembrar más, con riego tecnificado e invernaderos traídos de Israel.</p>
+          <div class="chips"><span class="chip">Meta: USD 100 millones</span><span class="chip">300 hectáreas</span><span class="chip">Cundinamarca y Boyacá</span></div>
+        </div>
+      </article>
+      <article class="pj solid">
+        <div class="in">
+          <span class="tag" style="color:var(--gold)">Tolima</span>
+          <h3>Minerales críticos</h3>
+          <p>El vicepresidente anunció que llevará proyectos de minerales críticos del Tolima, además de iniciativas de agro, logística, energía y turismo.</p>
+          <div class="chips"><span class="chip">Minería</span><span class="chip">Agro</span><span class="chip">Logística</span><span class="chip">Turismo</span></div>
+        </div>
+      </article>
+      <article class="pj" id="pjDyn" hidden></article>
+    </div>
+  </div>
+</section>
+
+<section style="background:var(--bg2)">
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">Paso a paso</span><h2>Línea de tiempo</h2></div>
+      <p>Lo que ha pasado desde que arrancó la Misión Crecer.</p>
+    </div>
+    <div class="tl reveal">
+      <div class="ev"><time>9 sep 2026</time><h3>Decreto 1373</h3><p>Le asigna nuevas funciones al vicepresidente, incluidas semanas de inversión en distintas regiones del mundo.</p></div>
+      <div class="ev"><time>15 sep 2026</time><h3>Nace la Misión Crecer</h3><p>Restrepo reúne a altos funcionarios y presenta la hoja de ruta para llevar el PIB al 6 %.</p></div>
+      <div class="ev"><time>23 sep 2026</time><h3>Asamblea de la ONU</h3><p>El vicepresidente representa a Colombia en Nueva York y arranca reuniones para atraer inversión.</p></div>
+      <div class="ev"><time>Octubre 2026</time><h3>Unión Europea, gremios y regiones</h3><p>Reuniones con la UE, consejo directivo de la Vicepresidencia y recorridos por regiones como Tolima.</p></div>
+      <div class="ev"><time>19 oct 2026</time><h3>Reinventando Colombia 2030</h3><p>Se presentan 133 proyectos por US$120.324 millones. MinAgricultura suma el proyecto de arándanos.</p></div>
+      <div class="ev future"><time>Noviembre 2026</time><h3>Documento de las mesas</h3><p>Las propuestas del encuentro se entregan a la Vicepresidencia como insumo del Plan Nacional de Desarrollo.</p></div>
+      <div class="ev future"><time>16 al 19 nov 2026</time><h3>Milagro Week en Nueva York</h3><p>El Gobierno presenta su portafolio a inversionistas y fondos internacionales.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">Ojo ciudadano</span><h2>Lo que vamos a vigilar</h2></div>
+      <p>Un anuncio no es una inversión. Estas son las preguntas que seguiremos haciendo.</p>
+    </div>
+    <div class="watch reveal">
+      <div class="w"><h3>¿Cuánta plata llega de verdad?</h3><p>Del portafolio de miles de millones de dólares, cuánto se convierte en inversión firmada y desembolsada.</p><span class="st">Pendiente</span></div>
+      <div class="w"><h3>¿Cuántos empleos?</h3><p>El vicepresidente ha dicho que crecer sin empleo no sirve. Vamos a contar los empleos que se anuncien y se creen.</p><span class="st">Pendiente</span></div>
+      <div class="w"><h3>¿Llega a las regiones?</h3><p>Si proyectos del Bajo Cauca, Córdoba, Urabá o Sucre entran al portafolio, aquí lo contamos.</p><span class="st">Por confirmar</span></div>
+      <div class="w"><h3>¿Crece la economía?</h3><p>El dato que manda es el PIB del DANE. Lo iremos comparando con la meta del 6 %.</p><span class="st">Atentos al DANE</span></div>
+    </div>
+  </div>
+</section>
+
+<section id="noticias" style="background:var(--bg2)">
+  <div class="wrap">
+    <div class="sec-h reveal">
+      <div><span class="tag">Noticias reales</span><h2>Todo lo que se publica</h2></div>
+      <p>Un robot busca noticias cada 30 minutos y la app vuelve a buscar cada vez que la abres.</p>
+    </div>
+    <div class="search">
+      <input id="q" type="search" placeholder="Buscar: arándanos, Tolima, Nueva York, Restrepo..." autocomplete="off">
+      <button class="btn ghost" id="liveBtn">Buscar en vivo</button>
+    </div>
+    <div class="status" id="status"></div>
+    <div class="grid" id="list"></div>
+    <button class="btn ghost more" id="more" hidden>Ver más noticias</button>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <p><b>Misión Crecer al Día</b> es una app ciudadana de <b>Vibras Positivas HM</b>, hecha en Caucasia, Antioquia. No es una página del Gobierno. Las noticias y fotos pertenecen a sus medios; cada tarjeta lleva a la nota original.</p>
+    <p style="margin-top:10px">¿Quieres una app así para tu negocio o tu causa? <a href="https://vibraspositivashm.com" target="_blank" rel="noopener">vibraspositivashm.com</a> · WhatsApp 311 770 0431</p>
+    <p style="margin-top:10px" id="robotInfo"></p>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+<script src="app.js"></script>
+</body>
+</html>

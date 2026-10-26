@@ -1,0 +1,14 @@
+{
+  "name": "Misión Crecer al Día",
+  "short_name": "Misión Crecer",
+  "description": "Seguimiento ciudadano a la Misión Crecer y la Milagro Week. Vibras Positivas HM.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08160f",
+  "theme_color": "#08160f",
+  "lang": "es-CO",
+  "icons": [
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
