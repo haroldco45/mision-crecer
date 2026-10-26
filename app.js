@@ -3,6 +3,10 @@
 const TZ = 'America/Bogota';
 const MILAGRO_WEEK = new Date('2026-11-16T09:00:00-05:00'); // Nueva York, misma hora que Colombia en noviembre
 const DATA_URL = 'data/noticias.json';
+const VID_URL = 'data/videos.json';
+const VID_RAW = 'https://raw.githubusercontent.com/haroldco45/mision-crecer/main/data/videos.json';
+let VIDS = [];
+let vidShown = 7;
 const RAW_URL = 'https://raw.githubusercontent.com/haroldco45/mision-crecer/main/data/noticias.json';
 const QUERIES = ['"Misión Crecer"', '"Milagro Week"', '"Week Milagro"', 'MilagroWeek Nueva York', 'Misión Crecer vicepresidente Restrepo'];
 const RELEVANT = /misi[oó]n\s*crecer|milagro\s*week|week\s*milagro|milagroweek|patria milagro.*inversi|crecer al 6/i;
@@ -124,6 +128,42 @@ function renderAll() {
   renderHero(); renderTicker(); renderToday(); renderList();
 }
 
+/* ---------- videos ---------- */
+function vidCard(v, big) {
+  const fresh = v.visto && Date.now() - Date.parse(v.visto) < 864e5;
+  return `<article class="vid${big ? ' big' : ''}">
+    <div class="scr" data-id="${esc(v.id)}">
+      <button type="button" aria-label="Ver video: ${esc(v.titulo)}">
+        <img src="${esc(v.imagen)}" alt="" loading="lazy" referrerpolicy="no-referrer">
+        <span class="ver">VER VIDEO</span>
+        ${v.duracion ? `<span class="dur">${esc(v.duracion)}</span>` : ''}
+        ${fresh ? '<span class="new">NUEVO</span>' : ''}
+      </button>
+    </div>
+    <div class="bd"><h3>${esc(v.titulo)}</h3><div class="meta">${esc(v.canal || 'YouTube')}${v.publicado ? ' · ' + esc(v.publicado) : ''}</div></div>
+  </article>`;
+}
+function renderVideos() {
+  const box = $('#vidList');
+  if (!VIDS.length) { box.innerHTML = '<p style="color:var(--mut)">Cargando videos...</p>'; return; }
+  box.innerHTML = VIDS.slice(0, vidShown).map((v, i) => vidCard(v, i === 0)).join('');
+  $('#vidMore').hidden = VIDS.length <= vidShown;
+  box.querySelectorAll('.vid').forEach(c => io.observe(c));
+  const hoy = VIDS.filter(v => v.visto && Date.now() - Date.parse(v.visto) < 864e5).length;
+  $('#vidInfo').textContent = `${VIDS.length} videos reales sobre la Misión Crecer y la Milagro Week${hoy ? ` · ${hoy} nuevos hoy` : ''}. Se ven aquí mismo, sin salir de la app.`;
+}
+function playVideo(scr) {
+  const id = scr.dataset.id;
+  document.querySelectorAll('.vid .scr iframe').forEach(f => { const s = f.parentElement; const v = VIDS.find(x => x.id === s.dataset.id); if (v) s.outerHTML = vidCard(v, false).match(/<div class="scr"[\s\S]*?<\/div>/)[0]; });
+  scr.innerHTML = `<iframe src="https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&rel=0&playsinline=1" title="Video" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen></iframe>`;
+}
+async function loadVideos() {
+  for (const url of [VID_RAW + '?t=' + Date.now(), VID_URL + '?t=' + Date.now()]) {
+    try { const r = await fetch(url, { cache: 'no-store' }); if (!r.ok) continue; const j = await r.json(); VIDS = j.videos || []; break; } catch (e) { /* sigue */ }
+  }
+  renderVideos();
+}
+
 /* ---------- datos ---------- */
 function merge(items) {
   const seen = new Map(ALL.map(n => [keyOf(n.titulo), n]));
@@ -197,7 +237,7 @@ async function update(manual) {
   const b = $('#refresh');
   b.classList.add('spin'); b.textContent = 'Buscando...';
   $('#status').textContent = 'Buscando noticias nuevas en este momento...';
-  await loadRobot();
+  await Promise.all([loadRobot(), loadVideos()]);
   renderAll();
   const nuevos = await liveSearch();
   renderAll();
@@ -215,6 +255,8 @@ document.addEventListener('DOMContentLoaded', () => {
   $('#refresh').onclick = () => update(true);
   $('#q').oninput = () => { shown = 12; renderList(); };
   $('#more').onclick = () => { shown += 12; renderList(); };
+  $('#vidMore').onclick = () => { vidShown += 6; renderVideos(); };
+  $('#vidList').addEventListener('click', e => { const b = e.target.closest('.scr button'); if (b) playVideo(b.parentElement); });
   $('#liveBtn').onclick = async () => {
     const q = $('#q').value.trim();
     $('#status').textContent = 'Buscando en vivo' + (q ? ` "${q}"` : '') + '...';

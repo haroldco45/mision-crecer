@@ -1,6 +1,6 @@
 // Misión Crecer al Día — service worker
 // La app y las noticias siempre se piden frescas a la red; la copia guardada solo se usa sin internet.
-const CACHE = 'mision-crecer-v1';
+const CACHE = 'mision-crecer-v2';
 const BASE = ['./', 'index.html', 'app.js', 'manifest.json', 'icon-512.png', 'data/noticias.json'];
 
 self.addEventListener('install', e => {

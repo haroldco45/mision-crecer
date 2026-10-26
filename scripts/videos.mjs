@@ -40,7 +40,10 @@ async function buscar(q) {
   for (const v of walk(data)) {
     const titulo = txt(v.title);
     const desc = (v.detailedMetadataSnippets || []).map(s => txt(s.snippetText)).join(' ');
+    const publicado = txt(v.publishedTimeText);
     if (!v.videoId || !RELEVANT.test(titulo + ' ' + desc)) continue;
+    if (/\ba(ño|ños)?\.?$|years?/i.test(publicado)) continue; // la Misión Crecer arrancó en sep 2026: nada de hace años
+    if (/dragon\s*ball/i.test(titulo)) continue;
     out.push({
       id: v.videoId,
       titulo,
@@ -54,7 +57,9 @@ async function buscar(q) {
 }
 
 const actual = JSON.parse(await readFile(FILE, 'utf8').catch(() => '{"videos":[]}'));
-const mapa = new Map(actual.videos.map(v => [v.id, v]));
+const viejo = v => /\ba(ño|ños)?\.?$|years?/i.test(v.publicado || '') || /dragon\s*ball/i.test(v.titulo);
+const mapa = new Map(actual.videos.filter(v => !viejo(v)).map(v => [v.id, v]));
+const limpiados = actual.videos.length - mapa.size;
 const antes = mapa.size;
 const ahora = new Date().toISOString();
 
@@ -67,7 +72,7 @@ for (const q of QUERIES) {
 }
 
 const nuevos = mapa.size - antes;
-if (nuevos > 0) {
+if (nuevos > 0 || limpiados > 0) {
   const videos = [...mapa.values()].sort((a, b) => (b.visto ? Date.parse(b.visto) : 0) - (a.visto ? Date.parse(a.visto) : 0)).slice(0, MAX);
   await writeFile(FILE, JSON.stringify({ revisado: ahora, videos }, null, 2) + '\n');
   console.log(`Listo: ${nuevos} videos nuevos (${videos.length} en total).`);
