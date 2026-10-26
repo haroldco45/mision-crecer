@@ -3,7 +3,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const FILE = 'data/videos.json';
-const QUERIES = ['Misión Crecer', 'Milagro Week', 'Milagro Week Nueva York', 'Misión Crecer vicepresidente Restrepo', 'Misión Crecer desde las regiones', 'MinAgricultura Misión Crecer'];
+const QUERIES = ['Misión Crecer', 'Milagro Week', 'Milagro Week Nueva York', 'Misión Crecer vicepresidente Restrepo', 'Misión Crecer desde las regiones', 'MinAgricultura Misión Crecer', 'Misión Crecer Bajo Cauca', 'Misión Crecer Antioquia'];
 const RELEVANT = /misi[oó]n\s*crecer|milagro\s*week|week\s*milagro|milagroweek|semana milagro|crecer al 6|crecer 6/i;
 const MAX = 60;
 

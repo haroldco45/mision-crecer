@@ -123,9 +123,33 @@ function renderHero() {
   if (withImg.length > 1) renderHero._t = setInterval(set, 9000);
 }
 
+const BAJO = /bajo\s*cauca|caucasia|el\s*bagre|nech[ií]|zaragoza|c[aá]ceres|taraz[aá]/i;
+const ANTIOQUIA = /antioquia|medell[ií]n|urab[aá]|apartad[oó]|c[oó]rdoba/i;
+function renderBajo() {
+  const txtOf = n => (n.titulo || '') + ' ' + (n.resumen || '');
+  const bajo = ALL.filter(n => BAJO.test(txtOf(n)));
+  const vbajo = VIDS.filter(v => BAJO.test(v.titulo));
+  const region = ALL.filter(n => !BAJO.test(txtOf(n)) && ANTIOQUIA.test(txtOf(n)));
+  const total = bajo.length + vbajo.length;
+  if (total) {
+    $('#bcLuz').classList.add('ok');
+    $('#bcEstado').textContent = `¡Hay ${total} ${total === 1 ? 'noticia' : 'noticias'} de la Misión Crecer sobre el Bajo Cauca!`;
+    $('#bcEstadoTxt').textContent = 'Míralas abajo. Seguimos atentos a qué proyectos se anuncian y cuándo llega la plata.';
+    $('#bcCount').textContent = total;
+    $('#bcCountTxt').textContent = total === 1 ? 'noticia que menciona al Bajo Cauca' : 'noticias que mencionan al Bajo Cauca';
+  }
+  const list = [...bajo, ...region].slice(0, 9);
+  $('#bcNewsInfo').textContent = bajo.length ? `${bajo.length} sobre el Bajo Cauca y ${region.length} del resto de Antioquia y la región.` : `Aún nada del Bajo Cauca. Mientras tanto, ${region.length} noticias de Antioquia, Urabá y Córdoba.`;
+  const box = $('#bcList');
+  box.innerHTML = list.length ? list.map((n, i) => card(n, i === 0 && bajo.length > 0)).join('') : '<p style="color:var(--mut)">Todavía no hay noticias de la región.</p>';
+  observeCards(box);
+  const msg = 'Misión Crecer al Día: mira si la Misión Crecer del Gobierno llega al Bajo Cauca y qué proyectos trae. ' + 'https://mision-crecer.netlify.app/#bajo';
+  $('#bcShare').href = 'https://wa.me/?text=' + encodeURIComponent(msg);
+}
+
 function renderAll() {
   ALL.sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
-  renderHero(); renderTicker(); renderToday(); renderList();
+  renderHero(); renderTicker(); renderToday(); renderList(); renderBajo();
 }
 
 /* ---------- videos ---------- */

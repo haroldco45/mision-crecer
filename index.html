@@ -162,6 +162,44 @@ section{padding:64px 0}
 .more{display:block;margin:22px auto 0}
 
 
+/* Bajo Cauca */
+#bajo{position:relative;overflow:hidden;background:#0a1d14}
+.bc-hero{position:relative;border-radius:24px;overflow:hidden;min-height:420px;display:flex;align-items:flex-end;margin-bottom:22px}
+.bc-hero img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;animation:kb 30s ease-in-out infinite alternate}
+.bc-hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,#0a1d1400 20%,#0a1d14f2 92%)}
+.bc-hero .in{position:relative;z-index:2;padding:26px}
+.bc-hero h2{font-size:clamp(34px,7vw,64px);font-weight:800}
+.bc-hero h2 em{font-style:normal;color:var(--gold)}
+.bc-hero p{color:#dfeee5;max-width:640px;font-size:17px;margin-top:8px}
+.muni{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px}
+.muni span{background:#ffffff1f;border:1px solid #ffffff38;border-radius:99px;padding:6px 14px;font-weight:700;font-size:14px}
+.estado{display:flex;gap:16px;align-items:center;flex-wrap:wrap;background:var(--card);border-radius:var(--r);padding:20px 22px;margin-bottom:22px}
+.estado .luz{width:18px;height:18px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 0 #f5c84c99;animation:pulseg 1.6s infinite;flex-shrink:0}
+.estado .luz.ok{background:var(--leaf);animation:pulse 1.6s infinite}
+@keyframes pulseg{0%{box-shadow:0 0 0 0 #f5c84c99}70%{box-shadow:0 0 0 12px #f5c84c00}100%{box-shadow:0 0 0 0 #f5c84c00}}
+.estado b{font:800 22px "Bricolage Grotesque"}
+.estado p{color:var(--mut);font-size:14px;flex-basis:100%}
+.vs{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px;margin-bottom:22px}
+.vs .side{border-radius:var(--r);overflow:hidden;background:var(--card);display:flex;flex-direction:column}
+.vs .side .ph{position:relative;aspect-ratio:16/9;overflow:hidden;background:#132c20}
+.vs .side .ph img{width:100%;height:100%;object-fit:cover}
+.vs .side .ph .lab{position:absolute;left:12px;top:12px;background:#000b;padding:5px 12px;border-radius:99px;font-weight:800;font-size:12px;letter-spacing:.08em}
+.vs .side .bd{padding:18px 20px 22px}
+.vs .side h3{font-size:22px;margin-bottom:8px}
+.vs .side ul{list-style:none;display:flex;flex-direction:column;gap:8px}
+.vs .side li{font-size:14px;color:#d6e7dc;padding-left:16px;position:relative}
+.vs .side li::before{content:"";position:absolute;left:0;top:8px;width:7px;height:7px;border-radius:50%;background:var(--leaf)}
+.vs .side.empty{background:repeating-linear-gradient(135deg,#122a1f 0 18px,#0f2419 18px 36px);border:2px dashed #f5c84c66}
+.vs .side.empty .big0{font:800 92px "Bricolage Grotesque";color:var(--gold);line-height:1}
+.ideas{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin-bottom:22px}
+.idea{border-radius:var(--r);padding:20px;color:#08160f;min-height:170px;display:flex;flex-direction:column;justify-content:space-between;transition:transform .3s}
+.idea:hover{transform:translateY(-4px) rotate(-1deg)}
+.idea h3{font-size:20px}.idea p{font-size:14px;opacity:.85;margin-top:6px}
+.idea small{font-weight:800;font-size:11px;letter-spacing:.1em;text-transform:uppercase;opacity:.6}
+.share{display:flex;flex-wrap:wrap;gap:12px;align-items:center;background:var(--gold);color:#1b1500;border-radius:var(--r);padding:22px}
+.share p{flex:1;min-width:220px;font-weight:700;font-size:17px}
+.share a{background:#08160f;color:#fff;text-decoration:none;font-weight:800;padding:13px 22px;border-radius:99px}
+
 /* Videos */
 #videos{background:#050f0a}
 .vids{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
@@ -219,6 +257,7 @@ footer a{color:var(--leaf)}
       <div><b id="cd-m">--</b><small>Min</small></div>
       <div><b id="cd-s">--</b><small>Seg</small></div>
     </div>
+    <a href="#bajo" class="btn" style="display:inline-block;margin:6px 0 14px;text-decoration:none;background:var(--gold);color:#1b1500">¿Y el Bajo Cauca? Míralo aquí</a>
     <p class="count-cap" id="countCap">para la Milagro Week en Nueva York (16 al 19 de noviembre de 2026)</p>
     <div class="meter">
       <div class="bar"><div class="fill" id="fill"></div></div>
@@ -234,6 +273,74 @@ footer a{color:var(--leaf)}
       <p id="todayInfo">Lo nuevo de las últimas 24 horas. Se revisa cada vez que entras.</p>
     </div>
     <div id="todayBox"></div>
+  </div>
+</section>
+
+<section id="bajo">
+  <div class="wrap">
+    <div class="bc-hero reveal">
+      <img src="https://www.antioquia.gov.co/images/img/2026/6/5-caucasia-infraestructura-vivienda1.jpeg" alt="Obras en Caucasia, Bajo Cauca antioqueño" referrerpolicy="no-referrer" loading="lazy">
+      <div class="in">
+        <span class="tag" style="color:var(--gold)">Seguimiento especial</span>
+        <h2>Misión Crecer para el <em>Bajo Cauca</em></h2>
+        <p>Si Colombia va a crecer al 6 %, el Bajo Cauca tiene que estar en la lista. Aquí vigilamos si la Misión Crecer llega a nuestra región y qué proyectos trae.</p>
+        <div class="muni"><span>Caucasia</span><span>El Bagre</span><span>Nechí</span><span>Zaragoza</span><span>Cáceres</span><span>Tarazá</span></div>
+      </div>
+    </div>
+
+    <div class="estado reveal">
+      <span class="luz" id="bcLuz"></span>
+      <b id="bcEstado">Todavía no hay anuncio para el Bajo Cauca</b>
+      <p id="bcEstadoTxt">La gira "Misión Crecer desde las Regiones" ya pasó por Urabá y Medellín. Hasta hoy no se ha anunciado una visita ni un portafolio de proyectos para el Bajo Cauca. El robot revisa cada 30 minutos y aquí avisamos apenas salga algo.</p>
+    </div>
+
+    <div class="vs reveal">
+      <article class="side">
+        <div class="ph"><img src="https://storage.googleapis.com/ifmnoticias-media/articles/ingest/vicepresidente-restrepo-lleva-a-uraba-la-estrategia-mision-crecer-desde-las-regi-1792711737214.webp" alt="Mesa de trabajo de la Misión Crecer en Apartadó, Urabá" referrerpolicy="no-referrer" loading="lazy"><span class="lab">URABÁ · 23 OCT 2026</span></div>
+        <div class="bd">
+          <h3>Urabá ya tiene su portafolio: más de $2,5 billones</h3>
+          <ul>
+            <li>Acueducto regional El Sable para Apartadó, Carepa y Turbo</li>
+            <li>Terminar el Túnel del Toyo y mejorar el acceso a Puerto Antioquia</li>
+            <li>120 km de vías secundarias y terciarias pavimentadas</li>
+            <li>En estudio: zona franca y planta de banano y plátano</li>
+            <li>Jóvenes formados en logística portuaria con el SENA</li>
+          </ul>
+          <a href="https://ifmnoticias.com/gobierno/vicepresidente-restrepo-lleva-a-uraba-la-estrategia-mision-crecer-desde-las-regi/" target="_blank" rel="noopener" style="display:inline-block;margin-top:12px;color:var(--leaf);font-size:13px;font-weight:700">Ver la nota de IFM Noticias</a>
+        </div>
+      </article>
+      <article class="side empty">
+        <div class="bd" style="display:flex;flex-direction:column;justify-content:center;height:100%;gap:10px">
+          <span class="lab" style="font-weight:800;font-size:12px;letter-spacing:.1em;color:var(--gold)">BAJO CAUCA · HOY</span>
+          <div class="big0" id="bcCount">0</div>
+          <h3 id="bcCountTxt">proyectos anunciados para el Bajo Cauca</h3>
+          <p style="color:var(--mut);font-size:14px">Este número cambia solo cuando salga una noticia de la Misión Crecer que hable de nuestros municipios.</p>
+        </div>
+      </article>
+    </div>
+
+    <div class="sec-h reveal" style="margin-top:34px">
+      <div><span class="tag">Propuestas ciudadanas</span><h2 style="font-size:clamp(24px,4vw,36px)">Lo que el Bajo Cauca podría llevar a Nueva York</h2></div>
+      <p>No son proyectos del Gobierno. Son ideas de la región para que la Misión Crecer las tenga en cuenta.</p>
+    </div>
+    <div class="ideas reveal">
+      <div class="idea" style="background:var(--gold)"><small>Minería</small><div><h3>Oro legal y con trazabilidad</h3><p>Formalizar a los mineros y atraer inversión responsable con el río y la gente.</p></div></div>
+      <div class="idea" style="background:var(--leaf)"><small>Agro y pesca</small><div><h3>Del campo al mercado</h3><p>Arroz, ganadería, piscicultura y frutas con riego, acopio y transformación aquí mismo.</p></div></div>
+      <div class="idea" style="background:#5ad6d0"><small>Río Cauca</small><div><h3>Malecón y turismo de río</h3><p>Malecón, barcazas y la Laguna El Silencio como destino para visitantes.</p></div></div>
+      <div class="idea" style="background:#ff9a5a"><small>Vías</small><div><h3>Vías terciarias que conecten</h3><p>Sacar la cosecha a tiempo y bajar el costo del transporte entre municipios.</p></div></div>
+      <div class="idea" style="background:#8f93ff"><small>Talento</small><div><h3>Jóvenes con oficio digital</h3><p>Talento ColombIA y SENA también para Caucasia, El Bagre y Nechí.</p></div></div>
+    </div>
+
+    <div class="sec-h reveal" style="margin-top:34px">
+      <div><span class="tag">Noticias de la región</span><h2 style="font-size:clamp(24px,4vw,36px)">Misión Crecer en el Bajo Cauca y Antioquia</h2></div>
+      <p id="bcNewsInfo">Las noticias que mencionan al Bajo Cauca, sus municipios o Antioquia.</p>
+    </div>
+    <div class="grid" id="bcList"></div>
+
+    <div class="share reveal" style="margin-top:26px">
+      <p>Que el Gobierno sepa que el Bajo Cauca está pendiente. Comparte esta app con tu gente.</p>
+      <a id="bcShare" href="https://wa.me/?text=" target="_blank" rel="noopener">Compartir por WhatsApp</a>
+    </div>
   </div>
 </section>
 

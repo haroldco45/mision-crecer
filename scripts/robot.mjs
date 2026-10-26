@@ -4,7 +4,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const FILE = 'data/noticias.json';
-const QUERIES = ['"Misión Crecer"', '"Milagro Week"', '"Week Milagro"', 'MilagroWeek Nueva York', 'Misión Crecer vicepresidente Restrepo', 'Milagro Week proyectos inversión'];
+const QUERIES = ['"Misión Crecer"', '"Milagro Week"', '"Week Milagro"', 'MilagroWeek Nueva York', 'Misión Crecer vicepresidente Restrepo', 'Milagro Week proyectos inversión', 'Misión Crecer Bajo Cauca', 'Misión Crecer Caucasia', 'Misión Crecer Antioquia', 'Misión Crecer desde las regiones', 'Misión Crecer Córdoba'];
 const RELEVANT = /misi[oó]n\s*crecer|milagro\s*week|week\s*milagro|milagroweek|patria milagro.*inversi|crecer al 6/i;
 const UA = 'Mozilla/5.0 (compatible; MisionCrecerBot/1.0; +https://vibraspositivashm.com)';
 const MAX = 120;
