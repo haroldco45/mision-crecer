@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-27T18:52:35.260Z",
+  "revisado": "2026-10-27T22:54:25.236Z",
   "noticias": [
     {
       "titulo": "Milagro Week en Nueva York: empresas de EE. UU. advierten qué necesita Colombia para concretar inversiones millonarias",
@@ -871,6 +871,14 @@
       "fecha": "2026-09-16T12:26:00.000Z"
     },
     {
+      "titulo": "MinTrabajo busca que la formalización y empleo sean motores para alcanzar meta de crecimiento del 6 %MinTrabajo busca que la formalización y empleo sean motores para alcanzar ...",
+      "link": "https://actualicese.com/mintrabajo-busca-que-la-formalizacion-y-empleo-sean-motores-para-alcanzar-meta-de-crecimiento-del-6/",
+      "fuente": "Actualicese",
+      "imagen": "https://actualicese.com/wp-content/uploads/2022/09/MicrosoftTeams-image-5-e1663965818368.png",
+      "resumen": "El MinTrabajo se suma a la Misión Crecer con una propuesta basada en formalización, productividad, seguridad jurídica, modernización institucional y formación pertinente. El MinTrabajo presentó su ...",
+      "fecha": "2026-09-16T08:09:00.000Z"
+    },
+    {
       "titulo": "Colombia pone en marcha Misión Crecer para llevar el PIB al 6%, ¿qué países latinos crecen a ese ritmo?",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSzY0UjZmdTMzZEJmTWFoZGI5Zkx1cUZabXVqanhlYnIxSXA5TnlLTTBYdTgtZHJnd2hFVVVkZGNzYmhlWmRSMUdMcTdBYUNqN3c1QmI0cVJJWDJVTFBRT3p3ckFOTUZsUDkwUDR5T1VpYkVPZVdmMWJvaE1uU2NxWTVSX0JaeEJaaGZubDJJamM?oc=5",
       "fuente": "Yahoo",
@@ -904,6 +912,15 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-16T07:00:00.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Recortes y austeridad: las premisas de la «Misión crecer» de la vicepresidencia",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRkhKSG1MaTVMbzFPMXRRQzI4QmxXZXZodFBNdlJKYV9WRldIRXcyMUNtdlpKenZTRGc5THNOVGpqcWxaWTlxb2J0NEhpeTFnY3AzcGpVLUpHLUpCbVJwb0lpelNJVXJUQjJfOVRqSWl5cUp6U19NZ1MwUmkxLTJMZkc4NGdLYmlaT3RHNENUN2NXQWlEdTc5cEJ0ck50aWJTaDZDWl9XaU1ab3J1QmNTaDJsNllacVphTXN0Tg?oc=5",
+      "fuente": "radiohoy.com",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-09-15T16:17:28.000Z",
       "sinFoto": true
     },
     {
@@ -1030,23 +1047,6 @@
       "imagen": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/credito_twitter_abelardo_2_1e03abedc1_full-width.webp",
       "resumen": "El Gobierno de Abelardo de la Espriella creó una estrategia para salir a buscar inversión por el mundo y acelerar el crecimiento de la economía. Se llama Semana Milagro, o Milagro Week, y quedó ...",
       "fecha": "2026-09-11T05:18:00.000Z"
-    },
-    {
-      "titulo": "‘Milagro Week’: así funcionará la estrategia del Gobierno para atraer inversión y buscar un crecimiento del 6 %",
-      "link": "https://www.elcolombiano.com/colombia/milagro-week-estrategia-gobierno-atraer-inversion-crecimiento-6-LJ40948737",
-      "fuente": "Elcolombiano",
-      "imagen": "https://estaticos.elcolombiano.com/binrepository/780x565/-112c0/1004d565/none/11101/AFJL/image-2026-06-16t090708-027-50886933_51586951_20260911114948.webp",
-      "resumen": "‘Milagro Week’: así funcionará la estrategia del Gobierno para atraer inversión y buscar un crecimiento del 6 % El Gobierno de Abelardo de la Espriella prepara jornadas de inversión en EE. UU., Europa ...",
-      "fecha": "2026-09-11T04:04:00.000Z"
-    },
-    {
-      "titulo": "Gobierno de Colombia buscará atraer inversión con estrategia “Milagro Week”",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkItWFB5OS1FR3dXMWxCU0QwX2dILVRDaFI5Y3d3TXM2Wm5heGlNVHhoZXBGNGVQckVQelJ1LVRmNDlBUXZhbnZhekE3TlBteDlxM2lNSVMyZ0tCMTl4LWdwRDRxN29hbFVsQS1QMUJrblVfMG9DSS1pNS0zOXJYOEpGcmYza0xwUUVwZUg0SFFNUVRJRTJtZUticElrVjF5a3M5eXlmd2tmWXhn0gHAAUFVX3lxTFBNQ3ZHdXV5ak5kSTRKZmltVGlpVmZLSHRhTjJFZFpjR0R5OWNtV0F1MzVxNmxnRFI5dFpPRVdlRm9uWFJmQUd0T1RDbHZIQzJfODdocE5kZFdfdElPNTZpZndSNnFtVGV4M3E3XzZoV3ZXS1pJUHdBMlVMdlZMTFpzQkJBemRuOHRzMzVkVVpoRDRCSllGVGFMeHJHZENoMEhEb2pqMzlIajZvcS1nTXRjbE5GbEQ3aUFCejNOMHdCTw?oc=5",
-      "fuente": "Caracol Radio",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-10T07:00:00.000Z",
-      "sinFoto": true
     }
   ]
 }
