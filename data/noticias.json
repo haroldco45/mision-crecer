@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-28T02:06:42.183Z",
+  "revisado": "2026-10-28T08:55:29.362Z",
   "noticias": [
     {
       "titulo": "Milagro Week en Nueva York: empresas de EE. UU. advierten qué necesita Colombia para concretar inversiones millonarias",
@@ -159,6 +159,15 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-10-17T17:00:52.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Misión crecer - radiohoy.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iLVIyTjN2YzRPaXdrbF83RXNLS0djbnhDRXRPczRVNDBLTnh2bEk5aEhSWkplVUtURk9zc21FRno5YU44MWlBSEl3NzBnYWxjVTZPSGJEV2JzMWNKMzJEUklESHpSaXhrRHRF?oc=5",
+      "fuente": "radiohoy.com",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-10-17T13:57:12.000Z",
       "sinFoto": true
     },
     {
@@ -1039,14 +1048,6 @@
       "resumen": "",
       "fecha": "2026-09-11T07:00:00.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "¿Qué es la Milagro Week, la estrategia con la que el Gobierno viajará por el mundo buscando alianzas y un crecimiento de la economía del 6 por ciento?",
-      "link": "https://cambiocolombia.com/poder/articulo/2026/9/que-es-la-milagro-week-la-estrategia-con-la-que-el-gobierno-viajara-por-el-mundo-buscando-alianzas-y-un-crecimiento-de-la-economia-del-6-por-ciento",
-      "fuente": "Cambiocolombia",
-      "imagen": "https://d1x0qnenkl91hi.cloudfront.net/uploads/crops/full-width/credito_twitter_abelardo_2_1e03abedc1_full-width.webp",
-      "resumen": "El Gobierno de Abelardo de la Espriella creó una estrategia para salir a buscar inversión por el mundo y acelerar el crecimiento de la economía. Se llama Semana Milagro, o Milagro Week, y quedó ...",
-      "fecha": "2026-09-11T05:18:00.000Z"
     }
   ]
 }
