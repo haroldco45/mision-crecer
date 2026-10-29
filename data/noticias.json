@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-10-29T00:46:41.676Z",
+  "revisado": "2026-10-29T06:56:23.452Z",
   "noticias": [
     {
       "titulo": "El CEA respalda la ‘Milagro Week’ y pide garantías para atraer inversión estadounidense",
@@ -179,6 +179,15 @@
       "sinFoto": true
     },
     {
+      "titulo": "Misión crecer - RADIO HOY",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iLVIyTjN2YzRPaXdrbF83RXNLS0djbnhDRXRPczRVNDBLTnh2bEk5aEhSWkplVUtURk9zc21FRno5YU44MWlBSEl3NzBnYWxjVTZPSGJEV2JzMWNKMzJEUklESHpSaXhrRHRF?oc=5",
+      "fuente": "RADIO HOY",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-10-17T07:00:00.000Z",
+      "sinFoto": true
+    },
+    {
       "titulo": "Misión Crecer: la oportunidad está en el campo",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTFTZ0dUMUVNVHhfbURtakFCNHBJOGhRaWUwZmc0WDNpX1R6MVBQUmV5c1lJWDIyaDNsSHVhLXVvTVd6emZ0QlhqYlZWaDFtckpheHN2S0JRaWlGQ0VtREQ0WEFLdDRRUlJqTVFRNkhyVVpaazNwaUdINmw5VXYweFd3RjlfOWQtZGF4NVJpTQ?oc=5",
       "fuente": "CONtexto Ganadero",
@@ -236,6 +245,15 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-10-13T22:00:54.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "El propósito de Misión Crecer es llevar la economía al 6%.",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb183YmxGeGVzd1MxWXg2NjhGMjdxZllFcFZ2SkthZFVIVTE3R1RaaExJemZFVXhfMldaZDBTTXVjVVVQWTVxTWRBU2N1SGU0S1JqYVFJbWMtdTUtX01hZldFbHllcDB2c0NfTTdBNjNGc3hJMXJyTE8zV3Z2bzVsaWJqMTVhRzVqR2FoV3l4cWp1Q1duVTIxMzc5cTN6V3ZhUUE?oc=5",
+      "fuente": "radiohoy.com",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-10-13T14:54:57.000Z",
       "sinFoto": true
     },
     {
@@ -1025,24 +1043,6 @@
       "titulo": "‘Semana Milagro’: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6% anual",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbFdTUDR0X3FWNkVkRm1LQ3JGLUoxQWQ1a0NEdkhlRGp5ZGR1Q3JKNGp3SWhlbWVqclk0alNJTlRER005RXV3OG5Qa0pOVWlMUFRPZUtNdjQ3N1ZKSmotNmlSQWNKenhzNUhrR2YyTHZtQ3h2LXJYSDZWVWV6RHVfRkRLZWRNOWJTT2dJbnptQnRzTHpFSXR0eGZmVS1NRXVyYzljVV9rMkVuSnhrZjBzZXJWSzgtZHo2eVp6bzJ2Vy01b25kYk5YSXNoYUZhdW02UW9hZFBrUGRaN3R4V0Nnb3RYa2tPUFVtYXN0Z2JzMlR4QdIB9wFBVV95cUxQSVJwRHJiN2JsSUtmQXc4c0FCVE1EM014aUdRNGZMOVJpNGhPSGZFUF9hcHNXaFlLcF9nVDdlTS1RTkFPZjFvNzN2OTZVOF9FYkNOX3Q4LVpRTGl0Unh5N3hvdGhvY3lrM1ZFbHNHaDdWMjdEbXRLVEsxMnZKcXNBLThoZjN0Z3hhSkdPZTNOdVQ0T0VHYU8xRHhQTlZtd3V2TFM3S19nbGhVTUFUWG81aHR1R1VvamRzQ0RuNng0NXBrTXdfRVQxLWdCdDdXVFljVnNTajd4MXdldU1qZ1pQMy1vT3pfRExJNVBhUU14TVJUMHE1ZWlR?oc=5",
       "fuente": "Portafolio.co",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week: qué es y cómo el Gobierno de De la Espriella busca un crecimiento del 6 por ciento",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPWDZCOHZMQkViSXFaMW9udVJ5ODVSbDMyUXpBdDhKb2FwWmpfRFd4SkIzMi1UeXByR2hSZ3VHcHRLVXJpS0Z5UEFySlBsdjhPRXZyQk5ObExjS2QtbkstMUgxaFdqT3dJUUwxM2Z6ZUwxQk53Y0VnT0dHSjg5WTBXaVoycGpLZjVKS2dpT3pYazBYMXM1YjdqTk5OR0p6MklxTExrZVBISHZyOUZSa2ppYTVwWEp5UG1uMXRlYmZkU1lzWk0tdVNWa2otQ1VsOWttaWZlWHlmZ3ZnSTBybUprb0RBclJXZVZ2YlA3N1FIa1lpcC15MnppWHMzRzZHaU1Cdy1CblZlbFA1bHlqc09ZUHlwRjA1NTlvbEpZVnhYNHA4UQ?oc=5",
-      "fuente": "CAMBIO Colombia",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno de Abelardo de la Espriella lanza la ‘Milagro Week’ para atraer inversión a Colombia",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOFl1SmswaEU4aTRTYWR2WkZ0OFIzQUZyLS1Gc0ZkUjgwRGM0SWRhUGUyS0xrR3l2cHhrUnVGb0NFQ2owRFZsMXRRVkZsMmZhb0VmWXRneW5xNUNXR3prbnFPeUsyYkRPZDhXZXFQUzFBaE5KWGliaHlWSGt2bV9hUEdCRGNLdUZzZDZYSU9VV1piZDdFZWJCcW9nUE5hSVhXQUUzeDk3Y2NiVEp3VlE2RjZPcVlHd2RGeW5v?oc=5",
-      "fuente": "La Opinión Cúcuta",
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-11T07:00:00.000Z",
