@@ -1,6 +1,14 @@
 {
-  "revisado": "2026-10-29T06:56:23.452Z",
+  "revisado": "2026-10-29T14:07:34.256Z",
   "noticias": [
+    {
+      "titulo": "Incentivos a megainversiones de más de US$ 150 millones y rebaja de renta: así sería 'El Ruge' del gobierno De La Espriella",
+      "link": "https://www.eltiempo.com/economia/sectores/incentivos-a-megainversiones-de-mas-de-us-150-millones-y-rebaja-de-renta-asi-seria-el-ruge-del-gobierno-de-la-espriella-3597020",
+      "fuente": "Eltiempo",
+      "imagen": "http://www.bing.com/th?id=ONUT.Dh_c7mDbFtVLcsFW-vHTGw&pid=News",
+      "resumen": "La estrategia del Gobierno Nacional será presentada durante la Milagro Week, que se realizará del 16 al 18 de noviembre en Nueva York.",
+      "fecha": "2026-10-28T21:49:00.000Z"
+    },
     {
       "titulo": "El CEA respalda la ‘Milagro Week’ y pide garantías para atraer inversión estadounidense",
       "link": "https://www.msn.com/es-co/noticias/otras/el-cea-respalda-la-milagro-week-y-pide-garant%C3%ADas-para-atraer-inversi%C3%B3n-estadounidense/ar-AA2ggL3A",
@@ -758,6 +766,15 @@
       "sinFoto": true
     },
     {
+      "titulo": "Restrepo anuncia primera ‘Milagro Week’ en Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iRUo2NjJ0cHRXLVdiaERnampyNl9MblFMSks3cDVBMUttTEtGOEVsM3BWNlhpNE5aNHNQSEJLdVBINjVtWG56akpaLVlOdXREazhYeXNsZUdEWmExWE5QSkltWDJ5UENIYTR0WDlOVzZXMWJXd0dPMmlBa0FXUQ?oc=5",
+      "fuente": "Estrella Digital Colombia",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-09-28T07:00:00.000Z",
+      "sinFoto": true
+    },
+    {
       "titulo": "Así será la ‘Milagro Week’ del gobierno de Abelardo de la Espriella en Nueva York: presentará 176 proyectos para atraer inversión",
       "link": "https://www.infobae.com/colombia/2026/09/28/asi-sera-la-milagro-week-del-gobierno-de-abelardo-de-la-espriella-en-nueva-york-presentara-176-proyectos-para-atraer-inversion/",
       "fuente": "Infobae",
@@ -1028,24 +1045,6 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-15T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Qué es ‘Milagro Week’, la estrategia que propuso el gobierno de Abelardo de la Espriella para impulsar la economía",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZXBXdUU0TWJkVHo0Q3U2dE83ZXU4OTdZZFlsWXRFQ3luQ2ludzRyTWtJWmNnT2RJTVpBd0ZrSkZiUzNwYTJ2ZGtqVWJ6MWhzbWpiMUlWUkRXUjF3NURXUmNwT3VJd2xxZzZvQ0FGQ2ppYTQyRFRrMFZnOEtaTFN5M0ZSNXYxWXZkYmhsUWNVLUpDQWxrZHFXZDBOcFZ4ZFphLTQxeDlXeXNaOG1kQUhMSmdRQVRyY2xsQTFSWDVwQ2R1UlR6amFHaW04WWVzS2Y5d1poQU5qdlhCVWJjbW45b2REX0lhMDlZREdXUdIBhwJBVV95cUxQZFZLSlJrc0dmdTVMMjdkY0RTVVEybDZmZDdaeElHa2xuRTE4UUcwSWpQaVQ4X0I1SkNIZF85YkdOVTBMM0lUOVZ1U3IxRFdOcWNPVHd3Z0xMOEJXcGVVU28teUZnT3kwTm9mU1pOR0xmM0ZxY3hjMlhkVkFDOGU0LXFBbTRXU3hTcGZwdXhldVctZUFseFlLbTJLVExOd3RuZDVhU3h6Zk1PT0gzX0prZEJWNnBEWkI2Zkd6RUR1X3RTTGNQcEhLREh0V0o1RnNSUlY4NWx6WVZST1VMN2lnRkFXejBXMmc4X1pPTXZQVTlvMjJ3WTZxWDd0alRlSUQtVGRpazRvRQ?oc=5",
-      "fuente": "Infobae",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "‘Semana Milagro’: así será la gira global con la que el vicepresidente buscará llevar el PIB a crecer al 6% anual",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNbFdTUDR0X3FWNkVkRm1LQ3JGLUoxQWQ1a0NEdkhlRGp5ZGR1Q3JKNGp3SWhlbWVqclk0alNJTlRER005RXV3OG5Qa0pOVWlMUFRPZUtNdjQ3N1ZKSmotNmlSQWNKenhzNUhrR2YyTHZtQ3h2LXJYSDZWVWV6RHVfRkRLZWRNOWJTT2dJbnptQnRzTHpFSXR0eGZmVS1NRXVyYzljVV9rMkVuSnhrZjBzZXJWSzgtZHo2eVp6bzJ2Vy01b25kYk5YSXNoYUZhdW02UW9hZFBrUGRaN3R4V0Nnb3RYa2tPUFVtYXN0Z2JzMlR4QdIB9wFBVV95cUxQSVJwRHJiN2JsSUtmQXc4c0FCVE1EM014aUdRNGZMOVJpNGhPSGZFUF9hcHNXaFlLcF9nVDdlTS1RTkFPZjFvNzN2OTZVOF9FYkNOX3Q4LVpRTGl0Unh5N3hvdGhvY3lrM1ZFbHNHaDdWMjdEbXRLVEsxMnZKcXNBLThoZjN0Z3hhSkdPZTNOdVQ0T0VHYU8xRHhQTlZtd3V2TFM3S19nbGhVTUFUWG81aHR1R1VvamRzQ0RuNng0NXBrTXdfRVQxLWdCdDdXVFljVnNTajd4MXdldU1qZ1pQMy1vT3pfRExJNVBhUU14TVJUMHE1ZWlR?oc=5",
-      "fuente": "Portafolio.co",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-11T07:00:00.000Z",
       "sinFoto": true
     }
   ]
