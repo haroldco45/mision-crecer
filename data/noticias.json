@@ -1,6 +1,22 @@
 {
-  "revisado": "2026-11-04T17:55:31.402Z",
+  "revisado": "2026-11-04T23:32:50.479Z",
   "noticias": [
+    {
+      "titulo": "Vicepresidente José Manuel Restrepo confirmó la realización de la “Milagro Week” en Europa: “Atraer más inversión”",
+      "link": "https://www.infobae.com/colombia/2026/11/04/vicepresidente-jose-manuel-restrepo-confirmo-la-realizacion-de-la-milagro-week-en-europa-atraer-mas-inversion/",
+      "fuente": "Infobae",
+      "imagen": "http://www.bing.com/th?id=ONUT.oDMVgcFDt0HeNwrCmNPA1A&pid=News",
+      "resumen": "La cita empresarial reunirá a compañías, fondos, entidades financieras y representantes oficiales para exhibir iniciativas nacionales, cerrar alianzas y facilitar recursos destinados a actividades pro ...",
+      "fecha": "2026-11-04T11:02:00.000Z"
+    },
+    {
+      "titulo": "António Costa, Misión Creer y Pedro Sánchez: así va la agenda de Restrepo en España",
+      "link": "https://www.elespectador.com/politica/antonio-costa-mision-creer-y-pedro-sanchez-asi-va-la-agenda-de-restrepo-en-espana/",
+      "fuente": "Elespectador",
+      "imagen": "http://www.bing.com/th?id=ONUT.c0T8TL-AnHQ_jrjlAh0qkA&pid=News",
+      "resumen": "El vicepresidente Restrepo lidera la Misión Crecer en España junto al canciller Omar Bula. Estos han sido los últimos movimientos de la delegación del ...",
+      "fecha": "2026-11-04T10:54:00.000Z"
+    },
     {
       "titulo": "El Gobierno realizará la Milagro Week en Madrid para captar inversión europea en marzo de 2027",
       "link": "https://www.infobae.com/video/colombia/el-gobierno-realizara-la-milagro-week-en-madrid-para-captar-inversion-europea-en-marzo-de-2027/ZScGlhPv/",
@@ -26,6 +42,14 @@
       "fecha": "2026-11-04T08:05:00.000Z"
     },
     {
+      "titulo": "Delegación de Colombia en España impulsa inversión extranjera y enfrenta controversia por el nombramiento de embajador",
+      "link": "https://www.pulzo.com/nacion/delegacion-de-colombia-en-madrid-impulsa-inversiones-y-agenda-de-la-mision-crecer-2024-PP5348433A",
+      "fuente": "Pulzo",
+      "imagen": "http://www.bing.com/th?id=ONUT.Fo1ckod1PW68LycoE9St1A&pid=News",
+      "resumen": "La Misión Crecer impulsa inversión extranjera y alianzas clave para que Colombia logre un crecimiento económico sostenido y nuevas oportunidades.",
+      "fecha": "2026-11-04T07:01:00.000Z"
+    },
+    {
       "titulo": "Más de 400 inversionistas en Madrid: el balance del Vicepresidente para la Misión Crecer",
       "link": "https://www.msn.com/es-co/noticias/otras/m%C3%A1s-de-400-inversionistas-en-madrid-el-balance-del-vicepresidente-para-la-misi%C3%B3n-crecer/ar-AA2gJMQ9",
       "fuente": "Msn",
@@ -37,7 +61,7 @@
       "titulo": "Colombia llevará sus proyectos a Europa: Madrid será sede de Milagro Week para atraer inversión en 2027",
       "link": "https://www.msn.com/es-co/noticias/otras/colombia-llevar%C3%A1-sus-proyectos-a-europa-madrid-ser%C3%A1-sede-de-milagro-week-para-atraer-inversi%C3%B3n-en-2027/ar-AA2gHHxQ",
       "fuente": "Msn",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.fYe0RZRrQD-GZWraZWgQ5w&pid=News",
       "resumen": "El vicepresidente José Manuel Restrepo anunció el encuentro tras reunirse con más de 400 empresarios en España.",
       "fecha": "2026-11-03T16:29:07.000Z",
       "sinFoto": true
@@ -1010,33 +1034,6 @@
       "imagen": "https://www.elheraldo.co/resizer/v2/XIEIWIBLMRGHFENLIQ2UEYRSOY.jpeg?smart=true&auth=3eda0ae2b6b2ab22ed56e55925442600b5398a5d4e729624572e29305f9f2a2d&width=1200&height=675",
       "resumen": "El vicepresidente José Manuel Restrepo presentó este lunes en Nueva York la Misión Crecer con la hoja de ruta de Colombia para atraer inversión ante 40 empresarios de los Estados Unidos.",
       "fecha": "2026-09-21T08:32:00.000Z"
-    },
-    {
-      "titulo": "Gobierno presenta en Nueva York Misión Crecer para acelerar inversión y llevar PIB al 6 %",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTU5T2RKc3gwXzc1ZURHbldhYnFwM2ZYenltNlBsaVFGQ3hKZndXWXJhWVd4YVJzUnFqNTRSMEJHQ0ZfTmQ3dzVwbVlLRXJaM05EY1lGM2NNeEJMdmJlN2t3a2cxTmdLZXhrM0xJX0l5cmdhNU1tV0c1bjBaclNnblhTVmtQdklKUUZjT1VCdUNLQUstMUpoUXlfRzNyc1RlTFJJNnEyMjNpazhnbFpVNkE1TWVuMWxoZ09F0gHAAUFVX3lxTE9PMzhERXhUR3YyZjhmdGo4enV0T2tZdG5WQVRPMTl3TEFIYkZqXzBqMWo2b2M3S2w0ZEJuZE1pZGdIUkthQjNEN3lYTk5BOWQ2RWsxbUZXY1E4Y0w1cVRiSFlRMEJPMXNFM2Jzakw0MWZRQ2hFVlFUaU0yZHd4TzFHNlJJZW5IQ05Ecy1yVkpnaXJLU2NnX2tTUWd2MVBzS2s0UFFuc2xLSW9EM0JwQzBUZ0lheWFuUmJGSGZ3UExTNA?oc=5",
-      "fuente": "Valora Analitik",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-21T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Restrepo entregó balance de \"Misión Crecer\", la estrategia que está presentando en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQXAzekg3bEZudTMydThaRFNueVlsVGFpU2RTMlFINmFHNHM4QnpxZDQ1OFE3c09jTHJmdHU4WTR6bE9OWlhSUTNyUGo1d1JTLTV5azNjbFFFdVZEUlVOdUhVU1RnQ19fWEN6WHVxRThfaHNQbkM3dHloOGNDaXhRbDFjV3RJSDhic3NJdWtBMHllYjRmRGp0bGpBYkZPZFlMS2NEX0RGMk9pYnlyTmVsQVM4Ty1zUDNHd3FOcjZoM2E5anNsM1pwVkVveHdnZDTSAc8BQVVfeXFMT0l5NjE2UjlpdUtZNUNaSm1wQTNYc2NVTlF0c2ttS3pnR0loNTkwMURIUDBIdHJPOEpIS0praHczLXE0Q003eG9Ga21jbEhUcnE4YVZNSmlfaVgxQnR5aDQ0c3YwU0FkZ3NfNmhDMnpGRW4xSFBFR1pyRFp6Y0lkMFJObGF5Nm1QMGhseGMyTzJ6UHZRUkE4M1lia2JIOUdKV1Z5azd2ZWlnSW5XZUI1U1hlUXo3TzZsLVh5enpVc2ZLX0hWODZWejF2WlduRkkw?oc=5",
-      "fuente": "LaRepublica.co",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-21T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Misión crecer: se espera un milagro en la economía de Colombia",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWkR1SGJNT2ZLTExZMmwzVWNtTWk4bHhaWTM5NkxIXzFQWlZfNG8xQm5tUGdSMHk3NENTUmJPcUgtcWJKTGxoaFR3WVFoOGRhbndqT3Y4ZkxWTjVMaGhCUDZUQTRPQjNlZUlpS1VGLU0xc09LVHpHRDFIUXVRX3hIVkNCT1dMRFZBRHJ2eFRn?oc=5",
-      "fuente": "Corporación Latinoamericana Sur",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-21T07:00:00.000Z",
-      "sinFoto": true
     }
   ]
 }
