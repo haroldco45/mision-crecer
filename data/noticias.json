@@ -1,6 +1,14 @@
 {
-  "revisado": "2026-11-04T23:32:50.479Z",
+  "revisado": "2026-11-05T06:22:43.736Z",
   "noticias": [
+    {
+      "titulo": "Colombia llevará la 'Milagro Week' a Madrid en 2027 para captar inversión europea",
+      "link": "https://ifmnoticias.com/economicas/colombia-llevara-la-milagro-week-a-madrid-en-2027-para-captar-inversion-europea/",
+      "fuente": "Ifmnoticias",
+      "imagen": "http://www.bing.com/th?id=ONUT.bfBHVToBOGZJvZalAPfPOg&pid=News",
+      "resumen": "El vicepresidente José Manuel Restrepo confirmó que la estrategia de promoción de inversión 'Milagro Week' tendrá una edición en Madrid en marzo de ...",
+      "fecha": "2026-11-04T15:59:00.000Z"
+    },
     {
       "titulo": "Vicepresidente José Manuel Restrepo confirmó la realización de la “Milagro Week” en Europa: “Atraer más inversión”",
       "link": "https://www.infobae.com/colombia/2026/11/04/vicepresidente-jose-manuel-restrepo-confirmo-la-realizacion-de-la-milagro-week-en-europa-atraer-mas-inversion/",
@@ -1026,14 +1034,6 @@
       "resumen": "",
       "fecha": "2026-09-21T21:11:30.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "Vicepresidente presenta ante 40 empresarios de EE. UU. la ruta de inversión de la Misión Crecer",
-      "link": "https://www.elheraldo.co/colombia/2026/09/21/vicepresidente-presenta-ante-40-empresarios-de-ee-uu-la-ruta-de-inversion-de-la-mision-crecer/",
-      "fuente": "Elheraldo",
-      "imagen": "https://www.elheraldo.co/resizer/v2/XIEIWIBLMRGHFENLIQ2UEYRSOY.jpeg?smart=true&auth=3eda0ae2b6b2ab22ed56e55925442600b5398a5d4e729624572e29305f9f2a2d&width=1200&height=675",
-      "resumen": "El vicepresidente José Manuel Restrepo presentó este lunes en Nueva York la Misión Crecer con la hoja de ruta de Colombia para atraer inversión ante 40 empresarios de los Estados Unidos.",
-      "fecha": "2026-09-21T08:32:00.000Z"
     }
   ]
 }
