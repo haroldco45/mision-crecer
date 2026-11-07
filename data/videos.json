@@ -1,6 +1,24 @@
 {
-  "revisado": "2026-11-06T22:00:00.967Z",
+  "revisado": "2026-11-07T08:38:35.607Z",
   "videos": [
+    {
+      "id": "lrTFUMcas6U",
+      "titulo": "Culto Misión Crecer",
+      "canal": "IPUC ORQUIDEAS Iglesia",
+      "publicado": "Transmitido hace 9 m",
+      "duracion": "22:51",
+      "imagen": "https://i.ytimg.com/vi/lrTFUMcas6U/hqdefault.jpg",
+      "visto": "2026-11-07T08:38:35.607Z"
+    },
+    {
+      "id": "b223rOJWKGc",
+      "titulo": "Culto | Misión Crecer | Jueves 28 de Abril 2026",
+      "canal": "IPUC La Victoria Sur",
+      "publicado": "Transmitido hace 6 m",
+      "duracion": "1:23:27",
+      "imagen": "https://i.ytimg.com/vi/b223rOJWKGc/hqdefault.jpg",
+      "visto": "2026-11-07T08:38:35.607Z"
+    },
     {
       "id": "Feu0Wz69jd4",
       "titulo": "Restrepo inicia agenda en el Tolima para captar proyectos de inversión de cara a la \"Milagro Week\"",
@@ -14,7 +32,7 @@
       "id": "m4O3PPH63zk",
       "titulo": "Vicepresidente José Manuel Restrepo anuncia la 'Milagro Week' en Nueva York",
       "canal": "Acento Colombia",
-      "publicado": "hace 7 h",
+      "publicado": "hace 18 h",
       "duracion": "0:43",
       "imagen": "https://i.ytimg.com/vi/m4O3PPH63zk/hqdefault.jpg",
       "visto": "2026-11-06T16:54:35.377Z"
@@ -23,7 +41,7 @@
       "id": "kNHULjjJZik",
       "titulo": "José Manuel Restrepo anuncia la Milagro Week 2027 en Madrid",
       "canal": "CABLENOTICIAS",
-      "publicado": "hace 33 min",
+      "publicado": "hace 2 días",
       "duracion": "0:59",
       "imagen": "https://i.ytimg.com/vi/kNHULjjJZik/hqdefault.jpg",
       "visto": "2026-11-04T23:32:50.524Z"
@@ -41,7 +59,7 @@
       "id": "mK6tWi1FDQQ",
       "titulo": "¡Van por inversión y empleo! Restrepo y Mauricio Gómez llevan la Misión Crecer a Madrid",
       "canal": "Canta Vallenato",
-      "publicado": "hace 3 días",
+      "publicado": "hace 4 días",
       "duracion": "0:54",
       "imagen": "https://i.ytimg.com/vi/mK6tWi1FDQQ/hqdefault.jpg",
       "visto": "2026-11-03T08:30:14.284Z"
@@ -221,7 +239,7 @@
       "id": "yzFgwiGNbxA",
       "titulo": "Vicepresidente José Manuel Restrepo afina la #MisiónCrecer y la primera #MilagroWeek en Nueva York",
       "canal": "Acento Colombia",
-      "publicado": "hace 9 días",
+      "publicado": "hace 11 días",
       "duracion": "0:23",
       "imagen": "https://i.ytimg.com/vi/yzFgwiGNbxA/hqdefault.jpg",
       "visto": "2026-10-26T16:55:17.670Z"
@@ -521,24 +539,6 @@
       "publicado": "hace 1 m",
       "duracion": "0:43",
       "imagen": "https://i.ytimg.com/vi/lnOQyZuqfAA/hqdefault.jpg",
-      "visto": null
-    },
-    {
-      "id": "pOmq4ycjM4s",
-      "titulo": "Nueva York será sede de la primera ‘Semana Milagro’ del Gobierno de De la Espriella",
-      "canal": "LAS NOTICIAS COL",
-      "publicado": "hace 1 m",
-      "duracion": "0:46",
-      "imagen": "https://i.ytimg.com/vi/pOmq4ycjM4s/hqdefault.jpg",
-      "visto": null
-    },
-    {
-      "id": "CyvhwIwnulU",
-      "titulo": "¡Milagro Week! Colombia lleva 176 proyectos a Nueva York en busca de inversión",
-      "canal": "El pailas",
-      "publicado": "hace 1 m",
-      "duracion": "0:40",
-      "imagen": "https://i.ytimg.com/vi/CyvhwIwnulU/hqdefault.jpg",
       "visto": null
     }
   ]
