@@ -1,6 +1,30 @@
 {
-  "revisado": "2026-11-09T20:38:01.433Z",
+  "revisado": "2026-11-10T03:23:34.017Z",
   "noticias": [
+    {
+      "titulo": "Corrección: Ahora sí, la lista completa de los 132 proyectos de la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2YwT3BjbEczM1F4U0lNajA2bmoxTkw0eF9Va2hpbC1ZS1o2dVlqUVQybFhKbHVWYnNJNTQ0bnVBU25hRDNEYTdsWFBBTmdlU3Y4REdFYk4wVkFhRFNBdEN6U3RhbzlIZW81RGNyTEN2Uzl3QlVGNExXSGtCenBQeXNYemZRMGtpeUx1UEN5SFlxRjRweEVETzJLNllpZWJfUVFYbThMVFNIY25NZ1VWY1RQaVdvc1pWRnhRSGhfZw?oc=5",
+      "fuente": "La Silla Vacía",
+      "imagen": "http://www.bing.com/th?id=ONUT.AWAgwT6Hh1p2UEd_VRpQfQ&pid=News",
+      "resumen": "",
+      "fecha": "2026-11-09T22:38:25.000Z"
+    },
+    {
+      "titulo": "Embajadora de Colombia en EE.UU. se reúne con directiva del Banco Mundial para explorar inversiones",
+      "link": "https://www.semana.com/economia/capsulas/articulo/embajadora-de-colombia-en-eeuu-se-reune-con-directiva-del-banco-mundial-para-explorar-inversiones/202604/",
+      "fuente": "Semana",
+      "imagen": "http://www.bing.com/th?id=ONUT.MVXXnPx9jUxYMRcWtOtsCw&pid=News",
+      "resumen": "El encuentro buscó identificar oportunidades de inversión y financiación en sectores estratégicos, así como promover la iniciativa Milagro Week.",
+      "fecha": "2026-11-09T14:32:00.000Z"
+    },
+    {
+      "titulo": "Promueven plan de $57.000 millones en Nueva York: estos son los proyectos de la Milagro Week",
+      "link": "https://2001online.com/usa/servicios/promueven-plan-de-57-000-millones-en-nueva-york-estos-son-los-proyectos-de-la-milagro-week-202611919290",
+      "fuente": "2001online",
+      "imagen": "http://www.bing.com/th?id=ONUT.4Nz-a_I2zSuGUKWdWXqY0A&pid=News",
+      "resumen": "El gobierno presentará 86 proyectos estratégicos ante más de 700 inversionistas extranjeros en Nueva York ...",
+      "fecha": "2026-11-09T12:30:00.000Z"
+    },
     {
       "titulo": "Milagro Week: tren de la Altillanura, entre los proyectos que buscan inversión extranjera",
       "link": "https://periodicodelmeta.com/milagro-week-tren-de-la-altillanura-entre-los-proyectos-que-buscan-inversion-extranjera/",
@@ -16,6 +40,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.LaggNce1x4fUcpl9e01URw&pid=News",
       "resumen": "Gobierno de Abelardo de la Espriella lleva 132 proyectos a Nueva York para atraer inversión a Colombia.",
       "fecha": "2026-11-09T05:20:00.000Z"
+    },
+    {
+      "titulo": "Colombia presentará en el Milagro Week 132 megaproyectos de infraestructura para atraer inversión extranjera, que incluye trenes, vías y aeropuertos",
+      "link": "https://www.infobae.com/colombia/2026/11/09/colombia-presentara-en-el-milagro-week-132-megaproyectos-de-infraestructura-para-atraer-inversion-extranjera-que-incluye-trenes-vias-y-aeropuertos/",
+      "fuente": "Infobae",
+      "imagen": "http://www.bing.com/th?id=ONUT.4-jNz2RPX3d5vatKNLJ3Mw&pid=News",
+      "resumen": "J. P. Morgan, Citi y otros aliados internacionales participarán en la búsqueda de capital para iniciativas que incluyen conexiones ferroviarias entre regiones, ampliaciones aeroportuarias y nuevas obr ...",
+      "fecha": "2026-11-09T03:53:00.000Z"
     },
     {
       "titulo": "Más de 700 inversionistas interesados en el ‘Milagro Week’: trenes, minas y parques solares, entre los proyectos",
@@ -996,41 +1028,6 @@
       "resumen": "",
       "fecha": "2026-09-28T07:00:00.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "Arrancan las \"Milagro Weeks\" lideradas por José Manuel Restrepo: así funcionarán",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOX01sdkQxdEFWeE10REI5VzJpb2o2cVRnZEw2UHczTkp5ODRKMGtQVGM0VTRRZTcxbzdwRlB2akhmOFNZTnRsdXNpd2RWb29kS3Y2dWZqQ3Zsckt5RVVydGREYnBIcnJTcjh3MTdPT2M5VmVZSDFRd2dDalIyTFZKcnFKR25mTjdZMUhuZ05ETUR0VFRsNnVHU0hKQ2xNZVpNRGw3dVhqMmRtV1FPeThUaVRyZ0FkeElTSGVsQ1VvT3BPckMwR2RuNGVrdUlXNmFWLXo5WjdCVmJEcnF0X21GSFNNMjdsYm91OWpCQ1ZNU2_SAYQCQVVfeXFMTVVISUtWb0RIZHZxV3BZMGM3Q1c5YlNVdUx3djA1Y3Nxd0xQVnZHZmZPSHVOYmZZZk9Va3FXYl8zQlFpQzJvTExQSDRDaGQwb0lQRU4zekFMX2F4WVVWTWRhR3VnaVNCcENRQmtJWUFJWWQxQmU5Yl9tM2VBU1B5ZHZPcVNqWS1aMzZDei1nLVpfS2ZtcmozSFd2TVlqbVNMYmhyc1NoLTE0Uk5HTHdzaGd0M1c2cnR2TjdXMUhDVGhjMko0OVA5QWxPQXdOY1FKMXpYTnMzWVhhSjlFSGlKN3FJMTRWLTVwYXotQ2g5bDhHb1dOME5qXzhBYzlwX2NRU29xZXE?oc=5",
-      "fuente": "El Espectador",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Restrepo anuncia primera ‘Milagro Week’ en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iRUo2NjJ0cHRXLVdiaERnampyNl9MblFMSks3cDVBMUttTEtGOEVsM3BWNlhpNE5aNHNQSEJLdVBINjVtWG56akpaLVlOdXREazhYeXNsZUdEWmExWE5QSkltWDJ5UENIYTR0WDlOVzZXMWJXd0dPMmlBa0FXUQ?oc=5",
-      "fuente": "Estrella Digital Colombia",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno lanza “Milagro Weeks” en Nueva York para atraer inversión extranjera y conectar proyectos clave de Colombia",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeEtIQVZHRE84RUNNZTlQLVlZOTJaMnJvYXNPX3FuVGdwaEVyVklTbVAyLUtDZkFEb3J2eE5BeC1heWY0eWJ5TTdUMW1kcXZLc2JlVzQ0TFFLUjl1YkdBRUFaN3c2UFJsNWo5V0JlLU5DSzM4NE5TYmtXZDZKNGhaVTdxVWxKVHFoSGlUcEo1c05GUFhUdVRpbGJyNEpaUDRleGx1Q3ZDSV9lMF9nb0JydDNpZDlOMEpCZEEtY2JjOUJCSXfSAcgBQVVfeXFMT1V4dFotSEFGeHJXQ0xOdU90TWFRZHNxckJZNFMyM0Z1OWZzeTJ3LUE1WlJiV3NmTkNWMVNESDROby0waXdod25FV0Fhb05RQ2M4ZVNsQ0ZXYmRva3ZjSm5IaVZmc2xpbUVHQnJmYnQ2bHI1b0FkMjktM2FtZXRDazQ5TURfblBXTWxaSm4tNG1EVkhrdjdXMkxJRkt1b28tSUFzc19yNFNXZlFqN1hCcFhSUWNLZ2VQQ0NsYkc2ZnA1REI1ZXo2VTQ?oc=5",
-      "fuente": "Pulzo",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-28T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Así será la ‘Milagro Week’ del gobierno de Abelardo de la Espriella en Nueva York: presentará 176 proyectos para atraer inversión",
-      "link": "https://www.infobae.com/colombia/2026/09/28/asi-sera-la-milagro-week-del-gobierno-de-abelardo-de-la-espriella-en-nueva-york-presentara-176-proyectos-para-atraer-inversion/",
-      "fuente": "Infobae",
-      "imagen": "https://www.infobae.com/resizer/v2/S62RUK2OKRGNHGDSUT4JRBG3GQ.jpeg?auth=7494476488981507f2af249f0a0cf373becb1d26c67db1b2455a401126ce9643&smart=true&width=1024&height=512&quality=85",
-      "resumen": "La estrategia del Gobierno apunta a conectar iniciativas de infraestructura, energía, turismo y tecnología con empresarios, fondos e inversionistas internacionales que puedan aportar recursos para su ...",
-      "fecha": "2026-09-28T04:32:00.000Z"
     }
   ]
 }
