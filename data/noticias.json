@@ -1,6 +1,15 @@
 {
-  "revisado": "2026-11-11T16:02:28.143Z",
+  "revisado": "2026-11-11T21:42:28.379Z",
   "noticias": [
+    {
+      "titulo": "Murgas, clave para Misión Crecer",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EZVROUjVraW1OWmJrbUxJN2VrWTFhaVZCYTF4M2k2b0NSUm5JTkUzNzU2aURpcVpELTZaX0Z4YVFkLWpwQ3M2ZlVJXzJKUmVta3ZEeW53TXNGQ1JvNnNLdnpCRGcxcER6aV9RMg?oc=5",
+      "fuente": "Nos Cogió la Noche",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-11T15:45:07.000Z",
+      "sinFoto": true
+    },
     {
       "titulo": "Milagro Week Colombia: 97 proyectos para captar 41.900 millones y la oportunidad para las empresas españolas",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkNGbF85dzFGcGdodml1SkVuLWUwekFVQjJpQnphc1VQXzg1RmdTU3BleWJFYzIzcHJDd0dISXBNNW11dTRPTnYycllScGh6ZnRObWpjRVVaMnBsbmxHUDI3M001VHFQdmRuZlRsajk4Z0M3NmctTFhXZVM1emNvM09R?oc=5",
@@ -17,6 +26,23 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-11-11T11:10:10.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Turismo de Cartagena dará el salto de calidad con nuevo aeropuerto: megaproyecto de $6,1 billones buscará inversión en la Milagro Week",
+      "link": "https://www.msn.com/es-co/dinero/other/turismo-de-cartagena-dar%C3%A1-el-salto-de-calidad-con-nuevo-aeropuerto-megaproyecto-de-6-1-billones-buscar%C3%A1-inversi%C3%B3n-en-la-milagro-week/ar-AA2hezLt",
+      "fuente": "Msn",
+      "imagen": "http://www.bing.com/th?id=ONUT.iF7sUQ3bKM1nr0JRmJimJA&pid=News",
+      "resumen": "Cartagena busca atraer capital para transformar su conectividad aérea. Un megaproyecto plantea una nueva infraestructura.",
+      "fecha": "2026-11-11T11:00:00.000Z"
+    },
+    {
+      "titulo": "Se calientan motores para la Milagro Week en Nueva York: esta es la hoja de ruta",
+      "link": "https://www.msn.com/es-co/noticias/politica/se-calientan-motores-para-la-milagro-week-en-nueva-york-esta-es-la-hoja-de-ruta/ar-AA2hf5XB",
+      "fuente": "Msn",
+      "imagen": "",
+      "resumen": "El vicepresidente José Manuel Restrepo ya tiene listos los objetivos para la semana que pasará en Estados Unidos.",
+      "fecha": "2026-11-11T10:05:00.000Z",
       "sinFoto": true
     },
     {
@@ -989,33 +1015,6 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-29T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Colombia – Presidente anuncia “Milagro week” en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUjZqdzIxUHhtejU3TXBfM0JFdEhPZGoxNFVxRmIxRUJtanZObnFfV011VmlMX0xJSWRHbWVQTkU2UFl3N1VlZ0Z4WjVXbkxxblBnNDUyV3lzcDEtWEhIa1pyT2M5ZWdMdXo2WDhuUGFDMldnWF9MQ0RxNVN4WTdULXU1dkRsU2ZqQnZmN3VJaw?oc=5",
-      "fuente": "Diario Jurídico",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-29T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "‘Milagro Week’: Gobierno llevará a Nueva York 176 proyectos en busca de inversión",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqOWJKdHJoeGxOb1NJcnpPcjZ5c0xOSldfbWRTenZ3M3BZWEM2VkdlRzFpSS1lS0ZmSHV6WmlmUC1iM1hHeGNVcV9qNjhBQWZDanpwVWQ2ZFBwSy1w?oc=5",
-      "fuente": "Boyaca Radio",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-29T02:49:28.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Colombia alista ´Milagro Week' en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNal9lcm1scUJkYmVSeTkyU2hqMWtZWXhiUWN1aXhTelMwUFRxbUNSQ1hKR1hHWHBLQ19Pa0czaGpPRk54Zi14OUFGNExFbjkzY0ItR3FIMXA0eVJxa1VyV0lYM29tSVlHNGdFZ3E2cXl0QndYUXZuZUtyQVJOcXdKY2RhbXJvRzRsRGRSTWtHc291b0FvMmc?oc=5",
-      "fuente": "Ecos del Combeima",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-28T21:16:25.000Z",
       "sinFoto": true
     }
   ]
