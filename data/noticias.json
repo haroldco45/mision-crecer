@@ -1,6 +1,15 @@
 {
-  "revisado": "2026-11-11T00:32:36.720Z",
+  "revisado": "2026-11-11T07:40:20.400Z",
   "noticias": [
+    {
+      "titulo": "Milagro Week: senador pide al Gobierno anunciar avances legislativos para atraer inversión minera - Emisora",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZnVGMFIxcENXUEtKU25ib3o1MDg3bVlGOGo2WE5Ia043VGcxUmJxV2hObDk1X0p0RHFGQmZFc3NwWDNvaHlWanJBZzBqUk4xVXRQLWNmSk96ZnVTX1VGRlJ0WU1WaXp1a0FBQktubmlGaTlXNkRTaHhsNW5uQnpsQmo1LXM4OTRqUTYxR2xvbTNpZ09JWFpIdTZvVzREM1c2REtLVnNXQlNjX21ZNXFjNk1zMzFuUFZrQ05VQjBENi1WMFpkZnZvYm9lVGVLM3NDazB3MtIB3AFBVV95cUxPT1pBdEpCLUhMSy1tcDFuOWxpU280NDBDWmlpX0xYMEw2WHVkVHdRd0JqNFVocENlaVgwY2NJNk5YSlBkcENHWTUxWFdLNUpOREhfQ29ELXRZZzRYZjJOMGNnTjhLbTNvUzVQWlYxN2U2Tk1IOWpLVFZvcWVSZ1RKMFdGcFFIamZqWl9LME53Vk1KQkJlb05RVy1jVVFDRVc3NEx3cGVvbFNjVVh4MUpyNTlyTm1aSXVqSUFMQWtfb1Eya1dPM2UwOTdxVEZiakhsT0hvU2JJcC16NEZv?oc=5",
+      "fuente": "Emisora Atlántico 1070 AM",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-11T02:56:53.000Z",
+      "sinFoto": true
+    },
     {
       "titulo": "Gobierno buscará millonaria inversión en el Milagro Week para megaobra en el aeropuerto El Dorado",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUE1CUzB0UkY4LTdTbFhJaEM4blZGZk4yR0J2NFotX29JajJZMUhFTWI4bFBRQm1wT0hYOG1lbVF0enN4YVFFN0RtOVRDMGhUaFRld2dsUWR5dGpWcFRybGhjbEtMY0FPQlliSThwVjZwRmQ4S0hsTVFUQW5iSUpaWVVjdHVCSVpBYTQtVW5qNW1vVldIQm1uU19la1pTeTRtZWRXMmwzZk80bVUzS2ctN1VjSE1OUWcwcHliX0lNZ9IBxAFBVV95cUxONGVQalpnZnA2cWlmWDRnVVV4MWVDT1k4QjJnalhzWjFjQmF0empzRWpMRnd1STJOelBDeHlpSllxcVgzZlJvWnBmaDZReGJsYkRBNTJkeW9XQ1Z0MG1zbU9kSEJpbDJpT1dSZXVSR09zUXF5QW5CWDJmV0RrVVFWQ0Z0ck5lQ2cxbzk5WUlmM0xzZEJKRGw3SEd3bDhuOEhhYmtUZkxEeDZnNkpjQ2pKcmV0S1B2cUQ2RG1raUptZmlUWXhV?oc=5",
@@ -65,7 +74,7 @@
       "titulo": "Colombia busca US$41.900 millones entre extranjeros para desarrollar 250 proyectos",
       "link": "https://www.bloomberglinea.com/latinoamerica/colombia/colombia-busca-us41900-millones-entre-extranjeros-para-desarrollar-250-proyectos/",
       "fuente": "Bloomberglinea",
-      "imagen": "",
+      "imagen": "https://www.bloomberglinea.com/resizer/v2/TAF6ZOLPABEHFGOSUDXLLM2O6Q.jpg?auth=d6cbcb998a539c0a5b7dabc501e7f4d92f634ceb5559b3c9fe1f0cc9bb013870&width=1200&height=675&quality=80&smart=true",
       "resumen": "El Gobierno llevará a Nueva York 97 iniciativas que ya despertaron interés de inversionistas, como parte de la primera Milagro Week, que se realizará entre el 16 y el 19 de noviembre.",
       "fecha": "2026-11-10T14:16:00.000Z"
     },
@@ -1008,14 +1017,6 @@
       "resumen": "",
       "fecha": "2026-09-28T14:30:30.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno anunció la Milagro Week en noviembre para atraer inversión internacional",
-      "link": "https://laopinion.co/economia/gobierno-anuncio-la-milagro-week-en-noviembre-para-atraer-inversion-internacional",
-      "fuente": "La Opinión",
-      "imagen": "https://laopinion.co/sites/default/files/2026-09/JOS%C3%89-MANUEL-RESTREPO.jpg",
-      "resumen": "Un portafolio de 176 proyectos, 37 de ellos prioritarios.",
-      "fecha": "2026-09-28T08:00:00-05:00"
     }
   ]
 }
