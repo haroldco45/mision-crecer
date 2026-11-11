@@ -1,6 +1,24 @@
 {
-  "revisado": "2026-11-11T07:40:20.400Z",
+  "revisado": "2026-11-11T16:02:28.143Z",
   "noticias": [
+    {
+      "titulo": "Milagro Week Colombia: 97 proyectos para captar 41.900 millones y la oportunidad para las empresas españolas",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQkNGbF85dzFGcGdodml1SkVuLWUwekFVQjJpQnphc1VQXzg1RmdTU3BleWJFYzIzcHJDd0dISXBNNW11dTRPTnYycllScGh6ZnRObWpjRVVaMnBsbmxHUDI3M001VHFQdmRuZlRsajk4Z0M3NmctTFhXZVM1emNvM09R?oc=5",
+      "fuente": "MONCLOA.COM",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-11T11:24:17.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "La Milagro Week de Nueva York, de 132 megaproyectos, solo dos son nuestros. ¿Nos quejamos o los hacemos realidad?",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPS1lSY0lJNFc3WTNSYnZFc1E2bUprWjhCMEN0dUZPNGo3LVVBVEk4bGtqSjYxUDVGY09lT3JiODJzc2xnbVJtN0d3QW1zRDQzc1ZraWxVU2ZOb01EajNpSjZ1SHVONG9BY3I5RUg2ZGdYVjFYYWIyZDd1Rk9sTDJFdWNSN0hRV2Y2SEFUVFRERkNwcEZzVEwtSmVFV24wR1dTMi1sZFJCalE1X0J0QmduUnQ3MUVWN3Z2ZF85eWxSREhsSU82dXhKOFdkVkZlTVVHSlk3ck5wbXEtb1dm?oc=5",
+      "fuente": "La Última – La Ultima Noticias",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-11T11:10:10.000Z",
+      "sinFoto": true
+    },
     {
       "titulo": "Milagro Week: senador pide al Gobierno anunciar avances legislativos para atraer inversión minera - Emisora",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZnVGMFIxcENXUEtKU25ib3o1MDg3bVlGOGo2WE5Ia043VGcxUmJxV2hObDk1X0p0RHFGQmZFc3NwWDNvaHlWanJBZzBqUk4xVXRQLWNmSk96ZnVTX1VGRlJ0WU1WaXp1a0FBQktubmlGaTlXNkRTaHhsNW5uQnpsQmo1LXM4OTRqUTYxR2xvbTNpZ09JWFpIdTZvVzREM1c2REtLVnNXQlNjX21ZNXFjNk1zMzFuUFZrQ05VQjBENi1WMFpkZnZvYm9lVGVLM3NDazB3MtIB3AFBVV95cUxPT1pBdEpCLUhMSy1tcDFuOWxpU280NDBDWmlpX0xYMEw2WHVkVHdRd0JqNFVocENlaVgwY2NJNk5YSlBkcENHWTUxWFdLNUpOREhfQ29ELXRZZzRYZjJOMGNnTjhLbTNvUzVQWlYxN2U2Tk1IOWpLVFZvcWVSZ1RKMFdGcFFIamZqWl9LME53Vk1KQkJlb05RVy1jVVFDRVc3NEx3cGVvbFNjVVh4MUpyNTlyTm1aSXVqSUFMQWtfb1Eya1dPM2UwOTdxVEZiakhsT0hvU2JJcC16NEZv?oc=5",
@@ -998,24 +1016,6 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-28T21:16:25.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Colombia pone la mira en Nueva York: así funcionará la “Milagro Week” para atraer inversión internacional",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYzBuNXh2NXI2QUdkMWM2Z1FhbEEzTlZOS2gyX2VvMXN3VkJNRzdnblgxcGVXNGs3RjlYakpqQXFmLWR2aUpiXzJpaWtTNVc1VGFYYXNRN3lEYWVSaW56NlllcHZEdV9scU1ZR3NPSjlDM3RmS2ZuTVRkUjNqMlozQmMtQ2c0UHNqM1VQbWtRVUl2TlBUNzBWcnFYbENzRVdPWjNLM2I1bVg5TWRDdDRwQlBVbGE2Zl9OZmVpYllZRnl4OC1USTFZaEx5YW5fV2dUbzRreXl3UWM?oc=5",
-      "fuente": "Prensa Mercosur",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-28T21:10:22.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week en Nueva York: El Gobierno busca impulsar la inversión extranjera en Colombia",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaHRiNlRTQmRqdjB6TGZrUE9aeGZzOTh6azRzVmpLOGNLdDA3ZTBJY0pERWs4MkpFMVJ5aEhQZHU5N1E4QURxNnNWWVFRQkJoLV9TMVFoRWE0N2dtbEFlOHB1TzREVWlxTFVWaXFjRmhhemtjeGVhdUJ1UkFVeGIzVnN4MG1SOEQ5enUtcXdfMEktODA0aW1mUjcxcUZHakVpR1ZMS2NiN1RkSTNtT0FPN1NETnoxZ3FKLTNlRzNn0gHGAUFVX3lxTE5WVmN1SkM1WVhjcVJzdEpuVVp6Y3JPbHNuWVNPcTAtTDR6NkppWE5MeW9mTVBWT2dxeDlpcXJPUVlXdHhyTHQ0U2xoRGZnc0J5QS1Fd2JHTEQ1SGEwVDFEOXBmNVkyTmpQWGZJSjJvczh5SWl6WkRjOTZNaXZINjFiS3I3NzhuWGFaWldPMU1CSzZub2ZxS253aC14QXJVR0ZYTV84aVRzbXJnRG80ZXlUb1JaOGdneXk2a3JlNllqSWhZZ1M1Zw?oc=5",
-      "fuente": "360 Radio",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-28T14:30:30.000Z",
       "sinFoto": true
     }
   ]
