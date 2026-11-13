@@ -1,13 +1,31 @@
 {
-  "revisado": "2026-11-13T17:20:32.822Z",
+  "revisado": "2026-11-13T22:48:31.782Z",
   "noticias": [
+    {
+      "titulo": "Medellín y Antioquia presentes con 23 proyectos en Milagro Week en Nueva York -",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanpMcm9NeTRjTUR6bl9rSW1jRmdfTlIwT1ZYaWxhNEJ0Wl9rWVl2UFBpUGtBRzB0RWlNN2xGdzliTEwtTER0N3p0eEUzRWlsRFZ5NkdJWW5sTjFfM24yd1FKWVZrbXRSZldlZVRvaUl6anJnYTRsaEJmR2kxbFRUV2ZYSzJVYmZHWmt4b2FtUTQ2ajBQemJ4R2RQY1Z1LU0?oc=5",
+      "fuente": "juanpaz.net",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-13T19:47:50.000Z"
+    },
+    {
+      "titulo": "Restrepo detalla Milagro Week: será la gran oportunidad",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOEF6cDNMc0oxYTlTRFhDaElaWUVVNlY2UEswelIzQmY3cW81YnNodFhQano0SFE1YTNSVjNNNHhneU10U3lBODUyMm5iYmFpdDI2a0J5UmRsWU1uek1udTBsQUFJakt6OWFZajhDUmtpY252M3R5ZEU4WTlGRzR3a3kxNWJCZjhUZHJxLVFfR0JsTXFSOEtsWEtmVllFQQ?oc=5",
+      "fuente": "Diario del Cauca",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-13T17:20:22.000Z",
+      "sinFoto": true
+    },
     {
       "titulo": "Medellín y Antioquia se unen a la Milagro Week con la presentación de 23 proyectos",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXN3dldvZWt6U3lQOEZ0MXJieGZMM1pLd2tya2pleXJMLVVpdy1VczRlMjFfOHZCb09WdUhONWg1dUhTSGsxN3RJY3JSTnRJU0xaSFZOc3dnbmJMajJRTGRYMktjVFg1YVB0ZzVMVzVIdHpjX3FTRjQtbWFWR09Rd1dmVzV3cDdUbWN2TGlwNEw5SzRJZ0NDWkhUQ2RfZDk2MUVzVmFBblFzZHFqay1ONHY5MUYwQUlF0gHMAUFVX3lxTE1ZSlBUX3VMai1Zd0RDRVVmdGpkQXJhQks3YUVwbjhuaWhkRzJJQTlBNG5CaDJQZEJZQllpOFdBcVphcVBBZE91bklRb0pmdTBMREltM1R4U1ZaMWh3b1hCTkJfd0cza1puWktSR2hHRm1yeGVRNmF1SmxFLWlxdXY0dS1ydkNjaVRJUHMyVVhxaHdINEhsVWIzeVRTMzRCT1k5TEtYM19lNlZHalVWcEd1X3BMRGlXbWVNdWRHb3lZamtlTk9GTlY3eHBBYQ?oc=5",
       "fuente": "Caracol Radio",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-13T14:05:06.000Z"
+      "fecha": "2026-11-13T14:05:06.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: José Manuel Restrepo explica en qué consiste y qué se hará en Nueva York",
@@ -991,24 +1009,6 @@
       "titulo": "Milagro Week en Nueva York: Colombia busca inversión",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeExQTWFvakhxWkphemx0Yzc1WUtJTk41VUNPZ3hUQTZZbHdVUGNFZVVpNW9TUzh3WmVHSWxMNjdNMGV5QWtaNzZlUzNteXR6OHNWZ2tqZ1ltMVpIOFQ5VlBVN2lhVXdROEdXYzRNRmdGbzhQcVNqclkyalhBdTUtcDg4QWZHUE5leXlPTFV0YUdIdHVNR2NHLdIBowFBVV95cUxOeldiUGgyQnpvQlUyTDd2eTdkOEZycjB0OTJyTmEySFZpRVEtVmgzZW9WSHk1dTZFVmNtdURQRGtHUnljbTlJMUpNTXZFazd0SlZDNWtXYWR5bkt0X2E2TnBaQ3FYbURHRndYSjNZRGg2VjJ1ZGtPb19QWUZlYXZDSVZJZFhJUVJKOVJJaWREdUhkZDhSQTJTWUJqaTZjT3FobTMw?oc=5",
       "fuente": "Diario Occidente",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-30T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Colombia busca inversionistas en Milagro Week con proyectos por $75 billones",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ3hIbElFRFNDVUUtVDJkMTR6XzJYWFY5Tm53UDcyMTZQSUhxYVdySEswNEZsaDlKUkRUb0I3UXBwYno5ZFlyMTFHQzJsWFp6Qm1neUNzSllDazlHVXlvRlJlU2FGbzE5aDZ1RGFhZmRSblV4d2NHYjhVOWllRl91QW02NnBjS2NZR0ZndlVzQTd6UXlFam8yQTh3bEFkMjdzLTIyNEVYckZLSVRIMlVpQm5rS2JtaFHSAbwBQVVfeXFMTUR0ZDhVZEkyMGdMaXc1WDRIczdBSXJ2dXVoMGE1eDdhU01xNlRDZmc5SWlqOHF5WUJROUE4NktBU2c1c29UNzF2UEp3LWRUTzJoYkJMX290YkR3Q2txSWh1S1BBNGF4cHNxY190dDlVOEd0VHcyUFRqLTJfUXVyWUpnbUpjU3lsTWtQVUpfQl8xZGNnUVN4cHJfWUJ4VEZBUXZkOUxVMWhwUHM2MUFPcE44T0ZPdVVrcExkS3o?oc=5",
-      "fuente": "Canal 1 En vivo",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-30T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno de Abelardo De la Espriella presentará un portafolio de proyectos por $75 billones en la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYUk3YWlaeFFYUzkwQkkxRHZzV1BCV0VKeVVCbTYzQ1V2cEllZU1mYXYwRGlWTDZBSXhLMTdSUmxmMVZqR1FfY2tEQTV2SnhQeThIU05Xem41U3NBRy1BVDNYc01qWndyam5QMFVNR0NuMjg4SUY2aDZoTDhGc25jZ0ROSVFjSVVZamozcjRQcEtXQV9wTG1WVlVUQkVHN2hNay1DWGlKZTlCeEVRS1hfQ09NZy1KTlBsM1FMNkhjZ01TeFd1WVhWQUxVN0hxdGQ3RkVTcXFLX1l2MUZ2RmF1YzgwWkF5S0ZxZTY0?oc=5",
-      "fuente": "ELHERALDO.CO",
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-30T07:00:00.000Z",

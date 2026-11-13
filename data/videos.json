@@ -1,11 +1,20 @@
 {
-  "revisado": "2026-11-13T17:20:32.869Z",
+  "revisado": "2026-11-13T22:48:31.845Z",
   "videos": [
+    {
+      "id": "m4O3PPH63zk",
+      "titulo": "Vicepresidente José Manuel Restrepo anuncia la 'Milagro Week' en Nueva York",
+      "canal": "Acento Colombia",
+      "publicado": "hace 7 días",
+      "duracion": "0:43",
+      "imagen": "https://i.ytimg.com/vi/m4O3PPH63zk/hqdefault.jpg",
+      "visto": "2026-11-13T22:48:31.845Z"
+    },
     {
       "id": "nZKoOGc288k",
       "titulo": "Vocería Vicepresidente de la República, José Manuel Restrepo",
       "canal": "Presidencia de la República - Colombia",
-      "publicado": "hace 1 h",
+      "publicado": "hace 6 h",
       "duracion": "4:25",
       "imagen": "https://i.ytimg.com/vi/nZKoOGc288k/hqdefault.jpg",
       "visto": "2026-11-13T17:20:32.869Z"
@@ -531,15 +540,6 @@
       "duracion": "1:23:27",
       "imagen": "https://i.ytimg.com/vi/b223rOJWKGc/hqdefault.jpg",
       "visto": "2026-11-07T08:38:35.607Z"
-    },
-    {
-      "id": "Feu0Wz69jd4",
-      "titulo": "Restrepo inicia agenda en el Tolima para captar proyectos de inversión de cara a la \"Milagro Week\"",
-      "canal": "Tendencia Política",
-      "publicado": "hace 1 m",
-      "duracion": "0:36",
-      "imagen": "https://i.ytimg.com/vi/Feu0Wz69jd4/hqdefault.jpg",
-      "visto": "2026-11-06T22:00:00.967Z"
     }
   ]
 }
