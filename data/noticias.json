@@ -1,13 +1,30 @@
 {
-  "revisado": "2026-11-14T16:57:13.476Z",
+  "revisado": "2026-11-14T21:21:17.900Z",
   "noticias": [
+    {
+      "titulo": "Cuatro exitosos negocios de colombianos en España que serán punta de lanza en el Milagro Week Europa del vicepresidente",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPd1FmTDZPRktCM2VlT0pOYWJPYm93V1puLVJCcUlrNkhvLWFJNnBmODE1V0hfNmVzUHpmV3BnaWc4MHh1N3YxVlVFeVROcEFicEFINjk5M2wwZ1ptdFBCdC1Yb2xnZFVMd2VTLVpqZnVCaG5lb3ZOeWdHUzBnSWhUWElnVy11NG9nNzVQNktONFZRVFZCNjhIal9LWThZdjUtQXYzRjdoUlhOdmU2LU9zd0NJVS02Z0Q4bUpINGhKNkJzMnpTTkhTTF9RVDhHTHZlejRzd042X0N4UjQ0MGVacA?oc=5",
+      "fuente": "Las2orillas",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-14T19:52:44.000Z"
+    },
     {
       "titulo": "Milagro Week: Cundinamarca busca millonaria inversión con 7 proyectos que podrían transformar el departamento",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdE9obWU3NjJ5UXNINmpINDIzZVlTRjVEZXBCSzVIZUpIaklNSzVXRzg1bVlKTFEzUFNrQW13ZjQxU2U1VGtmTXJqZzdtM3pnZFRBNENIZG8zSUVpbzdLRHBSb0I3UlFsV1hxUjY0bHBZR3RpNDRmb1dFS3RuQ1h1SURCREhwaUE?oc=5",
       "fuente": "PortalNews \"Noticias & Actualidad 7/24\"",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-14T16:23:45.000Z"
+      "fecha": "2026-11-14T16:23:45.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Megaproyectos de US$6.299 millones en Antioquia que buscan financiación en Milagro Week",
+      "link": "https://www.msn.com/es-co/dinero/general/megaproyectos-de-us-6-299-millones-en-antioquia-que-buscan-financiaci%C3%B3n-en-milagro-week/ar-AA2hrJ5R",
+      "fuente": "Msn",
+      "imagen": "http://www.bing.com/th?id=ONUT.x-csmJ4_Xo38DpH9JGQzGA&pid=News",
+      "resumen": "Las propuestas están distribuidas en cinco sectores: infraestructura, energía, hotelería, agroindustria y tecnología.",
+      "fecha": "2026-11-14T10:25:10.000Z"
     },
     {
       "titulo": "Cinco proyectos de la ‘Milagro Week’ traerían 50% del monto total",
@@ -992,23 +1009,6 @@
       "resumen": "",
       "fecha": "2026-10-01T07:00:00.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "Con una meta de proyectos por $75 billones, el Gobierno realizará el primer encuentro Milagro Week en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORkh5b1J4UGRJRTByd1JFWlZsdTB1TlpPWjg3dGd5cEVGLXpxVjRjZk5SbFdib2t6UUs3Slo0TnBVZ3Rab0g2ZjFaa2tPSjFzN1h6cGVCZ0J4VVZjRk5heE1mVHZsSk1pX0lzNkN3U29uU0E3QVFBUU1hQkxUY1RYOEFoT211R19pV21YZ0VNR28tUXpQVUdiSXFwcVdDOW5qMm1pYndoNDJGMVFHci1aUXVTVXZvNGw4VUF3TEJGX0ZlTnlGOFl1d0d3U29wdlE?oc=5",
-      "fuente": "elnorte.com.co",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-01T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "José Manuel Restrepo impulsa agenda de inversión entre Colombia y Venezuela",
-      "link": "https://www.larepublica.co/economia/jose-manuel-restrepo-impulsa-agenda-de-inversion-entre-colombia-y-venezuela-4494249",
-      "fuente": "Larepublica",
-      "imagen": "https://img.lalr.co/cms/2026/10/01064901/WhatsApp-Image-2026-10-01-at-6.23.33-AM.jpg?size=xl&ratio=r40_21",
-      "resumen": "La iniciativa hace parte de \"Misión Crecer\", que se inició con el propósito de atraer la inversión y entrada de capitales al país ...",
-      "fecha": "2026-10-01T04:56:00.000Z"
     }
   ]
 }
