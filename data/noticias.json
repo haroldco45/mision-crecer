@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-13T22:48:31.782Z",
+  "revisado": "2026-11-14T03:00:43.114Z",
   "noticias": [
     {
       "titulo": "Medellín y Antioquia presentes con 23 proyectos en Milagro Week en Nueva York -",
@@ -7,7 +7,8 @@
       "fuente": "juanpaz.net",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-13T19:47:50.000Z"
+      "fecha": "2026-11-13T19:47:50.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Restrepo detalla Milagro Week: será la gran oportunidad",
@@ -26,6 +27,14 @@
       "resumen": "",
       "fecha": "2026-11-13T14:05:06.000Z",
       "sinFoto": true
+    },
+    {
+      "titulo": "Gobierno de Abelardo de la Espriella busca inversionistas para Colombia en Nueva York | Pulzo",
+      "link": "https://www.msn.com/es-co/dinero/general/gobierno-de-abelardo-de-la-espriella-busca-inversionistas-para-colombia-en-nueva-york-pulzo/vi-AA2hoeK4",
+      "fuente": "Msn",
+      "imagen": "http://www.bing.com/th?id=ONUT.M9hcJD5iAQECyZ7kzC951A&pid=News",
+      "resumen": "Del 16 al 18 de noviembre, Colombia presentará en Nueva York proyectos de inversión de distintas regiones durante la Milagro Week, un evento con el que el Gobierno de Abelardo de la Espriella busca co ...",
+      "fecha": "2026-11-13T13:21:41.000Z"
     },
     {
       "titulo": "Milagro Week: José Manuel Restrepo explica en qué consiste y qué se hará en Nueva York",
@@ -1000,15 +1009,6 @@
       "titulo": "Gobierno llevará a Nueva York portafolio de proyectos por $75 billones en primera Milagro Week",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNDlfNGJPYzNBVXNjZGs1X0tHejI3akc4azVrWXdDMXVuT1k4akJzMU1idjM5eFNXZDA5NFcwTjc5eW1pMmRoemEyOEd2OEtKc2s4OTc5STh3cTZ6b1BkT0tUb0phYzN2SVdPdS1ZYkhaMXA1VUh0LXQxV2xNQUtJSjQyYkdmOGdFcjVwb2JJR0hPbXNQbGJhZktxM2xTY3lfNVNqNnNfaW1NSXpTUTdFRnlMeUI2c19JZ213UTg4SzhxQ2vSAcgBQVVfeXFMUFlWQ3N1X3BIbHRfaWhoRk9OZjVESDNLei1DZzBYdjA0aFNmNnZEQ2ZXb0x2ZkJPV1lZWnJXclVLaW1CemtGc2NBZGJWelY2dzktcVNaVm1oZDZvNHpQVlNPLWFQMUExQjZlV1o3eFU1bnhURDdjRjZzRS1MUU90MW1mVTZOUllITUUwMV9lLUFMQVhUUFcwdkhHNnV0akJuZWJPb2lkN21mdk54SE1SSXY2SnhjcW9LUDA1bVVtWDdGTGdSQTAzNkg?oc=5",
       "fuente": "Valora Analitik",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-09-30T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week en Nueva York: Colombia busca inversión",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeExQTWFvakhxWkphemx0Yzc1WUtJTk41VUNPZ3hUQTZZbHdVUGNFZVVpNW9TUzh3WmVHSWxMNjdNMGV5QWtaNzZlUzNteXR6OHNWZ2tqZ1ltMVpIOFQ5VlBVN2lhVXdROEdXYzRNRmdGbzhQcVNqclkyalhBdTUtcDg4QWZHUE5leXlPTFV0YUdIdHVNR2NHLdIBowFBVV95cUxOeldiUGgyQnpvQlUyTDd2eTdkOEZycjB0OTJyTmEySFZpRVEtVmgzZW9WSHk1dTZFVmNtdURQRGtHUnljbTlJMUpNTXZFazd0SlZDNWtXYWR5bkt0X2E2TnBaQ3FYbURHRndYSjNZRGg2VjJ1ZGtPb19QWUZlYXZDSVZJZFhJUVJKOVJJaWREdUhkZDhSQTJTWUJqaTZjT3FobTMw?oc=5",
-      "fuente": "Diario Occidente",
       "imagen": "",
       "resumen": "",
       "fecha": "2026-09-30T07:00:00.000Z",
