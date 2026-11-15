@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-14T21:21:17.900Z",
+  "revisado": "2026-11-15T01:15:18.247Z",
   "noticias": [
     {
       "titulo": "Cuatro exitosos negocios de colombianos en España que serán punta de lanza en el Milagro Week Europa del vicepresidente",
@@ -7,7 +7,8 @@
       "fuente": "Las2orillas",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-14T19:52:44.000Z"
+      "fecha": "2026-11-14T19:52:44.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: Cundinamarca busca millonaria inversión con 7 proyectos que podrían transformar el departamento",
