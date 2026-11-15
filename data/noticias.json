@@ -1,6 +1,14 @@
 {
-  "revisado": "2026-11-15T15:49:45.856Z",
+  "revisado": "2026-11-15T20:58:13.052Z",
   "noticias": [
+    {
+      "titulo": "Línea 4 del Metro y RegioTram del Norte, entre los 15 proyectos que Bogotá llevará a la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcFp6d0ZPcUY4SjBuQzhZdXVJMlJZYTVzWFRSakpVbk5PdWtXamU4ZmpCWTMtSDd2TTlxc1U2M0ZFVndtVzYwbWhwbU4yOUNlSExPWEdwV2JQUWZKZlJuaEV6V0FFRk9yRndqeUtGYlltZ0NpMzlsbkxJTkVtN0M3d29BbmF5M3JPb1JpVGJWTnEzN2U1Yzg0SjhLaG9NSEV2RlNydEcyN0ZtNmVpeS00blc5VFNxS0ZJM2xIenVxcTRzWjIxbDFvdWJwUUU4MXpZU2NzVlg4TU5XV19xWDZMUXZTMEY3ZWNiZWFxWGlB0gHzAUFVX3lxTE10ZjNGOWlkQld4THpONHJRNV9ZMmg5NWkyQ2VnSDVkYy1RZW16Nm5SQUxsV2xoSmNpaU50RGVEYkpGZXlpYWNDSlRKM1lqWkdxTGRoTGNkZGtJUGY4cmV0dzV1aEM2TTMyWjQxZS1mWU5zMzNKNnMwVGtQWWVsYTlPVWs5b1c5bDNVUlcyZjJ4V0I1WUEtNEh6WkVkNHM5Xy0yOGpsbHRlV0puZjZ6REZXNGJjMVQ5RkIzSjVQZXpLU0dLSUxxSHJERm9PcUlrNlRfZjBpLTVNbXVxYzdUMjlwNXRLa0dHWlVvdXBMOEd4QlVRQQ?oc=5",
+      "fuente": "Portafolio.co",
+      "imagen": "http://www.bing.com/th?id=ONUT.ddapWpVLbsm6OCVwtFy6RA&pid=News",
+      "resumen": "",
+      "fecha": "2026-11-15T19:15:09.000Z"
+    },
     {
       "titulo": "Colombia presentará portafolio estratégico de inversión en Nueva York durante la Milagro Week",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcmtPYW5MazQtYjZLMUNmOEJ4ZlNpVS1hLXdFRjBsUmRZdXFtX1pPempzSE03N0NZbGxLbzQzcVBsQWRidGlJV2NwVl81Rkt4RjFtSnFpYzFHTDd6TF9naDJnc21VWHo0WUxVcW1FTG1pd2kzRkVScWFMLS0xTWktakVodHNjS3ZaSkw4VkFvblJPOTBaT2ZnaGhLYjczVElLMW1VeExQMF9Jd1dmZHg2a2dCYV9jM3R3Y0UwQkh0WU1aU3dUZ2c?oc=5",
@@ -32,6 +40,22 @@
       "imagen": "http://www.bing.com/th?id=ONUT.j-yke_1NvzBwjaqOkQnl3A&pid=News",
       "resumen": "El vicepresidente José Manuel Restrepo presentó el balance de los primeros 100 días de Gobierno, destacando la Misión Crecer, inversiones extranjeras ...",
       "fecha": "2026-11-15T06:17:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week: así será la rueda de inversión de Colombia en Nueva York del 16 al 19 de noviembre",
+      "link": "https://www.portafolio.co/economia/gobierno/milagro-week-asi-sera-la-rueda-de-inversion-de-colombia-en-nueva-york-del-16-al-19-de-noviembre-506428",
+      "fuente": "Portafolio",
+      "imagen": "http://www.bing.com/th?id=ONUT.CSyONbdIMHamvbzXdamIFw&pid=News",
+      "resumen": "En este portal utilizamos datos de navegación / cookies propias y de terceros para gestionar el portal, elaborar información estadística, optimizar la funcionalidad del sitio y mostrar publicidad rela ...",
+      "fecha": "2026-11-15T04:41:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week: Gobierno presentará 250 proyectos ante 500 inversionistas en Nueva York; explica vicepresidente",
+      "link": "https://www.lafm.com.co/politica/milagro-week-colombia-presentara-250-proyectos-ante-500-inversionistas-en-nueva-york-417292",
+      "fuente": "Lafm",
+      "imagen": "http://www.bing.com/th?id=ONUT.8J1kiSRMjehGf3sf2RiB5g&pid=News",
+      "resumen": "Milagro Week: Colombia presentará 250 proyectos ante 500 inversionistas en Nueva York para atraer capital extranjero por más de US$41.000 millones.",
+      "fecha": "2026-11-15T03:54:00.000Z"
     },
     {
       "titulo": "Cuatro exitosos negocios de colombianos en España que serán punta de lanza en el Milagro Week Europa del vicepresidente",
@@ -975,33 +999,6 @@
       "titulo": "Misión Crecer: poner el crecimiento en el centro",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOX0hQOG91WjFDd2pCdHZmQXNYOExiUkt2MGFfX0RLYUpWeFYyRTY3dWlRYzNnSjU5bG9WelR4OUlhRFk5LWRsb25uOGc1TndHQzU4VktCRmx6U2EyeVpKR2FrYmExbE50NmdsNVg2Y0lud240cVVxUk8xNUFYSjByV1dqYXhWcTVDRWNwS0l1SEpuU2E2cVpfeWp2TUowSy1oMzd6UFRsSkFYV2lmblQzeDZHTjRGczd1UVppd1ZqRDJsVHpBZ0Z4TXA2ZHVNZmFTWExV?oc=5",
       "fuente": "El Colombiano",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-10T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno colombiano impulsa \"Milagro Week\" para atraer inversión extranjera: clave evento en Nueva York y participación del Tolima",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRWViZDMtdVVUeVAwR1N5QUQtR2lLRHIxSDRXZkpYc0ZoY2xuUUl5TWRmS3lYVWNGODBXNWpLQXFtd1VqZ1hCYzZId2t5aGxpbXV1a2w4cXhiX0lHS3dwczQ5V0pJSkhxZTR0REl4Sk8wem8yNkdNZG1PRk9kaUZQcEpnS2EyZmVISlZfZDJlSHdCTHUwcHhycDJfYVdzTklRaEM3VWZVc2ROQVQ1WURJV3NhbTdwY2J0bXdmNHZzRS1MbjFNamZMc21kb29oZ3fSAdQBQVVfeXFMTTBZTHJMYUtJVVhnNXZwQ09BSU9SZnRXdkoxVkhHR202Tm8xSEkxRmtoTTlSLWhiQ1FuR2d3eWZLdm94VUVaUU54Y3RIRHFDcld4Q1k2SjJCQmYwYnI2TmxSYWlBRkR5b2h3eEkzZHJ6LUJTNEMtZFNaSUdRN19kaEttZU1vaWRVeU9KM3pRQVYyb0w4dUduWTBJbW1JV2NXM0hkc3FaZDlSLXhyM2J6VTdnOVU5aTdKMEdJTmRoRDQ5MFltb0d2WUpqWHpBYUd2RGtBYlY?oc=5",
-      "fuente": "Pulzo",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-10T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Restrepo avanza en articulación de estrategias para la \"Milagro Week\": ¿en qué consiste?",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbWJRanpyeW90VHRVZC1MR3JqS2NOV1ZvbWRpVmVKUThkSDhiSXB1dG1HR0lOcUtKam5LaDZuSThBbjdqd1RVeVNockNoY3AtaW5ERWdzd1U5YXo0ams0M2tWdk9rRXR0SWZfSi1rX0E3OEFSZmVsdC0zUXVQZGpHX1VDcUlJRGtIX1QtSUpfRWlzRnZXcF9wRDBmVjVrM1c2Z29IWjJJV1dQOXc3MTlkUU4zaWpuejdmX2x4Q3ZJdnVZb1lxN2NYcFd4eDA2S1hmU2h4NjVCTWYtVDZYbEdnMDl5RdIB9wFBVV95cUxQaGNyZmMyZU5RZGVUTXVJMDRZZlhNdk9VaGsza2NyZFAyR0htYWxCa1Jzdm1ONjVmUzBrbHo2OFd2U0w2T2I3YnJqcDVqN1cwRXg3V0xELXZHajJ0R2RmV2h0OGM2THhoY01iZWxzSERZSGhvOTUyT3BtMlN6cEhfZTVlZ0ZaOGRDTGlnVlQ4M3daTWFEYVQ5X044bk1jZThTMlFXaWltMWZCalQ3ZkR0TzZMUlp3NzRNZUhMbkRaZ2syTUNnU3pIUDdacHZwWG1ER2VGODE1RGFfel93V0ZFMjk3bS1BSGNjcHpTMFdKMjdUbm5xRkE0?oc=5",
-      "fuente": "El Espectador",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-10T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Vicepresidente José Manuel Restrepo está buscando vincular a empresarios regionales a la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVjdoQ1NubXoySzFkbzVUNEVrVnRJYy1zTjVhdGJPdmhySEdKYzl1UnBhRk10Uzg4cFNhMlhZQ3ExcHNZdS04Z09wZVE3TTh1M3c0LVFiN0ItbjFBLUdnalNRRTV5M2F3dHdGNjhvejBxRFUzNG9LRHJXZzc1YXFwSmlYTW9YQ04yNDVTR01lcWYzbV9sbjRUeVFuanF2M1d1UjVVTkMtTGMtczJnMGhwU1BGS1BiLVA4dkVHam9tS2NPZmh2Z2xaZVIycDB1TDhm?oc=5",
-      "fuente": "IFM Noticias",
       "imagen": "",
       "resumen": "",
       "fecha": "2026-10-10T07:00:00.000Z",
