@@ -1,13 +1,142 @@
 {
-  "revisado": "2026-11-16T07:51:52.302Z",
+  "revisado": "2026-11-16T18:18:56.288Z",
   "noticias": [
+    {
+      "titulo": "Bogotá-Región llega a Nueva York con 15 iniciativas en busca de inversión en la primera Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2NwU0FKSzdud2RMcnZod2hjYUl3Z0MyUzhLUlo2RHRPRGZSSWt3NkdqNHFkaml2cUNNcU9qYmQ3bDVaREtaTDlURnVTQVdpOFpfZWpZLXEtOEh3ZDAtd0dZZy1QMTlrdGxtZnBpVGxvVXlWcF9wNjlZamVidHBrc0tCb1E0dlpwZ1FPQlZzOXFORjdPWDRwcGpiX0RmaFN3Q3RhMndOaW0yb2F5Nm1wRWd3?oc=5",
+      "fuente": "Bogota.gov.co",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T18:04:00.000Z"
+    },
+    {
+      "titulo": "Cerro Matoso entra al Plan Destrabe del Gobierno: las inversiones que buscan avanzar después de la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOR0JqTEdzTUEwVkFUZURSSGRJTzFkVWJyTXE4UU12Q2FYZ0YzOTB6eFBic281Y09mdGNnYmJIb1FYRWdIaVdaUHI0OWJMR1UtTVE5RndNdE9FNG92RXZxY0VQaGl5Y0hVY1phUWhPUl85SElIWlFHZFAtY1RPTDhCM19WSXg5Z19sWTNmR184SXFQd2kxblJlNGRXcWFYdU5KN3gxaUt3aExiemZIbzc4aTF1S3NOYjVQT2lRazl4WW41djYwdHB0aWJiYkI4akZJVFExVklUZWpobEJ5clhvTUVmdUU3SEZOR2ZzUkNpTHNnMWdY0gH6AUFVX3lxTE5lSnpNTHYzd2lKZ2Z6ZTQ1WHRqQUZkMF9vd2J6UEF3RmU4NVpsT1NjSXZMMDZ6b1k5SUgzVkFMcHotSlpsd1FhUzJlR2NBZ0pCV3p2dXdHdExkNkZYTi1nQmtFWnRzb2xjdHV1aFBEWXh6S2NoRlVOeWxUTjQwTUFtdlhGTlgxcFRLcXd6N1M0eTJCSC04UGlSMkJxM3VMMnBMakhQcDlITkhKaG1FLUFncUR0V2VwSG80MGVGQl9fYXBUSnpyUE5HZkR1d3JzX2Zadkp6cnpCWWRDRlFPb3RDSmJtb09vUEIyLURFU1htdUFqZlJvMzdVWkE?oc=5",
+      "fuente": "Portafolio.co",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T17:45:52.000Z"
+    },
+    {
+      "titulo": "Segundo campanazo de la ‘Milagro Week’: Plata S.A. aumenta su inversión en Colombia a US$400 millones",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMVRBT1U2eW4zQ0RKRWUxcDF5d0NSQlR5UnlBeDdZOFVRR21SVmgtMVlxOTQ3cmd3dnhmeXNXSG5GQUhKcXd3UTBnTzJpdExoekthTWdKbURENXV3U0ZOWUhMbjFuVGk5MkRTUTNLbGRNVHVfVVBJYkxGMDhHUmxyMFJjYnZUeThpOV9PLVZZcS1wN1RMNmdIV3NhQnYxS0NWNWk5SGZKbklUVlBMNjMyeEY4U1MwWXdyOFd6aXhVRHhjSlhLMFdtZzgyYjBnT2RoNVVFZng0NVUyTDBkVVFKQWdiZTlUX0100gHuAUFVX3lxTFBaSmZnbnVMXzFNdmxEaDcxdmRya1o4eDJIVUYyQ0MwUXB2T1kySDUybEtTT2VGN2w4MnlMNVczWlVsMGZ2Ui1WTG5SbHozWU53aVIzX1VHdF9QWGdrXy1EcmFEdmZReGQtRldyV25VLWxBV2JXLTFUeWV1SW91QnhLaEl5UGFkU0JUZ0ZsNXBFZEtyQW1Ea1d4ZnpPWk1WR1BGV1FrQUx1cTlEbVA2VTBST3pYbk9jOW41cm4wT1pOMGVYeHNZclFTSjZrVHBNZ05OblFaa1BKQ1VrNy1uZDdEMHVjWFJJSndZWG4zR1E?oc=5",
+      "fuente": "Revista Semana",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T16:54:37.000Z"
+    },
+    {
+      "titulo": "Los proyectos del Tolima que se presentarán en la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeU1MWUplWldGUzZaMjhBQy1iWTNPQ1JwaWxfSWVsQWlBT1J4TG1IdU9TQ2FCRXNEb0R2QjlEXzhGanpzT1U5TTByNDJxUmg4bDhNbVQwT1U1NjM1LUo1YUYwMnVvTUFXT0pJYVNrcjZMaWNhOHZoM3lJYmlVQlpmajdYem1lNnVVWWdjRXlCd095YmlscE9ZU2FObUgzR25JNkVvelNYcUtMNExRWG5B?oc=5",
+      "fuente": "El Nuevo Dia (Colombia)",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T16:28:20.000Z"
+    },
+    {
+      "titulo": "Avianca conectará a Barranquilla directamente con Nueva York: los detalles de la nueva ruta anunciada en la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTVktTGtsT1M1V21lSEc0c0ZrV2JTNVJBZVNyNWFvY0w1LTV5RHJ2RTBkUjAwRkdjTjk3bU02SVJJRUFlaHQ4YkFzN2J5MVYxLTV1dHhQLTZ4U0RlMFFBYWRXVmJob29feXk5SHR1MTJpc042c3ZQTDUzSThGMThxbWNjMzI3SFRxSTlpcDVqRnhNZUJWck5KN01pcnBGU2RjaThsdUJ5b2F3cjdmcmhWamJEUl92MVREVG9LUi05MnFXYmZ2MUV3T2NBamV0RDFrdlcyTThwT0t4S19LRV9WOV9GQkw5VWtJSnkxM1Q2NEhRUlEtOTFTZElvQ1hwV29FcUx2RmpmWWbSAY4CQVVfeXFMUFN3Z1VsQVNfVzdYcWh2VlZEQTM1elRIMnQ1UFB6cnFVa2FqZlk2dGxzVDIxYUJaVXBlWnhHc1dPVjFIY01tRWJJNHdGT2tsYjhaYkVzNWlNbHQ0d1Zleks0RWs0VU1MNmNvUFRsMUJVX21MS3lRd3lld05iRF9uV2FEUVJrOE1wc0h3UDVmT3NjY1VhRzZ6ZXFxU1dHZC0wOUJjanc3anNVQTFweEM0bTFvM25GMURHS2xUeXNiVlYxVXFYZEtKb1drQVhlclJUUnRZbVlGZC1BUHM5X0dEYVVxdThGY3g4SnNnbjZ3aXliLWpDU0tmZkNEakY0SDVuQS1oQ1lJRmtCTHJZQzBB?oc=5",
+      "fuente": "Revista Semana",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T16:12:34.000Z"
+    },
+    {
+      "titulo": "Gobierno nacional inicia en Nueva York la Milagro Week con enfoque en inversión para el Caribe",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWxrbDFGTlU5OHhkNF8xejluMERwSENqUFRkU1FGSDJSZmhxUF9ZUUY1STJ6Ry1WZGVUejltM0JYVnVnSjhla1FoTnRaZVZDWm1TRFBfb1BrWGotdmh2UjIyRlkwdlpkckRIUmJleUlpMjJlQTRpTXNobklSUC14Q0dGd2g2ZDd4T1V5dXE3M0d2V0sxdDFtckxfSmJ6d2FFWmw2U2JjQmZJYUJabXY0SGFpa18?oc=5",
+      "fuente": "IFM Noticias",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T15:50:03.000Z"
+    },
+    {
+      "titulo": "El gobierno nacional inició la rueda de negocios Milagro Week en Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVHVkeFNqZmc4QW9nMzZQU2R4RkNScjBaU1BLbjBSWUNoQ2p1a21ZT2M3aTdmSlQ2dmhKNTd4YUV1YlU0N19ZQlFIdC1yc3FMOWtTampLZnFEQ1VIS0h0bEgxNHozYTdJY2NBeHE3dmJYVWtuWV9NeHVPNGl3VnlUdndMT0Zzckd5aDVNMnotNVgzR2YwNHJYRkM4SUdBUFI4M08xR25FaGNUZGZmeFE?oc=5",
+      "fuente": "IFM Noticias",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T15:27:21.000Z"
+    },
+    {
+      "titulo": "“Aquí sigue generando confianza el Gobierno de Abelardo De La Espriella”: José Manuel Restrepo dio inicio a la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZXJOZ3dxdld6UGhoUEhudEtZZ3Y0WmpmdTRaNHRrblllLVNQMExtQ0VQbHdhVVhMYUs5YnJaY0NVbWNGcFYwb2FONWFEUmdPbE8xakdMRkp4SkVmcllfdkVha21SZm5FZ1p6QzFmbDdaS1g5SGhycGg0OUlhZHZrNUtYT2FYX1pScEk3TmN0elRzc1ZfWUNoWUJRNTlKMzNIWE1SQ3ZoODRXdjBXTXFON2JqMjc0aXZDdGJwTVJBMllJeWRfZjFBSU96YW50Z1Rnb2syZTdrR1hJdDJPYlFXc2x6VFhUNFRVd0N4V3YxMkpjOWlfVm9NVFNvaVlabVROWGlxc1dn0gGLAkFVX3lxTE8zUWpjaHc2YXE0S2tfekFOTHd0SDB0RnlmRF9vSHFSYnBFTHByNy1JTHZURkoyNTdySjZwemtlcVB3V3RoVUlJVEJCOVh1QkRJX3hJV1phM2FYenVsMklEcDRkY0o3emdOdE5RQVROVjV1cmR3aG1nZ2J3cjBFNDF2eHhnSTVhNERQVUhnTjBzbWM5ZHAyanlENGdDMUh5SnZweFdhWHNrMDFJdmhNRVNiQUYwUWRMeDJfdWhUZGJIeUVudDR3bFY1Zm1PX0d2eG0tTzlWNGg5ME03a01RNnZlZklMcmtPZG5ueHg4Zk1VTDZlNzdhZVZpUko2Y2lJUnFEd2lQOE1VSEdVMA?oc=5",
+      "fuente": "Revista Semana",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T15:22:50.000Z"
+    },
+    {
+      "titulo": "Milagro Week comienza en Nueva York con 298 citas para atraer inversión a Colombia — NoticiasBQ",
+      "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5VUXp1OE5LYkUwMXJSWUNLbFVrYzIxRDJDY04zbHExUDYwZ2MxVWZkamttVGFaYkVQTDg0?oc=5",
+      "fuente": "Howl.Link",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-16T15:16:16.000Z"
+    },
+    {
+      "titulo": "Plan ‘destrabe’ para Cerro Matoso: las claves del anuncio en la Milagro Week para reactivar la minería en Colombia",
+      "link": "https://www.semana.com/economia/macroeconomia/articulo/plan-destrabe-para-cerro-matoso-las-claves-del-anuncio-en-la-milagro-week-para-reactivar-la-mineria-en-colombia/202636/",
+      "fuente": "Semana",
+      "imagen": "http://www.bing.com/th?id=ONUT.ZSDfjn9qOj6VVkkjPOabvA&pid=News",
+      "resumen": "El vicepresidente se reunió con empresarios internacionales para poner en marcha un plan para la empresa Corex, propietaria de Cerro Matoso.",
+      "fecha": "2026-11-16T09:41:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week: El Tolima busca atraer inversionistas internacionales",
+      "link": "https://www.elnuevodia.com.co/tolima/milagro-week-el-tolima-busca-atraer-inversionistas-internacionales-541395",
+      "fuente": "Elnuevodia",
+      "imagen": "http://www.bing.com/th?id=ONUT.D77MvZ9H2jb47iQspa-keQ&pid=News",
+      "resumen": "El Tolima llevará proyectos por más de $1 billón a la Milagro Week en Nueva York, con apuestas en energía, minería, industria y agroindustria.",
+      "fecha": "2026-11-16T08:28:00.000Z"
+    },
+    {
+      "titulo": "Inicia la Milagro Week: 97 proyectos buscan en Nueva York US$41.900 millones de inversión y financiación",
+      "link": "https://www.msn.com/es-co/dinero/econom%C3%ADa/inicia-la-milagro-week-97-proyectos-buscan-en-nueva-york-us-41-900-millones-de-inversi%C3%B3n-y-financiaci%C3%B3n/ar-AA2hykOU",
+      "fuente": "Msn",
+      "imagen": "http://www.bing.com/th?id=ONUT.-0YYta8fttRZ5b93dCGseQ&pid=News",
+      "resumen": "Del 16 al 19 de noviembre, el Gobierno reunirá propuestas de seis sectores con inversionistas extranjeros.",
+      "fecha": "2026-11-16T08:24:06.000Z"
+    },
+    {
+      "titulo": "Arranca la Milagro Week en Nueva York: con más de 290 citas de negocios, Colombia presentará sus proyectos de inversión",
+      "link": "https://www.semana.com/economia/macroeconomia/articulo/arranca-la-milagro-week-en-nueva-york-con-mas-de-290-citas-de-negocios-colombia-presentara-sus-proyectos-de-inversion/202614/",
+      "fuente": "Semana",
+      "imagen": "http://www.bing.com/th?id=ONUT.559jXjj2hnmtup8q83UOsw&pid=News",
+      "resumen": "Este lunes arranca la primera edición de Milagro Week, una rueda de negocios en Nueva York que se extenderá hasta el 19 de noviembre y buscará atraer entre US$20.000 y US$41.900 millones en ...",
+      "fecha": "2026-11-16T08:17:00.000Z"
+    },
+    {
+      "titulo": "Arranca la Milagro Week en Nueva York con el vicepresidente al frente",
+      "link": "https://www.lasillavacia.com/en-vivo/arranca-la-milagro-week-en-nueva-york-con-el-vicepresidente-al-frente/",
+      "fuente": "Lasillavacia",
+      "imagen": "http://www.bing.com/th?id=ONUT.zk05QYOLLW1b7auX5jgu0A&pid=News",
+      "resumen": "La agenda irá del 16 al 19 de noviembre y el gobierno llega con 97 proyectos bajo el brazo para presentar a los inversionistas.",
+      "fecha": "2026-11-16T08:06:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week: Avianca hará millonaria inversión de US$3.000 millones a Colombia y facilitó vuelos directos a Nueva York",
+      "link": "https://www.msn.com/es-co/noticias/otras/milagro-week-avianca-har%C3%A1-millonaria-inversi%C3%B3n-de-us-3000-millones-a-colombia-y-facilit%C3%B3-vuelos-directos-a-nueva-york/ar-AA2hyRFK",
+      "fuente": "Msn",
+      "imagen": "",
+      "resumen": "Avianca, en calidad de aerolínea oficial del evento, habilitó una operación especial para facilitar el desplazamiento de los participantes colombianos.",
+      "fecha": "2026-11-16T07:30:00.000Z"
+    },
+    {
+      "titulo": "La Milagro Week arrancó este lunes en Nueva York con expectativas de negocios por US$41.900 millones",
+      "link": "https://www.elheraldo.co/economia/2026/11/16/la-milagro-week-arranco-este-lunes-en-nueva-york-con-expectativas-de-negocios-por-us41900-millones/",
+      "fuente": "Elheraldo",
+      "imagen": "http://www.bing.com/th?id=ONUT.rbGJH65Ci70kQQ999YHvwg&pid=News",
+      "resumen": "El vicepresidente José Manuel Restrepo confirmó que ya comenzaron las reuniones con organizaciones interesadas en invertir o ampliar sus inversiones en Colombia.",
+      "fecha": "2026-11-16T07:03:00.000Z"
+    },
     {
       "titulo": "Avianca realizó un vuelo especial entre Barranquilla y Nueva York por la Milagro Week 2026",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONFR0NF9tVTRpY3FGdlNqdFgwSFgxVXh0VDV4T0dXUllINlZCYW13UXp0dWIyaXZQRzRaVmtnWjhMbFg0ZkJwQkFDLXo4bFNwRGQ2VnBZd0xnUnRpWWdxMVk1dzcybElZS0l4UTBqc1otNHE3R0ZFMWlsSU5HblByQnVuT0xtSjBHaUxHZ3BnN0lfTkwzclJSNU1mOGd1eGRyaG9HdnZFM2JBR3dfdW1HLTFRemUtSTM3ekFGcGloMWdIVFBHbER5NldqYlZNb3Y1RWc?oc=5",
       "fuente": "Aviation Club Center",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-16T05:49:03.000Z"
+      "fecha": "2026-11-16T05:49:03.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: Colombia busca 41.900 millones y prepara Madrid",
@@ -15,7 +144,32 @@
       "fuente": "Estrella Digital",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-16T05:30:00.000Z"
+      "fecha": "2026-11-16T05:30:00.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Vicepresidente Restrepo anuncia 3 primeras inversiones de la 'Milagro Week': son pesos pesados",
+      "link": "https://www.pulzo.com/nacion/vicepresidente-jose-manuel-restrepo-anuncia-inversiones-milagro-week-PP5356743",
+      "fuente": "Pulzo",
+      "imagen": "http://www.bing.com/th?id=ONUT.D4Enqd6e5Pyx0atdoKL-UQ&pid=News",
+      "resumen": "El vicepresidente José Manuel Restrepo anunció los primeros acuerdos de inversión con Avianca, Banco Plata y Core X en la 'Milagro Week' de Nueva York.",
+      "fecha": "2026-11-16T04:21:00.000Z"
+    },
+    {
+      "titulo": "El Tolima impulsa proyectos estratégicos en Milagro Week de Nueva York para atraer inversión extranjera",
+      "link": "https://www.pulzo.com/economia/tolima-impulsa-inversion-extranjera-en-energias-mineria-y-agroindustria-desde-nueva-york-PP5356728A",
+      "fuente": "Pulzo",
+      "imagen": "http://www.bing.com/th?id=ONUT.hhfkStmUUIW4DKX1jXtj2A&pid=News",
+      "resumen": "Tolima presenta proyectos de energía, agroindustria y turismo en la Milagro Week de Nueva York para atraer inversión extranjera.",
+      "fecha": "2026-11-16T03:51:00.000Z"
+    },
+    {
+      "titulo": "Avianca anuncia inversión de US$3.000 millones en Colombia previo a Milagro Week",
+      "link": "https://www.agenciapi.co/noticia/gobierno/avianca-anuncia-inversion-de-us3000-millones-en-colombia-previo-milagro-week",
+      "fuente": "Agenciapi",
+      "imagen": "http://www.bing.com/th?id=ONUT.zL8crOoOhgT88e8dbsyIZQ&pid=News",
+      "resumen": "Vicepresidente José Manuel Restrepo reveló el anuncio en el vuelo preinaugural Barranquilla–Nueva York de la misión empresarial.",
+      "fecha": "2026-11-16T02:08:00.000Z"
     },
     {
       "titulo": "Línea 4 del Metro y RegioTram del Norte, entre los 15 proyectos que Bogotá llevará a la Milagro Week",
@@ -837,169 +991,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.QASeh2j84l_awHdK6fnIYw&pid=News",
       "resumen": "Colombia presentará 86 proyectos por US$56.799 millones en la primera Milagro Week en Nueva York, una rueda de negocios para atraer inversión internacional.",
       "fecha": "2026-10-20T14:44:00.000Z"
-    },
-    {
-      "titulo": "Colombia presenta la “Milagro Week” en Nueva York para atraer inversión extranjera en infraestructura y sectores clave",
-      "link": "https://www.pulzo.com/economia/milagro-week-nueva-york-colombia-presenta-proyectos-para-atraer-inversion-extranjera-2024-PP5335855A",
-      "fuente": "Pulzo",
-      "imagen": "http://www.bing.com/th?id=ONUT.SLnw9Q2ZLuBd9MUNgEMk0w&pid=News",
-      "resumen": "Colombia presenta en Nueva York la “Milagro Week”, un evento clave para atraer inversión extranjera en sectores estratégicos del país.",
-      "fecha": "2026-10-20T13:30:00.000Z"
-    },
-    {
-      "titulo": "Estos son los sectores que Colombia llevará a la Milagro Week de Nueva York para atraer inversión",
-      "link": "https://www.msn.com/es-co/dinero/general/estos-son-los-sectores-que-colombia-llevar%C3%A1-a-la-milagro-week-de-nueva-york-para-atraer-inversi%C3%B3n/ar-AA2fG2Jb",
-      "fuente": "Msn",
-      "imagen": "http://www.bing.com/th?id=ONUT.fU8lYBDXdUNgFaYfMmmcsQ&pid=News",
-      "resumen": "La Vicepresidencia anunció este proyecto de la mano con ProColombia.",
-      "fecha": "2026-10-20T10:00:50.000Z"
-    },
-    {
-      "titulo": "Colombia alista 86 proyectos para conquistar inversionistas en Nueva York durante la Milagro Week: estos son los sectores clave",
-      "link": "https://www.infobae.com/colombia/2026/10/20/colombia-alista-86-proyectos-para-conquistar-inversionistas-en-nueva-york-durante-la-milagro-week-estos-son-los-sectores-clave/",
-      "fuente": "Infobae",
-      "imagen": "http://www.bing.com/th?id=ONUT.3RYD9iKsevrIQ4XFe-Sj2w&pid=News",
-      "resumen": "La estrategia reunirá a representantes de empresas, entidades financieras y organismos internacionales para discutir las barreras que frenan iniciativas productivas y buscar acuerdos que permitan avan ...",
-      "fecha": "2026-10-20T02:30:00.000Z"
-    },
-    {
-      "titulo": "Vicepresidente presenta 133 proyectos por US$120.324 millones para atraer inversiones y hacer crecer 6% la economía",
-      "link": "https://www.portafolio.co/economia/gobierno/vicepresidente-presenta-133-proyectos-por-us-120-324-millones-para-atraer-inversiones-a-colombia-504715",
-      "fuente": "Portafolio",
-      "imagen": "https://imagenes.portafolio.co/files/image_1200_600/files/fp/uploads/2026/10/19/6ad648a90bab4.r_d.688-196-0.jpeg",
-      "resumen": "Priorizaron 86 iniciativas por US$56.799 millones y preparan 53 proyectos para rondas de inversión y financiación.",
-      "fecha": "2026-10-19T11:44:09-05:00"
-    },
-    {
-      "titulo": "Los arándanos se convertirán en fruto clave para el reverdecimiento de la economía campesina",
-      "link": "https://elfrente.com.co/los-arandanos-se-convertiran-en-fruto-clave-para-el-reverdecimiento-de-la-economia-campesina/",
-      "fuente": "El Frente",
-      "imagen": "https://elfrente.com.co/content/images/2026/10/1-36.jpg",
-      "resumen": "MinAgricultura apoyará el proyecto de arándanos de Agroventure para atraer inversión y expandir 300 hectáreas en Cundinamarca y Boyacá.",
-      "fecha": "2026-10-19T09:34:36-05:00"
-    },
-    {
-      "titulo": "La ganadería se perfila como motor clave de la Misión Crecer, según FEDEGAN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYTFsUHZRSHFMOFRXY0I5Rl9oRkVaaVgxdUlsMkg5WkF3UmhrRjAtOWZWUkRYMVh6OFNhZXVPSUpCRWppWlhHc1g3Skdxd01heF9PTGFTX2lVaGQwREpEOEV6OEowMXNWTmZiQjZZNjkyZlNCazVZQ0tOMTZVem5RUUoya1dxRkVrM3VyTExzTTBaV0ZLQkJzOGNxWFk4RmN5YllrNzAtWVd3ejBqU1HSAcIBQVVfeXFMUDI5c2pyMUhzZ2RzdWJ6aGs4dVZHc2NJOGpYNDhkMF83TXg5emFHR0E1c3ZEaWpqd2Q4Y3hqR1ZieWNSQ2dHSkM4UXFyYTVYTklSWElRQk9NN3B1MktBRFBsT0xlclJKYmhyUFg2dFNOX0VSOUJ6VHhsc0h0bjVBRzJGQmVtRHZycEFRMlI4R0J2M0hfUWhUR21oUVgxRWVOTG5reS1iRTA3MHZQY2hHenptTHU4bXFJUjdwXzg4M0NRdEE?oc=5",
-      "fuente": "Caracol Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.DatBvtx2QD4013QYpCTxEQ&pid=News",
-      "resumen": "",
-      "fecha": "2026-10-19T13:49:11.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "(OPINIÓN) Misión Crecer: la oportunidad está en el campo. Por: José Félix Lafaurie",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWFc5Mm1SRUt1WlR6OXdYWDBvTHZEOHJsellUZkptSDZYN0JpN3g2dHF2SmV2UmcxZG56ZFdocDFaZ2FFRzdQWjUtUGFNNDJyRU1feDBJekQzbjdzNzlkU0kxOUxLdU5yUmdDeXhpcXRvSWZiaWI3bFhmVU1hV1dxdU9mOEktQk9HenRQVXhIcko2MVI1X25NRU5udTBrSjRYZ3hLcjZ1djhvb0pLQWJz?oc=5",
-      "fuente": "IFM Noticias",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-18T12:36:12.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "La ganadería tiene con qué empujar la 'Misión Crecer' hacia el 6 %: el mensaje de Lafaurie",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOY2lXVzJGU0x0NDlxbEZ2NHd3aGdJQnNDWnpXZm5ta1dYck5ObE0ybE9yUVNaTi1td2VINzJRaWlCWURwYVpNYmxMakJ2Tk1vX1N4WHcyM2ZrZW5HUHc2QkVFaVBlTF9EemttM3pVNnZQUFRMRy1Fbk9QV0c3Uzc4NFgyUzZ5M2NJQU4yRU90U1lmYXlKZlpJNXEwOEQ2YjRydWRNQmwwOHNsMFFiTVhFLUdmTXpfcHdMbkw0VUluNmdlUzh1R3NaclZ3?oc=5",
-      "fuente": "CONtexto Ganadero",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-17T17:00:52.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Misión crecer - radiohoy.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iLVIyTjN2YzRPaXdrbF83RXNLS0djbnhDRXRPczRVNDBLTnh2bEk5aEhSWkplVUtURk9zc21FRno5YU44MWlBSEl3NzBnYWxjVTZPSGJEV2JzMWNKMzJEUklESHpSaXhrRHRF?oc=5",
-      "fuente": "radiohoy.com",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-17T13:57:12.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Misión crecer - RADIO HOY",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iLVIyTjN2YzRPaXdrbF83RXNLS0djbnhDRXRPczRVNDBLTnh2bEk5aEhSWkplVUtURk9zc21FRno5YU44MWlBSEl3NzBnYWxjVTZPSGJEV2JzMWNKMzJEUklESHpSaXhrRHRF?oc=5",
-      "fuente": "RADIO HOY",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-17T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Misión Crecer: la oportunidad está en el campo",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdTFTZ0dUMUVNVHhfbURtakFCNHBJOGhRaWUwZmc0WDNpX1R6MVBQUmV5c1lJWDIyaDNsSHVhLXVvTVd6emZ0QlhqYlZWaDFtckpheHN2S0JRaWlGQ0VtREQ0WEFLdDRRUlJqTVFRNkhyVVpaazNwaUdINmw5VXYweFd3RjlfOWQtZGF4NVJpTQ?oc=5",
-      "fuente": "CONtexto Ganadero",
-      "imagen": "http://www.bing.com/th?id=ONUT.5cvBRyZp3UqlmWXx58M9Ig&pid=News",
-      "resumen": "",
-      "fecha": "2026-10-16T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Vicepresidencia ya arrancó a trabajar en la Milagro Week que será en Nueva York",
-      "link": "https://www.semana.com/confidenciales/articulo/vicepresidencia-ya-arranco-a-trabajar-en-la-milagro-week-que-sera-en-nueva-york-y-busca-atraer-inversion-extranjera/202622/",
-      "fuente": "Semana",
-      "imagen": "https://www.semana.com/resizer/v2/VNZJCGUJJNDWXHP5TDICD3DXDI.jpeg?auth=9fe8d42383315ec84cefb6c4ce528992022d990be4f37f3e9003be87a4847451&smart=true&quality=75&width=1280&height=720",
-      "resumen": "El Consejo Directivo de la Vicepresidencia revisa los avances de la Misión Crecer.",
-      "fecha": "2026-10-15T08:00:00-05:00"
-    },
-    {
-      "titulo": "De la petición al portafolio: El Tolima entra con fuerza a Misión Crecer",
-      "link": "https://www.elnuevodia.com.co/opinion/editorial/de-la-peticion-al-portafolio-el-tolima-entra-con-fuerza-mision-crecer-540447",
-      "fuente": "Elnuevodia",
-      "imagen": "http://www.bing.com/th?id=ONUT.8XhqMpudPPq-BLHuWRPYdw&pid=News",
-      "resumen": "La reciente visita del vicepresidente José Manuel Restrepo al Tolima no representó una jornada institucional más. Constituyó, por el contrario, un punto de ...",
-      "fecha": "2026-10-15T10:14:00.000Z"
-    },
-    {
-      "titulo": "El vicepresidente José Manuel Restrepo presenta la \"Misión Crecer\" en el Caribe BIZ Forum 2026",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1hFTkNrSmZ1bkRIWFJYby1yMFJKMWR0Wjh1OE1valBuRW5UOEFuMW9zUXR3X0NqZ1RsbHEyY25yOUdHZHA1OEhmbFlfQVgyYkJUdnhjeVEtbjlic1R1R3Y4a2NTbTJNTnlhSU1WLXFsbE85NElESk5QOW1tRnd5RER6b1BzSXNpNW5EdTFWVzI0MGFOMDZ4Q0hQeDZpQWlmVkl5U0NQbkE4SXlpZzBPb0NRMEt1T2tDNGhkNnA1czg?oc=5",
-      "fuente": "Notas de Actualidad",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-15T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno De la Espriella alista Milagro Week: los sectores donde buscará inversiones por $75 billones",
-      "link": "https://www.valoraanalitik.com/gobierno-de-la-espriella-alista-milagro-week-los-sectores-donde-buscara-inversiones-por-75-billones/",
-      "fuente": "Valora Analitik",
-      "imagen": "https://www.valoraanalitik.com/wp-content/uploads/2026/10/Gobierno-De-la-Espriella-alista-Milagro-Week_-los-sectores-donde-buscara-inversiones-por-75-billone.jpg",
-      "resumen": "El primer portafolio de la Patria Milagro reúne más de 70 proyectos en energía, agricultura, minería, transporte, turismo y tecnología.",
-      "fecha": "2026-10-14T08:00:00-05:00"
-    },
-    {
-      "titulo": "Milagro Week: Estos son los más de 70 proyectos con los que Gobierno busca atraer inversiones por $75 billones | El Colombiano",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMjByODQ3X1k5S01iQ2hCVTFHbGMxTWR6azlJeU0yb3E1Xzl2VTZjcl9ib3VUZ1pWQm5SZXZpR2hDeThuM2FSWkM0eFJsUzVPMTNhSlV3ZjBDN1V3MDg4Yzg1Tk4tWVN5VG10RXZSdWJGS1ZEWVJkejIwcWF6TlZ6N2N6cDNpSzJPWEgzYmg3dklNM0xGd250MTZ6dUFFalFOWEN3bFp30gGrAUFVX3lxTE4xSjBHX0E4UnZ3MEI0WEtjVHR6MGJicWhCdWpDc1lhZzdoM0FPZ3JUYlJVOFVBSkNjbHhDbjYwNl8zcEtmZ3R5UFY5d0NZbGdfakR1OEF1cDIwbFdjcl9hWUZicjhGd09GOWg1em5wcjFidnRBbTRTNkJ4ZDhrODZRSC1mZDFLNU5JLTZITXdrVXVUMG5HQmJZdGhSS1BUMl9DLW1zMGpOalU0MA?oc=5",
-      "fuente": "El Colombiano",
-      "imagen": "http://www.bing.com/th?id=ONUT.8agkZan363lEZNiAdz7y2g&pid=News",
-      "resumen": "",
-      "fecha": "2026-10-14T07:00:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Misión Crecer Tolima",
-      "link": "https://www.elnuevodia.com.co/opinion/columnistas/jaime-eduardo-reyes/mision-crecer-tolima-540401",
-      "fuente": "Elnuevodia",
-      "imagen": "",
-      "resumen": "Por eso, la visita del vicepresidente de la República, José Manuel Restrepo, y su propuesta de impulsar la Misión Crecer representan una oportunidad que el departamento debe aprovechar. Uno de los ...",
-      "fecha": "2026-10-14T06:32:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Vicepresidente escuchó a los tolimenses y proyectará iniciativas del departamento en la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVHNvTm94WTBsVERkZ1V4TmhGU3hpZjFTWmhhcG9zNWl4M0ozYWlOOWFXUXJFVE50VEJuTDVfc1ZkcVdJSUZRNG5aQ0FlZVNLM3lrYlpiYmIxdXN2ekxHZFZJdkpPMXVJeGxadnR2ZVBVZTF2ZGtSdmhFV3ROY3dCa3lOUExidTFfazlmSFBXUmtwSmVwOGh5TkluQnJDdjZ0Y2V6eGU3SE1rWGFEQ01scXJfbEVTcnZNeFlNRWhGclFGOEtIZVVaWTlvNDV5dw?oc=5",
-      "fuente": "El Irreverente",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-13T22:00:54.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "El propósito de Misión Crecer es llevar la economía al 6%.",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb183YmxGeGVzd1MxWXg2NjhGMjdxZllFcFZ2SkthZFVIVTE3R1RaaExJemZFVXhfMldaZDBTTXVjVVVQWTVxTWRBU2N1SGU0S1JqYVFJbWMtdTUtX01hZldFbHllcDB2c0NfTTdBNjNGc3hJMXJyTE8zV3Z2bzVsaWJqMTVhRzVqR2FoV3l4cWp1Q1duVTIxMzc5cTN6V3ZhUUE?oc=5",
-      "fuente": "radiohoy.com",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-10-13T14:54:57.000Z",
-      "sinFoto": true
     }
   ]
 }
