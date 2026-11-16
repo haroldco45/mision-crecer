@@ -1,11 +1,47 @@
 {
-  "revisado": "2026-11-15T20:58:13.094Z",
+  "revisado": "2026-11-16T00:56:00.555Z",
   "videos": [
+    {
+      "id": "DP0Y1PNKG0I",
+      "titulo": "Colombia presenta 97 proyectos de inversión",
+      "canal": "CV NOTICIAS TV",
+      "publicado": "hace 6 h",
+      "duracion": "1:47",
+      "imagen": "https://i.ytimg.com/vi/DP0Y1PNKG0I/hqdefault.jpg",
+      "visto": "2026-11-16T00:56:00.555Z"
+    },
+    {
+      "id": "dINzz2H5MRQ",
+      "titulo": "Gobierno De La Espriella alista la primera 'Milagro Week' en Nueva York",
+      "canal": "Acento Colombia",
+      "publicado": "hace 1 m",
+      "duracion": "0:42",
+      "imagen": "https://i.ytimg.com/vi/dINzz2H5MRQ/hqdefault.jpg",
+      "visto": "2026-11-16T00:56:00.555Z"
+    },
+    {
+      "id": "pOmq4ycjM4s",
+      "titulo": "Nueva York será sede de la primera ‘Semana Milagro’ del Gobierno de De la Espriella",
+      "canal": "LAS NOTICIAS COL",
+      "publicado": "hace 1 m",
+      "duracion": "0:46",
+      "imagen": "https://i.ytimg.com/vi/pOmq4ycjM4s/hqdefault.jpg",
+      "visto": "2026-11-16T00:56:00.555Z"
+    },
+    {
+      "id": "NRZT7q1FawE",
+      "titulo": "Vicepresidente José Manuel Restrepo viaja a Nueva York por la Milagro Week",
+      "canal": "Portal de Opinión",
+      "publicado": "hace 1 h",
+      "duracion": "0:33",
+      "imagen": "https://i.ytimg.com/vi/NRZT7q1FawE/hqdefault.jpg",
+      "visto": "2026-11-16T00:56:00.555Z"
+    },
     {
       "id": "8oyUi0Ad7RI",
       "titulo": "Milagro Week: Gobierno presentará 250 proyectos ante 500 inversionistas en Nueva York; explica vi...",
       "canal": "RCN Mundo",
-      "publicado": "hace 30 s",
+      "publicado": "hace 3 h",
       "duracion": "8:46",
       "imagen": "https://i.ytimg.com/vi/8oyUi0Ad7RI/hqdefault.jpg",
       "visto": "2026-11-15T20:58:13.094Z"
@@ -32,7 +68,7 @@
       "id": "AuxyubNDdGU",
       "titulo": "US$41.900 millones en una semana",
       "canal": "Will Cotrino",
-      "publicado": "hace 8 h",
+      "publicado": "hace 12 h",
       "duracion": "0:35",
       "imagen": "https://i.ytimg.com/vi/AuxyubNDdGU/hqdefault.jpg",
       "visto": "2026-11-15T15:49:45.889Z"
@@ -504,42 +540,6 @@
       "duracion": "1:00:28",
       "imagen": "https://i.ytimg.com/vi/70ok934p3lk/hqdefault.jpg",
       "visto": "2026-11-08T05:46:51.638Z"
-    },
-    {
-      "id": "5b_s-eYCX0Y",
-      "titulo": "El Editorial | Colombia sale a buscar su futuro en las Milagro Week | 01 de octubre de 2026",
-      "canal": "EL HERALDO",
-      "publicado": "hace 1 m",
-      "duracion": "4:48",
-      "imagen": "https://i.ytimg.com/vi/5b_s-eYCX0Y/hqdefault.jpg",
-      "visto": "2026-11-08T05:46:51.638Z"
-    },
-    {
-      "id": "0AQXdTvjD2A",
-      "titulo": "Gobierno llevará a Nueva York proyectos por $75 billones en primera “Milagro Week”",
-      "canal": "Diario Digital LARAZONCO",
-      "publicado": "hace 1 m",
-      "duracion": "1:58",
-      "imagen": "https://i.ytimg.com/vi/0AQXdTvjD2A/hqdefault.jpg",
-      "visto": "2026-11-08T05:46:51.638Z"
-    },
-    {
-      "id": "0UbV2wqyuSY",
-      "titulo": "Milagro Week, importaciones, líderes con mejor reputación",
-      "canal": "Bloomberg Línea",
-      "publicado": "hace 3 sem.",
-      "duracion": "8:07",
-      "imagen": "https://i.ytimg.com/vi/0UbV2wqyuSY/hqdefault.jpg",
-      "visto": "2026-11-07T23:52:12.721Z"
-    },
-    {
-      "id": "UW-N0Jrpt_o",
-      "titulo": "El BID se suma a las “Milagro Week”",
-      "canal": "La Voz Conservadora",
-      "publicado": "hace 1 m",
-      "duracion": "1:04",
-      "imagen": "https://i.ytimg.com/vi/UW-N0Jrpt_o/hqdefault.jpg",
-      "visto": "2026-11-07T23:52:12.721Z"
     }
   ]
 }
