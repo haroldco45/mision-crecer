@@ -1,13 +1,38 @@
 {
-  "revisado": "2026-11-20T17:58:22.122Z",
+  "revisado": "2026-11-20T23:57:13.511Z",
   "noticias": [
+    {
+      "titulo": "El éxito que dejó la primera edición de la Milagro Week a Colombia",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDc4QTIwYmVUcFVpTDlkMThkakdHdWVKcy1sUEdiTk5iZlNseDU5OUZaUEhXNGJaR3JQelZWS1pHQ05WV0RWdVhkTnpKQUdqR01jcjcyUENITGl3ekNsVm9kMEw4RWhmQ1J4TU1KUHBGR1J4Ql85NzVkZEM2WGY4TEcyMmhWazZycG9fb2tKbTdHeXpTcVk1cmdETFFYYXdDYmhiX2lLcS1Sdw?oc=5",
+      "fuente": "El Nuevo Dia (Colombia)",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-20T15:18:38.000Z"
+    },
     {
       "titulo": "RegioTram del Norte se presentó ante inversionistas en Nueva York durante Milagro Week",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdDRSNlBWRlVjaDlSanBpQ0w3MFgzd0FDeVp6QzQzVWlqSkU5dU8xN1NCR2VGdThaSnM2WVJrTnVKMWhZSXJEZXY3QUpXZ3VTdzdpN1dad1pzc3NBVm9KOUE1eWdjUnQxM2xQQ01Od0pUTkluQ0VRUnBqS0NIUURNbXZPdUxMbVBYVG1BQWN6SldrUHFxUXNhWHQteWdjWWdkU3lLX0VPQkotWXo1Z1N3eXQ5ZTl2SDg2NlhITWE5RUxfZmJhSVBQc2toWU1NcE1LcER2dw?oc=5",
       "fuente": "El dorado radio",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T14:09:09.000Z"
+      "fecha": "2026-11-20T14:09:09.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Así se cocinó la Milagro Week: campanazos, negocios y el reto de convertir anuncios en realidad",
+      "link": "https://www.elcolombiano.com/negocios/milagro-week-anuncios-inversion-que-falta-PM43839798",
+      "fuente": "Elcolombiano",
+      "imagen": "http://www.bing.com/th?id=ONUT.kvF9iEV90VZGtlE7qR6LgQ&pid=News",
+      "resumen": "El sonido de una campana se convirtió en una de las escenas más recurrentes de la primera Milagro Week. En la sede principal de Citi, en Nueva York, ...",
+      "fecha": "2026-11-20T12:38:00.000Z"
+    },
+    {
+      "titulo": "Cundinamarca busca en la Milagro Week inversionistas para el RegioTram del Norte, un tren de $17,4 billones",
+      "link": "https://www.msn.com/es-co/noticias/otras/cundinamarca-busca-en-la-milagro-week-inversionistas-para-el-regiotram-del-norte-un-tren-de-174-billones/ar-AA2hSFjB",
+      "fuente": "Msn",
+      "imagen": "http://www.bing.com/th?id=ONUT.ZJGereKgsmCwbIbkkNEKJg&pid=News",
+      "resumen": "Entre las entidades que conocieron el proyecto están BNP Paribas, Scotiabank, Cantor Fitzgerald y el Banco Mundial.",
+      "fecha": "2026-11-20T10:30:00.000Z"
     },
     {
       "titulo": "El vicepresidente muestra su habilidad como anfitrión de la ‘Milagro Week’ para estimular la inversión en Colombia",
@@ -67,7 +92,8 @@
       "fuente": "Canal Institucional",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T00:48:07.000Z"
+      "fecha": "2026-11-20T00:48:07.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Cundinamarca llevó el RegioTram del Norte ante inversionistas internacionales en Milagro Week, en Nueva York",
@@ -995,32 +1021,6 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-11-17T21:09:51.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "La Milagro Week ya suma más de US$35.500 millones en anuncios de inversión y crédito",
-      "link": "https://www.msn.com/es-co/noticias/otras/la-milagro-week-ya-suma-m%C3%A1s-de-us-35500-millones-en-anuncios-de-inversi%C3%B3n-y-cr%C3%A9dito/ar-AA2hFiF6",
-      "fuente": "Msn",
-      "imagen": "http://www.bing.com/th?id=ONUT.OsdfxoofMXPcJ1cZ8sTG1w&pid=News",
-      "resumen": "El Banco Mundial prevé destinar US$10.000 millones a financiar proyectos del sector privado Y Avianca anunció un plan de US$3.000 millones para incorporar 61 aviones ...",
-      "fecha": "2026-11-17T21:01:56.000Z"
-    },
-    {
-      "titulo": "Colombia busca movilizar US$25.900 millones en inversión privada durante la Milagro Week en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOHBERmx3QzB4OURxcHIyUDVjUkxIWEo2bERORGxMWDIyRExWV29BaHF2dFUxdU1hS21PbnJ1R0xQM2c1SU9VTGNXTDI0UXNuVmJBMmY5TUhQSURWVW4yNkh5QnI1cmpyUXFJalhVMzN4RExHSkVyd3BGZWY3amxnbUY1VWVtZ2d6bHhtQjNoMEJOUGdrdlNVVjd6Y1NmRTFyTmNLeGZuSmZaMnJDcXdhc25TUHY?oc=5",
-      "fuente": "Forbes Colombia",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T20:44:20.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Aumentan las inversiones para Colombia en la Milagro Week: nuevos respaldos para proyectos",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Voc1VpdV9GNnZLMXhvSkUtNnVwaGhRMTY1c0JPTVRrcW1zZGF2bEdNVlN3NWR1QmkxdkE3d1p0V2c1NTB2M0s4RWliVWdOTktUZXRCU0p0aDNDQlV2YjN2cElpc3NaX011MmlQVkF6WnFkREJmS3VSc3FnSE5CWVo3SXR6M1c3NlZyRl9ncHFQNjNDZ2tiSXNXU0xuNUI3b3ZfRndzaFppT0JJQ1NSRkpPal9vWldzOFVBX0FLMWwxQdIB1gFBVV95cUxNY0swcEhTWWQ4QXpfWWY2NFR6dTV4TjFoSExIem9uZWlLaVBBV0dUNE5zOG96VFdxNmg5UFJ0UkNyX2NyeVZWT1VVc1p2dzY5TzBMVk1GdG1IYlpJWnRuSkFkOFdCbDVWUVhPeG5qZ1hfMDU3aDBSNXA5MzNDV0kzTGZpZHJZblZsc0RfMDZjWnV6TmZBcjBRQTUwc2xoZktmRjVaNGY3TWlRSEN5dWJEQzAwV3JhS0hJMHVreGVSZlZRRGRtWTl1azMwb1hOUnFwd3dhWE93?oc=5",
-      "fuente": "Caracol Radio",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T20:37:57.000Z",
       "sinFoto": true
     }
   ]
