@@ -1,13 +1,30 @@
 {
-  "revisado": "2026-11-20T09:05:52.359Z",
+  "revisado": "2026-11-20T17:58:22.122Z",
   "noticias": [
+    {
+      "titulo": "RegioTram del Norte se presentó ante inversionistas en Nueva York durante Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdDRSNlBWRlVjaDlSanBpQ0w3MFgzd0FDeVp6QzQzVWlqSkU5dU8xN1NCR2VGdThaSnM2WVJrTnVKMWhZSXJEZXY3QUpXZ3VTdzdpN1dad1pzc3NBVm9KOUE1eWdjUnQxM2xQQ01Od0pUTkluQ0VRUnBqS0NIUURNbXZPdUxMbVBYVG1BQWN6SldrUHFxUXNhWHQteWdjWWdkU3lLX0VPQkotWXo1Z1N3eXQ5ZTl2SDg2NlhITWE5RUxfZmJhSVBQc2toWU1NcE1LcER2dw?oc=5",
+      "fuente": "El dorado radio",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-20T14:09:09.000Z"
+    },
+    {
+      "titulo": "El vicepresidente muestra su habilidad como anfitrión de la ‘Milagro Week’ para estimular la inversión en Colombia",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPUzVJTEdIcWp2MERQVFRoQ1FUaDMzR2RUSEY5Ty1XdkJKRC02bkVuX05jbVE2UVBzSUs2VmpON1l5YjVvZV9QY2RzS2pyR0ZJQm03TWpLYmhDcmtTbVpZWE01MDdvdzVjVnM1YkJYY0V5d3VKdzJVSGpabEI0c1VxRGhYTXZUTEktMHRmMkpsR2dvY3NzaE5iaE02N2FSVzhLdERUcDIwSDJmQlRJU2Y0ZG9rRlppWXdNLXdSRThVQUZyUF9HWmVJMEhTVC1Cdk9nSEpYeHdBVHVIaEhxczNHa3FjbEpSa0xJT0ZYWndRaDFlRzlCdWxB?oc=5",
+      "fuente": "EL PAÍS",
+      "imagen": "http://www.bing.com/th?id=ONUT.NKU0VQFf1VFR8t-ICZ04fA&pid=News",
+      "resumen": "",
+      "fecha": "2026-11-20T09:30:00.000Z"
+    },
     {
       "titulo": "Milagro Week de Colombia duplicó meta de inversión potencial",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVE0yOXFibG90SGVGakhaTkhnVEtZbFpOSUZvVDMxYUNtY09waktJcXJYVzAxeUJLM2wxUkhJbFZlSG8teWU2WGdsS0o0eWNVSElIdUxtckxEV0hkajMxdUdwU19QOE91UVlQZ3MyYVdxQWczRGJMU2hweTljRWdQR19wNURWYXl0UDFVN25BQnpiZ3VLR1VGdDJSYmd3aDVjQzhOQV9kc1NjeXJQQmc2OUFlb0RUM2xkYUlZRdIBvAFBVV95cUxQVE0yOXFibG90SGVGakhaTkhnVEtZbFpOSUZvVDMxYUNtY09waktJcXJYVzAxeUJLM2wxUkhJbFZlSG8teWU2WGdsS0o0eWNVSElIdUxtckxEV0hkajMxdUdwU19QOE91UVlQZ3MyYVdxQWczRGJMU2hweTljRWdQR19wNURWYXl0UDFVN25BQnpiZ3VLR1VGdDJSYmd3aDVjQzhOQV9kc1NjeXJQQmc2OUFlb0RUM2xkYUlZRQ?oc=5",
       "fuente": "El Economista",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T05:40:06.000Z"
+      "fecha": "2026-11-20T05:40:06.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "La \"Milagro Week\" fue una buena noticia",
@@ -15,7 +32,8 @@
       "fuente": "El Espectador",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T05:01:00.000Z"
+      "fecha": "2026-11-20T05:01:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week anuncia compromisos de inversión por más de 43.",
@@ -23,7 +41,8 @@
       "fuente": "Diario del Cauca",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T04:04:55.000Z"
+      "fecha": "2026-11-20T04:04:55.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Colombia cierra la Milagro Week con US$43.205 millones en compromisos de inversión y financiación",
@@ -31,7 +50,24 @@
       "fuente": "Cámara de Comercio Colombo Americana",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T02:51:39.000Z"
+      "fecha": "2026-11-20T02:51:39.000Z",
+      "sinFoto": true
+    },
+    {
+      "titulo": "Milagro Week en Nueva York supera meta de inversión y consolida compromisos millonarios para desarrollo económico en Colombia",
+      "link": "https://www.pulzo.com/economia/inversion-record-en-colombia-milagro-week-nueva-york-supera-meta-con-43-205-millones-de-dolares-PP5360404A",
+      "fuente": "Pulzo",
+      "imagen": "http://www.bing.com/th?id=ONUT.WbiV5zDWPB_IILv3nfSlxw&pid=News",
+      "resumen": "Inversiones por $43.205 millones en Colombia tras la Milagro Week; impulso a empleo, tecnología, minería e infraestructura en 24 regiones.",
+      "fecha": "2026-11-20T02:50:00.000Z"
+    },
+    {
+      "titulo": "Balance de la Milagro Week: US$43.205 millones para Colombia",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSXEyZ2dCSENVRDAxUHY5cXhGY29SMml2TzJsSEJvakZQa3NrUWJFOGNKVFdrWGFFdDAwRjd1MUNoTFBnT09EVnFmU2tDY3BkeUszdU5ZOVZWYXlXdG5XaEZ3NVpRQ3F4VW1UdVNmTWd2aEE4eTlwOW5sNnV4Wm9XbjUwbFlYV19UclItQ0liTHEtdkpORXc?oc=5",
+      "fuente": "Canal Institucional",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-20T00:48:07.000Z"
     },
     {
       "titulo": "Cundinamarca llevó el RegioTram del Norte ante inversionistas internacionales en Milagro Week, en Nueva York",
@@ -39,7 +75,8 @@
       "fuente": "Gobernación de Cundinamarca",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-19T23:13:47.000Z"
+      "fecha": "2026-11-19T23:13:47.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: Patria Investments anuncia inversión de US$2.600 millones para salud, infraestructura y energía",
@@ -70,7 +107,7 @@
       "titulo": "¿Qué dejó la Milagro Week para Colombia?: Mañanas Blu, 19 de noviembre de 2026",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ1RQaDRWa1ZkVVRGdDJMUGhoMDJmY2lFdzBMNWtRZzA4LXJ0MjhfWFF2aEpIRjNHUEQ1OU1YaFEzSGNuRUpXZWNPN1ZqVTJzZ2x6M3A4a3RkajdVczFSMzZUdUNtRFcyTTBMU0pCc1U4Y2FuU3ltTVBLclUtaWdmTHd1VEttbUVheW5mVkRuTnNrZ0w4UFhOZ3BUOUZBRVpKYzdWQzgzVlJGWUJkb09UaS1VakJNbG8?oc=5",
       "fuente": "Blu Radio",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.LDb4vAdMdncHP33QVuSSGw&pid=News",
       "resumen": "",
       "fecha": "2026-11-19T20:15:41.000Z",
       "sinFoto": true
@@ -108,7 +145,8 @@
       "fuente": "La Silla Vacía",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-19T19:29:49.000Z"
+      "fecha": "2026-11-19T19:29:49.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week cruzará más fronteras: Colombia llevará su apuesta a Europa y Asia en 2027",
@@ -216,7 +254,8 @@
       "fuente": "Diario del Cauca",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-19T13:45:22.000Z"
+      "fecha": "2026-11-19T13:45:22.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Aeropuerto de Rionegro, entre los anuncios por US$43 200 millones de la Milagro Week de Nueva York",
@@ -505,7 +544,7 @@
       "titulo": "Balance Milagro Week en Nueva York: Proyectos de inversión que han sido confirmados",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlBILWVZNHdxUW9MQlpjNVRXY2hWX1FZa3l1c3Y1QVY4ZlNYYkNZelpTZWxDY2Q1OGk5UUgyWVpNMmVwMlZCcmZUdEFvY0tpWm5XeGVjVDUtQkhRTk1STGU3azJ2SG9xX0s2TENOeVJzMk9pZVJPbko2ajJNc3Z6b1NKZWlGVGdzemNXaEFCT3QxUlBBdFlkSU5XV2hfUUpaSDg0bllfZXpKaW9UUUFwZFFiWXFFMVQyaWg1adIBwgFBVV95cUxOY1llS21zMU5wZDFnLTI0bnVfLWFsaDJ4V3FxRHZpSnlxTzVWck9FQ1RBVVprMzhaWl9tbmJaZVZQWVRaVVp6SEkyRDJBajQxM1NyWFl1dk9kbjRuYjVGQWxmUzBYMWd5SkNEdDRuZXY4N0o0eWR1SkVudFNlYmlpbkk4RThXb2h3S3RnRFhmamUwNTlRWENJVllZZVg1ZGJ0YVNDZFkzWmFXdnhlZ3lwd0w2dkpDWnZrdXdHM2pSTE9kdw?oc=5",
       "fuente": "Canal 1 En vivo",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.FahCUUpauEeQXiHAc6VGnw&pid=News",
       "resumen": "",
       "fecha": "2026-11-18T21:21:53.000Z",
       "sinFoto": true
@@ -653,7 +692,8 @@
       "fuente": "Cámara de Comercio Colombo Americana",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-18T13:17:15.000Z"
+      "fecha": "2026-11-18T13:17:15.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno cierra la Milagro Week con proyectos de inversión por US$43.205 millones",
@@ -831,6 +871,14 @@
       "sinFoto": true
     },
     {
+      "titulo": "De Quebradona al Catatumbo: los proyectos que han conseguido inversión en la Milagro Week en Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSmxNSWNxTlhpOEw2ZF9KU1phZHdsOEVjVTFHcDlkdU5zT3Bpb1hac192cG8tS0hDNmRjaWw2c0JIYldHM3BZN2phZDZnM3Z1X2RxZ3pfSHNrTEJoSldfTXd2U3RqX2lBNlUydkxYcUZGX25PdlIyemxELTIydTQ4bXJQWnQ3dUpGMTd3WWhsUGhEQUpwLUg1R05Za1NUQTkyN08xWk1iVUtGeTAydzQ3bGxNZHhGb0NrTEhTRFEweVF2b3REQzBtcGh0TG9kRmdEWWd4WlFwaEdJNjZqdGV4T1h6ZVRjM0RS0gHuAUFVX3lxTE9xV0dGREJZYjV1UHBBVkhVdVZlVExaaHdTdzJMVXBZcUtGUDRKcTU5QVRZLVZidmpRUHQ1S18xbGJyTGtsSnFZU2Mwc1ZKdHl1VU5mbG5qbjhzUXg2NDRuZl9GYklHVEhwSXJrSjVnWDI3YTNYaWR4b0tMY2t5a3FKcV8zd09TYS1MM0JVQ1BMUGpBYkpMUTRWNW5vRnFGbGNnLXlObHZVU3lhaVdWZjB1dDN0cDFEMWtRQVRhdk5GeWNRYk5vNTFoajlnUkxQVGdLRmlUNzhOY1EtMFpnakhJQnZybG0yODQ3dUFrT1E?oc=5",
+      "fuente": "El Tiempo",
+      "imagen": "http://www.bing.com/th?id=ONUT.d1O4mWZYII3KNWQb0Qyfqg&pid=News",
+      "resumen": "",
+      "fecha": "2026-11-18T01:16:40.000Z"
+    },
+    {
       "titulo": "Addi anunció una millonaria inversión en Colombia durante la ‘Milagro Week’",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbU03UnJ0VFJFeUNGU3NzRUdMYzV5VDlTVVQ0dldNcllCMkZnMDhpd1o5NS1RTE90REtQUzhzNkpKSUZvbjUwY05kXzRrVjJBRjdfSUFESmF4c1Jmc2liOGxwd242TXVDN2JuLWRFb19jbE9FZjVLZmhTU0N2LXVsREtNWHVVSXJCc0Y2SlQ1bktXSmMwaDBqZC02UHdxcmFNLU9oTS0tTjdfUlF2SWZfS0VveVNadnFNT0QwRXdyQVZqOGJpME5jVldtc9IB0AFBVV95cUxPUzJIY2lYTWNzcW9fa1BudVlFZTljMmo2SE9wUURRckVHMEhvOWNaZk9FVlpoTG56SDRqYWkzWHRrRVF0UFZzSDU4NkstemFMcDdjLVVjZFpac1pndmJOTURrS29SX2J6S21JcWhsM1lrcDQySGhNaGN5WjZscUhwa1RPTUFhak9Zb2dGYWxmcjk1YXBJeUpQcVpnTmRXNlZlVGZnNThCanJBeFd6S28xcWpKc0NIaGotSFhIUkNUb09TNmptT0VvazF2SzcxcXJ4?oc=5",
       "fuente": "Revista Semana",
@@ -973,50 +1021,6 @@
       "imagen": "",
       "resumen": "",
       "fecha": "2026-11-17T20:37:57.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Aumentan las inversiones para Colombia en Milagro Week: respaldo para modernización de aeropuertos",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU3Voc1VpdV9GNnZLMXhvSkUtNnVwaGhRMTY1c0JPTVRrcW1zZGF2bEdNVlN3NWR1QmkxdkE3d1p0V2c1NTB2M0s4RWliVWdOTktUZXRCU0p0aDNDQlV2YjN2cElpc3NaX011MmlQVkF6WnFkREJmS3VSc3FnSE5CWVo3SXR6M1c3NlZyRl9ncHFQNjNDZ2tiSXNXU0xuNUI3b3ZfRndzaFppT0JJQ1NSRkpPal9vWldzOFVBX0FLMWwxQdIB1gFBVV95cUxNY0swcEhTWWQ4QXpfWWY2NFR6dTV4TjFoSExIem9uZWlLaVBBV0dUNE5zOG96VFdxNmg5UFJ0UkNyX2NyeVZWT1VVc1p2dzY5TzBMVk1GdG1IYlpJWnRuSkFkOFdCbDVWUVhPeG5qZ1hfMDU3aDBSNXA5MzNDV0kzTGZpZHJZblZsc0RfMDZjWnV6TmZBcjBRQTUwc2xoZktmRjVaNGY3TWlRSEN5dWJEQzAwV3JhS0hJMHVreGVSZlZRRGRtWTl1azMwb1hOUnFwd3dhWE93?oc=5",
-      "fuente": "Caracol Radio",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T20:37:57.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "“Vengan a Colombia”: el mensaje de De La Espriella en la Milagro Week de Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZHJ4RzZKWllWSGY1X19SaFEwMnpOSHpPdGNnYTBIVjdzM3IxQ1JNOEY1SWJxblIzMlZuUVBpRGlSNS1FQlZ1b1RtZXVrdjYtRG16VzdvbjgycThOWFkzeVVYZEppMmF3dTBhdEZkRG8xbmQtZ0ZyV3NPM2ZjeXYySTFyY2czbmVQ?oc=5",
-      "fuente": "CW+ Noticias",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T20:30:45.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week avanza en Nueva York con anuncios de inversión por US$25.900 millones para Colombia",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSUw3ZHkxRHl0TFFGcVptOGRyZjFISGNMSzkxZFUyTVV0OEFmNXlENVZtOXBRVUNicG0tT0JxS3NNX25mUVdpV0d3OE1RdldLV1RlTnF5UktMR09KUG1YLU5td3p5SmExd3l0YVhVOUlNVjlaUEJQaktkNmlZWWVBNGlrMUp2ZG1sQ3VmV2JHb2R3SzZGY0RoMW1OaWQwOW5Fdl9kNHhldnNJZmNTWkdoajhHNWZpTVpuTUs0V1RaQWdlMVN3MVFidjU4S1JwcXdIQmF1NUQyUjLSAdgBQVVfeXFMUDl6aWw4aDExUHBPaW8wSjFEMFpJbFRnVmw3aDFDdnlzS19kWndHUzViNjJXejVDcXA2M0VrVy1zTzlXei1ZOFlFMEYxQVVJY1lVb2Z4clZfOWEydU1qbHdWRFY4X3I4OGZHRlV5dGsxb29lZEVGQVIxQld2MXZIa0RmZWFVcTVHbDBIQmM2ZU5kOEZnMzYxSnFQZlg5Y0s0c3BaWkc5SHAxNTdtb0R5N3NLV2FfNnN0enpNZDJTMUdTY2dpVGJRcEhENURmUlFRQ1hfaUlzV1M4?oc=5",
-      "fuente": "Noticias RCN",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T20:04:56.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week: Oleoflores anuncia inversión de US$200 millones para cambiar coca por palma en el Catatumbo",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTHpBM1V0enlkZFdDTmg0cVlaanpRTjlqLVh2ZnV1X2JTbzJrQkIza08xNDlvakg4d3lxWG1MQ1hyT1JTaExXSlJJRTN3MTRXdTRvcXBIS2pKYldJNlBVaU5EYTc2LTVhYWMwMlVfRVgtYnZpMHNHOTlEYkFyUzJQS3JUeVpmN1BTaldYU2NOSE1ydjNzQVVuREpXbzEweTRrbkNqckFyOVBRSnNoUkZpSFVOUndnWFdZLUZMWm13eGRPaUtCT1ZSMEF4b1JQMFphOHJ6bUxrUzZNLWpfRHBGUTlaU09tRWtsMlNn0gHwAUFVX3lxTE9ab0xxdmc0a09IYy1ESUt2RnBvZE5QZnJsM0ZzNXVyQnRNV3FCcnpiYWdEbFBwMW1YQld5MGhsMTNyYlBuaDdQVHNtbzc5SE10WmlyWjc0NDFzanl3bWlRbU9LV2VjaDFJa2RUNTFPai00SFY3dTNyR1pHMklIMVcwV19KZllydzk1VXpKWVcxd2dGdGZDWG04d0pLUDQ2SGE5YmFIbDZWQm0wUkhVd0xYMlhGc3AxQVhvY2ZEYWQ2ZlBDYlg1MzJZVExNcGhKRkZERDZleUtpQjhONHA0NjVTVVI1YTRCQ3hRbXpfLXJJSg?oc=5",
-      "fuente": "Portafolio.co",
-      "imagen": "http://www.bing.com/th?id=ONUT.XZJ7GpqEHeTvOMaTZl3wpA&pid=News",
-      "resumen": "",
-      "fecha": "2026-11-17T20:03:25.000Z"
-    },
-    {
-      "titulo": "La ampliación del aeropuerto El Dorado y otras grandes obras tienen su fe puesta en la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdnNULUdIX0FBSE5vWkpQdWZDeUtRYlFHVVRTTWhtaGY0b3Q5OE42NmVFdkl5djVEcEdwVjVETEstU2JHTjRCQzFuR3lHZGh0Tk9IdFpSRU9QRnJqdWpQNndlQURRZjE5YTNvZ05wckV1bVU2bF9MZGtaOW5LS3B0bzVDRmltQlRhRFNoMDQ4UE5OYnA2dnkxLUxZeWd1Q0RTYWVOSzJNcHc0dnVGY1lGWE1BOGN3SG5CZTFsQ196TFAybkFyQTY0RWw0b3MwUmlLR0tSaGxsMnhNUFhTZHplX2hHMG5UV2lrd2NTN1dR0gHzAUFVX3lxTFAzSWViTl9PZGpCQ2c5SVZYTGZpSTk4VEZ5WkcxRndyTGRfbWRqTGRWdlBNMmNUZjVjRUtQa2xIWE0waW42MFdHMXJ5aEI0N3ZMZFFIcnBJcTAxZkJONVNXTTRXTU1SWlAwWDR0WGl5U2hqUzJYUHh1bUJVOFFrbVN1S2J3bkJJZ3NmbFo3TU1sNUg0QnB5cXFSaFRnTHVUU2M2Yjh6U2EtNnJkeGRxeWtNS21pblk1cm5lUlJjTVJrM19FNlRDMnF6Y01wSF9ISUtBTno0QVBFMV9EMHA5ZDhUQTExUk1BRTExbjMtQ1pXVFZNZw?oc=5",
-      "fuente": "Portafolio.co",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T19:06:43.000Z",
       "sinFoto": true
     }
   ]
