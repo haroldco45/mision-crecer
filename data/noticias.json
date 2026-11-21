@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-21T15:15:17.299Z",
+  "revisado": "2026-11-21T21:02:11.354Z",
   "noticias": [
     {
       "titulo": "Ningún proyecto del Cesar en el balance oficial de la primera Milagro Week en Nueva York",
@@ -903,7 +903,8 @@
       "fuente": "La FM",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-18T04:26:00.000Z"
+      "fecha": "2026-11-18T04:26:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: estas son las empresas que anunciaron inversiones millonarias en Colombia",
