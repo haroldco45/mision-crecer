@@ -1,6 +1,14 @@
 {
-  "revisado": "2026-11-21T06:55:02.522Z",
+  "revisado": "2026-11-21T15:15:17.299Z",
   "noticias": [
+    {
+      "titulo": "Ningún proyecto del Cesar en el balance oficial de la primera Milagro Week en Nueva York",
+      "link": "https://elpilon.com.co/general/ningun-proyecto-del-cesar-en-el-balance-oficial-de-la-primera-milagro-week-en-nueva-york",
+      "fuente": "Elpilon",
+      "imagen": "http://www.bing.com/th?id=ONUT.ySmMWkT1y3sXu9p0UL1ezQ&pid=News",
+      "resumen": "Antes del cierre en Nueva York, cinco iniciativas vinculadas al Cesar hacían parte de la vitrina de 132 proyectos ofrecida a inversionistas extranjeros, con necesidades conjuntas superiores a los US$5 ...",
+      "fecha": "2026-11-21T05:20:00.000Z"
+    },
     {
       "titulo": "El éxito que dejó la primera edición de la Milagro Week a Colombia",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDc4QTIwYmVUcFVpTDlkMThkakdHdWVKcy1sUEdiTk5iZlNseDU5OUZaUEhXNGJaR3JQelZWS1pHQ05WV0RWdVhkTnpKQUdqR01jcjcyUENITGl3ekNsVm9kMEw4RWhmQ1J4TU1KUHBGR1J4Ql85NzVkZEM2WGY4TEcyMmhWazZycG9fb2tKbTdHeXpTcVk1cmdETFFYYXdDYmhiX2lLcS1Sdw?oc=5",
@@ -753,7 +761,8 @@
       "fuente": "El Periódico de España",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-18T12:32:22.000Z"
+      "fecha": "2026-11-18T12:32:22.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¿Cuándo será la Milagro Week de los empresarios colombianos?",
@@ -860,7 +869,8 @@
       "fuente": "ABC Economía",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-18T06:06:39.000Z"
+      "fecha": "2026-11-18T06:06:39.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: minería, aeropuertos y salud lideran nuevos anuncios de inversión",
@@ -886,6 +896,14 @@
       "resumen": "",
       "fecha": "2026-11-18T05:01:56.000Z",
       "sinFoto": true
+    },
+    {
+      "titulo": "Milagro Week: Colombia atrae inversiones millonarias para impulsar el sistema de salud",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSXpUa1FBZ0JFU2ZrN0N3THROV05tWW01dzViOUV1NEFkb3pReDJ2TDZEbTRBd0Z0X0JkSUNubHhuYnBDZEhnTEJkcm1obl9GSXBkZDlPTFpMNThkb05HeF8yMWs5bTh2eVZ4dWdLTjNtTnVGMGFXY3JOcGFHcGJlRnJVVHhXRkg1SVN5VHkyNTk1aDIxT0EwWnlRb2JKN1BNWVJXYVpZcjgxZFozeElCSzFJWk9DREZMdUpBcWhpUkZXRjFRd3dlenVTa9IBywFBVV95cUxORnVlekg5b20yWjl0YTUwNWh5bnlhSHhIYWZVVjVKbVo2YWJseVRuSzNicnoxbWpIcjhKQkNzOGtJNFZJYVg5em5PSWM1X0FTTHZZQ2ZNaG1GRURIY3hsTWVpUEt5X19MbjlBYk1lNHdIWmFxdUExaGhkaEd4UlZqLTBiMTFKZzQ2akZyNkdvUVJya2lqQ3p1THhLbEg0U0w3NjllcEtrQzZtS1Nmd084aWdoUHdwa3o5dllCSnprbEVxOTZLdV9yVlFmdw?oc=5",
+      "fuente": "La FM",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-18T04:26:00.000Z"
     },
     {
       "titulo": "Milagro Week: estas son las empresas que anunciaron inversiones millonarias en Colombia",
@@ -986,7 +1004,8 @@
       "fuente": "canalcampotv.com",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-17T23:28:44.000Z"
+      "fecha": "2026-11-17T23:28:44.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: Colombia anuncia más de US$1.500 millones para modernizar seis aeropuertos del país",
@@ -1005,22 +1024,6 @@
       "resumen": "",
       "fecha": "2026-11-17T21:57:48.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "En la Milagro Week, MinAgricultura y PepsiCo impulsan la compra directa a pequeños productores colombianos",
-      "link": "https://www.ecosdelcombeima.com/index.php/economia/nota-197971-en-la-milagro-week-minagricultura-y-pepsico-impulsan-la-compra-directa",
-      "fuente": "Ecosdelcombeima",
-      "imagen": "http://www.bing.com/th?id=ONUT.vOaVJ5tTBE7QtKAr5_h1Xg&pid=News",
-      "resumen": "Durante un encuentro en Nueva York en el marco de la Milagro Week, el ministro Indalecio Dangond y directivos de la multinacional reafirmaron su compromiso con el agro nacional, destacando la garantía ...",
-      "fecha": "2026-11-17T21:55:00.000Z"
-    },
-    {
-      "titulo": "Bogotá lleva 15 proyectos a la Milagro Week para impulsar la inversión internacional",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWlGa3ZJVVk5VUNoX1RJRmlXVWIya2hDUW11RGFvUnBZazFWNG9pWEMxRFdld0Y2TUdWVDI4UE03SU91Y2FPX2NkLXB1YmwxdGpheUdJU2o0U2pFdXprVjc1eTlRSWktVWUwZjdJWHQ1MHNYWlVoSEk4MGI1TE1TTEZkUjhUY2FLeGQ3dUg5bHVqZWo2Xzhiek92RUFsMFJoM1hPNkZNSUprTi1ZTGNQS3c0WWgtWk9DOWR5T296emZkNU14Xzg4VHVR0gHXAUFVX3lxTE91bm5ORGRHS0VnTl9mZi1mb1k1ZzNMS2RveUFOdGV3UExTTHdIdlU1QUVqR2x6dHI3WWZuRnoydUFuLUJuUU9iaTBzOWJqU2JEY0d2cGlpLURYQVF1UFkwYmVlZFdQMmZ2aS02bElOYmp0Y3F5bE5OZDJqT2M1ZngzZjlUM1R1SkNVZGVDWDZkb1VMMjM1elVBQnJEai1GeDlOazBYcUdicTBudHV4dFB0aHhYSWM2UVhBRklfeEZIQVhoeHB5R0hScC1FdFFpY2dNUmQ1Um5j?oc=5",
-      "fuente": "Blu Radio",
-      "imagen": "http://www.bing.com/th?id=ONUT.BTkyMkocZrB4nSxy4ND4NA&pid=News",
-      "resumen": "",
-      "fecha": "2026-11-17T21:30:11.000Z"
     }
   ]
 }
