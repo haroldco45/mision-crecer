@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-20T23:57:13.511Z",
+  "revisado": "2026-11-21T06:55:02.522Z",
   "noticias": [
     {
       "titulo": "El éxito que dejó la primera edición de la Milagro Week a Colombia",
@@ -7,7 +7,8 @@
       "fuente": "El Nuevo Dia (Colombia)",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T15:18:38.000Z"
+      "fecha": "2026-11-20T15:18:38.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "RegioTram del Norte se presentó ante inversionistas en Nueva York durante Milagro Week",
@@ -94,6 +95,14 @@
       "resumen": "",
       "fecha": "2026-11-20T00:48:07.000Z",
       "sinFoto": true
+    },
+    {
+      "titulo": "Milagro Week puso al Regiotram del Norte en la vitrina de la proyección internacional en Nueva York",
+      "link": "https://www.noticiasrcn.com/colombia/milagro-week-puso-al-regiotram-del-norte-en-la-vitrina-de-la-proyeccion-internacional-en-nueva-york-1083963",
+      "fuente": "Noticiasrcn",
+      "imagen": "http://www.bing.com/th?id=ONUT.zeDarBdc1RnBTG483dQBPA&pid=News",
+      "resumen": "Con una inversión proyectada de $17,4 billones, el Tren de Zipaquirá llegó a la agenda internacional de Milagro Week.",
+      "fecha": "2026-11-19T23:16:00.000Z"
     },
     {
       "titulo": "Cundinamarca llevó el RegioTram del Norte ante inversionistas internacionales en Milagro Week, en Nueva York",
@@ -739,6 +748,14 @@
       "sinFoto": true
     },
     {
+      "titulo": "Madrid, la próxima parada de 'Milagro week': el Gobierno De la Espriella busca inversiones millonarias tras su paso por Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnB4VGs4MHo2VEtlTExDNzRuUEVWNTNqRTRrazdOdXdzS24yZWhKdFBENWtiYWRzWFpvWHh3RV9zT21wcU1WMDZaNzdPQTl0VjNybzh6VmJNZldQaVMzbmg4VmpibFJ0OHNsZENCM2VjaGF3SEctWFVobTRsVExhR2NDSnBwRWs3YmdNeU12SGt5M1ozcXdYRENVMGh6TEI3WWJBeEhnS3ZRUklYUmVjVdIBsAFBVV95cUxQOUhIRmxXY0p3VDZIUk5qWFVwNUdmS2ZhYWQ0ejVBWFA3TUNydDBoNEptT1VyTDYza0wwanhEdzZJcndUYlJSeHVQRjdpankzOGZXY1Rza2hKWFZJWEhRVkU4QlhvMlF5UGs5ZDdjbmpPQ085dGFfNXdBWW5MdjFodzlGMjBmLTgyOGFNZ1FPZGo1bF9xZjc1RmRWelA5VzMtUmZlLUVwcjc0Um1SRFMyVA?oc=5",
+      "fuente": "El Periódico de España",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-18T12:32:22.000Z"
+    },
+    {
       "titulo": "¿Cuándo será la Milagro Week de los empresarios colombianos?",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDI3YzdRN1dmQnVrS1ozQXlYTjdPOExSTzZVMzNubWIzcVFVSTB0dUtVTlRtdHhLc1U2V1pTTW5VSU80UDlVWUhMelJhQlNHWGl2SHZnaWVMUW5MTVhCRXZLOWR5NXdwUFNxRjBzOVJzUE9zTkY2eGV0SlF1XzFfRGJyTUVyM19jdUpoYQ?oc=5",
       "fuente": "Revista C-Level",
@@ -836,6 +853,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.MmYOEdnxWiZl4js86Rx_nw&pid=News",
       "resumen": "La Milagro Week anunció inversiones por más de US$35.500 millones para Colombia, con proyectos en infraestructura, aviación, energía y financiación empresarial ...",
       "fecha": "2026-11-18T06:07:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week: más de US$1.500 millones para aeropuertos de Colombia",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5kX05OSUFKWHdpTENxclpOZGRmTDU1d2FnRy1JalZhNkxScW5uYXdJWnVqU2FjUS1tN2llR3lrU3pNbl9zOGp0ZnhxWHVFS0V1eGZCanUzMW1HcUZFRjMzYVYwdm11WGtJNE9mQ0wxNExXeF82X2FBYg?oc=5",
+      "fuente": "ABC Economía",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-18T06:06:39.000Z"
     },
     {
       "titulo": "Milagro Week: minería, aeropuertos y salud lideran nuevos anuncios de inversión",
@@ -956,6 +981,14 @@
       "sinFoto": true
     },
     {
+      "titulo": "MinAgricultura anuncia tres acuerdos con CAF para el campo colombiano durante la Milagro Week en Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0J2T3hiYWJuUG1nSVJ5aUdXc0MyaTRiU1BmelE5TXpvZWxkODBKRHRxR2VZU1N6T0JCSlNDUkVjS1hVOWt1MEJQRHN6VHZzUk9TbUlPd1Jlblp3TWZmYjFpblFDczU4aXpWclNqTWtYR2JWbEwwU3ZVV3lNd0JWRVhoRlppS2UwYUY1U0RQSEhQdEJQT0s0cUxmMkU2bnB3TmxfQ3MwQWZxb3pqSmFNZG1STVNpUFlJdmRVZGhPM0FLZmNmOGlvZnM3d2tQbUt5VVVYdlcyVmxGOUNW?oc=5",
+      "fuente": "canalcampotv.com",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-17T23:28:44.000Z"
+    },
+    {
       "titulo": "Milagro Week: Colombia anuncia más de US$1.500 millones para modernizar seis aeropuertos del país",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMkF0Q0JHckhaUER4UEtmX3Jlb3hOZ29WVHV5WTYyVGprNkRWMHkzRTVrclBObnN5TnFPUkdGeHZQN0lQUmd5ZTA1SDNtd0F4NV9uczNjUEltdHVLRjFGX3NlSS1IU1VVUmV6WlVZZkZPYmRkVEZISURCeUc1UFZSNUd1S01WTElqbndpejNOb3RwM1JlWmpkZG04T29laWhzcU9zQ1lyWmJ6dGVLRlE3YUVKTFAtdzBPRVFOQlQ1UTFJenE2UnloV2U0ZnY5MGdkVzdzSVRES2VfbktqOVNlOUtHYTlXcUpPOXfSAe8BQVVfeXFMTzk1TDJTNkxfazI2S0wtVGdUbzM0WXQ5WXdRZnZ5OUt0UnZkN2gtT21OX2JudFNiM3JvVnhWWE1wQXJEdlloVk1uT291YzE4VzZaT0NlUW1vS1lRMzNWSkJhcTlvTWxUSVk3WUZyMkZFSGQzUG5RZWdZTG5qMXE4emo2M2lfYXVkSVB0Q1VUeGw2blkzVHQzMGxITUZndk9Ba25jMEQ0ZkVXc1VLNkxHZW01Y3ZwN2g3MHh4RnJnTE5Nc0dJUFA4MmFrR2lhUnRBU3JPZ3JyWlU3aE9fbG9aWWJQd1FXSGlRako2UVJjbVE?oc=5",
       "fuente": "Portafolio.co",
@@ -988,40 +1021,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.BTkyMkocZrB4nSxy4ND4NA&pid=News",
       "resumen": "",
       "fecha": "2026-11-17T21:30:11.000Z"
-    },
-    {
-      "titulo": "Milagro Week: Colombia atrae inversiones millonarias para impulsar el sistema de salud",
-      "link": "https://www.lafm.com.co/sociedad/milagro-week-inversiones-sector-salud-sistema-crisis-dinero-medicamentos-atencion-pacientes-417530",
-      "fuente": "Lafm",
-      "imagen": "http://www.bing.com/th?id=ONUT.6r_qQnwTjdyt9De9wH3lWQ&pid=News",
-      "resumen": "Los anuncios incluyen un compromiso de inversión de 2.600 millones de dólares en proyectos de salud, infraestructura y energía.",
-      "fecha": "2026-11-17T21:26:00.000Z"
-    },
-    {
-      "titulo": "Milagro Week arranca con anuncios por 25.900 millones de dólares: así fue el balance de la primera jornada",
-      "link": "https://lalinternaazul2.wordpress.com/2026/11/18/milagro-week-arranca-con-anuncios-por-25-900-millones-de-dolares-asi-fue-el-balance-de-la-primera-jornada/",
-      "fuente": "Lalinternaazul2",
-      "imagen": "http://www.bing.com/th?id=ONUT.b9HPhgoQQsV7VMOzVcIhuw&pid=News",
-      "resumen": "16/11/2026 | Revista Semana La primera jornada reunió a cerca de 700 empresarios y dejó compromisos de inversión de la banca multilateral y el sector privado. Primera jornada de la Milagro Week ...",
-      "fecha": "2026-11-17T21:18:00.000Z"
-    },
-    {
-      "titulo": "Milagro Week en Nueva York: Vicepresidente anuncia 25.900 dólares para inversión privada",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDA5M1BuUUM2X1ZGZW9kNkYwZUFmSG1sWTRjb2FFUXVMTmNfSlRoTXg2eVptaWY1Q3lpS3B4T0w0al9GbVhkaUFIdnpSUW8yZ1UwWGF0eE00dE9aTnZnRTBqYXpzT1M2a0ZvZ25mZ0JJa0xzZTZVMGFrVVh3Ym9DX2xYbVdPM1hCMHB2UFhDS2hyOG05Y2piaFp3NkxOeVVBRGh4azBwS3diVzdLUTF2QnVHQWE0dVpKRTNBYmRlUy00aVR3bDZZ0gHMAUFVX3lxTFBhZUFNdXpFTjBYSVBtWjRjQTFOaEwxZ05XbU9tVXZjSE5iam12NUV1S0xmN09UeUFCZ0RzaXAtZVg1c2x3YW5kdXREeGlITjRNUldFeUpITHF6LVZUVDR0aHlTdmF1OUExSGVZOFlaRm1UeE9raE1OM1lyNVo3QWV6XzBGU0lXSEQyX1djZXRJWDBIaDZhdzh3WVh0V1dtS1hrMkpfU1ltNEd0VlQtRXp1dzVXTUpTX2xhZGJPM0FnSG9wbU1XMWhud3EydQ?oc=5",
-      "fuente": "Canal 1 En vivo",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T21:09:51.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week: Vicepresidente anuncia 25.900 millones de dólares para inversión privada",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNDA5M1BuUUM2X1ZGZW9kNkYwZUFmSG1sWTRjb2FFUXVMTmNfSlRoTXg2eVptaWY1Q3lpS3B4T0w0al9GbVhkaUFIdnpSUW8yZ1UwWGF0eE00dE9aTnZnRTBqYXpzT1M2a0ZvZ25mZ0JJa0xzZTZVMGFrVVh3Ym9DX2xYbVdPM1hCMHB2UFhDS2hyOG05Y2piaFp3NkxOeVVBRGh4azBwS3diVzdLUTF2QnVHQWE0dVpKRTNBYmRlUy00aVR3bDZZ0gHMAUFVX3lxTFBhZUFNdXpFTjBYSVBtWjRjQTFOaEwxZ05XbU9tVXZjSE5iam12NUV1S0xmN09UeUFCZ0RzaXAtZVg1c2x3YW5kdXREeGlITjRNUldFeUpITHF6LVZUVDR0aHlTdmF1OUExSGVZOFlaRm1UeE9raE1OM1lyNVo3QWV6XzBGU0lXSEQyX1djZXRJWDBIaDZhdzh3WVh0V1dtS1hrMkpfU1ltNEd0VlQtRXp1dzVXTUpTX2xhZGJPM0FnSG9wbU1XMWhud3EydQ?oc=5",
-      "fuente": "Canal 1 En vivo",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T21:09:51.000Z",
-      "sinFoto": true
     }
   ]
 }
