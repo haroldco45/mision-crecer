@@ -1,6 +1,30 @@
 {
-  "revisado": "2026-11-22T09:38:19.009Z",
+  "revisado": "2026-11-22T17:44:11.167Z",
   "noticias": [
+    {
+      "titulo": "Inversiones de la Milagro Week impulsarán proyectos de infraestructura y energía en el Caribe",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM2lkenZvcWJfVTBYWVpDVGZ4VnBJWHVuMllBUFI1TnoxVHVrNVdNcTNuZEl2b2NRZXVqeXJOT2pRV2JKWC03SGpvY2F0QWhmT2l6Rl94ZmxxcXJOVWwzazc5UkJ1TUZiLWtsdDR1em1ka1RtdEdBNzZxRUZzbVNFUXI5RmV3ZHZHYzU2aElhSzh5T0VnOW13LVFFY0EtQkZhWUdMYlpZZW14aDVfRDZKd2RfWk0?oc=5",
+      "fuente": "IFM Noticias",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-22T15:00:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week: el mundo vuelve a poner los ojos en Colombia",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2IwWkZsUnNpUld2LXQ0YnFrc2xhb2p4SF95c09WXzJPWDVoR0w3T1NPeXNfSlk1Vk9vRW5WRnBqMDE0ZTMxeEtlTzBCUi03T256SENvMWZmLUItYVpZQ0hMZHktTTVrQzNtVjBSSFc1MWU1QmdQbkRLMEMzejM3clMwZVVmTVBVcEhYZnpZZzNNSV8zRkViQy1fcEhvRW1uZEp1dWtMS07SAa4BQVVfeXFMT3dYcERVTDhCTVVMSGE0d3pMbUQtV2VacmpTbVlsNDEwckt0Z0tEM01zd3MwWlNnempxb3F3QmVKZmZOdHI5WV9uVlRSSWFwRTN5Rks0eVBqaTllcHctWVRNVWNjVVFYSjVGR3FidU9zZXA0QkxwaE51RHh2M281cjJCeXNsRnVJcG0tc2xEZUVJaXZiTWlMeTRONXJxREhEdzNDWEhwZFRxSHlERW1n?oc=5",
+      "fuente": "Revista Semana",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-22T10:07:07.000Z"
+    },
+    {
+      "titulo": "La Milagro Week dejó para el Tolima una inversión proyectada de 470 millones de dólares",
+      "link": "https://caracol.com.co/2026/11/22/la-milagro-week-dejo-para-el-tolima-una-inversion-proyectada-de-470-millones-de-dolares/",
+      "fuente": "Caracol",
+      "imagen": "http://www.bing.com/th?id=ONUT.md2DaJtMyKj7R6IlacpAKw&pid=News",
+      "resumen": "Según Juan Manuel Alvarado, director de Invest In Tolima, el departamento presentó cuatro proyectos en el evento liderado por el Gobierno Nacional en Nueva York.",
+      "fecha": "2026-11-22T04:02:00.000Z"
+    },
     {
       "titulo": "Los proyectos de la Milagro Week en el Caribe",
       "link": "https://www.elheraldo.co/colombia/2026/11/22/los-proyectos-de-la-milagro-week-en-el-caribe/",
@@ -997,32 +1021,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.psS8NAvz9Yx8ueOs-v0gVw&pid=News",
       "resumen": "Durante la ‘Milagro Week’, la entidad que administra los bienes incautados a la mafia tuvo una serie de reuniones con inversionistas. Detalles.",
       "fecha": "2026-11-18T00:08:00.000Z"
-    },
-    {
-      "titulo": "Campanazos del segundo día de la Milagro Week: estos son los anuncios de inversión para Colombia",
-      "link": "https://www.minuto30.com/campanazos-del-segundo-dia-de-la-milagro-week-estos-son-los-anuncios-de-inversion-para-colombia/1731685/",
-      "fuente": "Minuto30",
-      "imagen": "http://www.bing.com/th?id=ONUT.x0I4LeF-G0pCDFC38yAjrg&pid=News",
-      "resumen": "La Vicepresidencia presentó el balance del segundo día de la Milagro Week en Nueva York: nuevos «campanazos» de inversión para varios sectores de Colombia.",
-      "fecha": "2026-11-17T23:42:00.000Z"
-    },
-    {
-      "titulo": "Milagro Week: Ministra de Transporte anuncia 'inversión histórica' de más de 1.500 millones de dólares: estos son los 6 aeropuertos que modernizarán",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOWUxUSTJWRk5iSFNCeUItZXRPWkdQRGI3OVp6RW5pSWwxSDd4NFk1Z0k5T211UDR6TFljaS1YOW5xS2QxM1dnZUlEYTgzNFl6M2pRM2l6ajdZWjB0YW1jYjNHZmlwZjRZNlFhalExRkJsaUk0YzZXb1l1aDJLdURNX2ozSWg5b3R3LXdhZ2l2SDRVdVl0TDRTeDlYQ2lrWUZkOVZHSkFJZ3JLSzRGdzduSFdhLTVFTGZCU2JDNUZma1k1ek5XWDJKaktBRUw1cFlLTk5rTzVhanJVZ0QtOTVzdHFmUlE0alk1a0xaNXRRb0M3RThRTExvQlhDTldQdmxCQTZLWHY5enNGU25WeFR5eXYzdW9Ea1pYQ0Nr0gGgAkFVX3lxTFAwcWxYaTVOalo4b3JhSXJCWmk5aHNvc3lVV3BLYlB0anJkV2xaRk9UX05ZeU1UT25BSGxDdi1VUkwtVG1EMUh4cEM4Z0Z0ZVd1cUlRVlJVeEpvdEIzeXdpVGRvYmIzeUU0NWFvbEgydDhaZ2pZREIzNHozZlJYcG1tQVppbnBlSXlqNHlNQW9xWkd5X3dhdldQWFJlM2ZIQkxndVVJT2dGSWpMVEVfc3Fzb1htcGI2WHpmT1gwd0cyLWZkRDZTUzBzdnFaWVd5Yk5fSDR2ZE5NMWFkcW0yUWtnYUlUN215bEhaV2dpNkU1dy1mVnlrbW9wRWt2WWE0WUdJU2hGZjdEMUhTd21QUVNmS1JvUC1IY19QY0hSVXVFag?oc=5",
-      "fuente": "El Tiempo",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T23:34:00.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "MinAgricultura anuncia tres acuerdos con CAF para el campo colombiano durante la Milagro Week en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb0J2T3hiYWJuUG1nSVJ5aUdXc0MyaTRiU1BmelE5TXpvZWxkODBKRHRxR2VZU1N6T0JCSlNDUkVjS1hVOWt1MEJQRHN6VHZzUk9TbUlPd1Jlblp3TWZmYjFpblFDczU4aXpWclNqTWtYR2JWbEwwU3ZVV3lNd0JWRVhoRlppS2UwYUY1U0RQSEhQdEJQT0s0cUxmMkU2bnB3TmxfQ3MwQWZxb3pqSmFNZG1STVNpUFlJdmRVZGhPM0FLZmNmOGlvZnM3d2tQbUt5VVVYdlcyVmxGOUNW?oc=5",
-      "fuente": "canalcampotv.com",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-17T23:28:44.000Z",
-      "sinFoto": true
     }
   ]
 }
