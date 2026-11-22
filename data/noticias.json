@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-22T17:44:11.167Z",
+  "revisado": "2026-11-22T23:30:24.365Z",
   "noticias": [
     {
       "titulo": "Inversiones de la Milagro Week impulsarán proyectos de infraestructura y energía en el Caribe",
@@ -7,15 +7,24 @@
       "fuente": "IFM Noticias",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-22T15:00:00.000Z"
+      "fecha": "2026-11-22T15:00:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: el mundo vuelve a poner los ojos en Colombia",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX2IwWkZsUnNpUld2LXQ0YnFrc2xhb2p4SF95c09WXzJPWDVoR0w3T1NPeXNfSlk1Vk9vRW5WRnBqMDE0ZTMxeEtlTzBCUi03T256SENvMWZmLUItYVpZQ0hMZHktTTVrQzNtVjBSSFc1MWU1QmdQbkRLMEMzejM3clMwZVVmTVBVcEhYZnpZZzNNSV8zRkViQy1fcEhvRW1uZEp1dWtMS07SAa4BQVVfeXFMT3dYcERVTDhCTVVMSGE0d3pMbUQtV2VacmpTbVlsNDEwckt0Z0tEM01zd3MwWlNnempxb3F3QmVKZmZOdHI5WV9uVlRSSWFwRTN5Rks0eVBqaTllcHctWVRNVWNjVVFYSjVGR3FidU9zZXA0QkxwaE51RHh2M281cjJCeXNsRnVJcG0tc2xEZUVJaXZiTWlMeTRONXJxREhEdzNDWEhwZFRxSHlERW1n?oc=5",
       "fuente": "Revista Semana",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.x-XuuSnDwMDeY5iu0I_kMQ&pid=News",
       "resumen": "",
       "fecha": "2026-11-22T10:07:07.000Z"
+    },
+    {
+      "titulo": "Inversión: el camino para crecer al 6%",
+      "link": "https://www.eluniversal.com.co/opinion/columna/2026/11/22/inversion-el-camino-para-crecer-al-6/",
+      "fuente": "Eluniversal",
+      "imagen": "http://www.bing.com/th?id=ONUT.bihPbB3K5BNFJWbkGhFKDA&pid=News",
+      "resumen": "“La meta del 6 % planteada por el Gobierno a través de Misión Crecer, liderada por la Vicepresidencia, es ambiciosa...”.",
+      "fecha": "2026-11-22T09:08:00.000Z"
     },
     {
       "titulo": "La Milagro Week dejó para el Tolima una inversión proyectada de 470 millones de dólares",
@@ -1013,14 +1022,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.RfD_IZkL63JGKJpBDzq_rA&pid=News",
       "resumen": "En diálogo con este medio, el vicepresidente José Manuel Restrepo brindó un balance de los encuentros que se han sostenido en Nueva York.",
       "fecha": "2026-11-18T00:19:00.000Z"
-    },
-    {
-      "titulo": "SAE se reunió con el CEO de Universal Music en Nueva York: ¿Viene un megaproyecto de inversión para Colombia?",
-      "link": "https://www.eltiempo.com/justicia/investigacion/sae-se-reunio-con-el-ceo-de-universal-music-en-nueva-york-viene-un-megaproyecto-de-inversion-para-colombia-3602031",
-      "fuente": "Eltiempo",
-      "imagen": "http://www.bing.com/th?id=ONUT.psS8NAvz9Yx8ueOs-v0gVw&pid=News",
-      "resumen": "Durante la ‘Milagro Week’, la entidad que administra los bienes incautados a la mafia tuvo una serie de reuniones con inversionistas. Detalles.",
-      "fecha": "2026-11-18T00:08:00.000Z"
     }
   ]
 }
