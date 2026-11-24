@@ -1,6 +1,30 @@
 {
-  "revisado": "2026-11-23T19:26:21.582Z",
+  "revisado": "2026-11-24T04:24:23.499Z",
   "noticias": [
+    {
+      "titulo": "Bien por la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wUzZPUDJVb05Cb3FYM1AwSmd2eGJEdXVnd3Z4UERhb2hyUFEwN0pNX3FMZ1hHaGNqMVdkMDBPWjB5ZndGXzJqd3VwblhPVEE4a0d2M2lRNDVMc0R4elAtTlZoa2dwSkxoLWk5ZTUxOFdGNWhSUzl4UHN4Y0wzYnPSAYQBQVVfeXFMT3RkbUgwaFFwRFlJVVVUREh1bmlDdFpld0tFdzRNS3hJbTBIamY3WG5EckNfemlnUTgtSmg4eDRkTEluTlFHU3cwOTlUMENlajVvZmF6SFpGbDhiVkF2enZKYVhxZkFsUllmUFdadWNQM3M3VkQ0cTQ3R0tqRmZkZk12bFo4?oc=5",
+      "fuente": "Portafolio.co",
+      "imagen": "http://www.bing.com/th?id=ONUT._2pdG_obyTsqufbZZb2yeg&pid=News",
+      "resumen": "",
+      "fecha": "2026-11-24T03:42:37.000Z"
+    },
+    {
+      "titulo": "Tres días, 97 proyectos y una cifra que duplica la meta: así cerró la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSDFaaVVmeERhaThlX1VTNlV2YWs5dER5TVZHblRqSU1MV1VKdlZiYWtNajFjY0dadUg3Y3dEREl5SWliT1ZWd0NENU9kdmdSYkk4akJSX0xzS01laTdBYzhWSWJ2OUplbkZpUEM0NTZrdU1JOHA1ZGhacWZka1M1Q3dIUmVGeWttakVPTXJTdS1pZ2s2MkFQVDJ3TTE1dndCUDNsRGFYRFVaQ0tiNWIyb0pPSGk5MTRMNGM0?oc=5",
+      "fuente": "Diario del Cauca",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-23T21:00:29.000Z"
+    },
+    {
+      "titulo": "Muchos elogios, cero proyectos concretos: así fue la visita del vicepresidente a Nueva York por la \"Milagro Week\"",
+      "link": "https://www.las2orillas.co/muchos-elogios-cero-proyectos-concretos-asi-fue-la-visita-del-vicepresidente-a-nueva-york-por-la-milagro-week/",
+      "fuente": "Las2orillas",
+      "imagen": "http://www.bing.com/th?id=ONUT.EzKG66FPnGmbmax-aKGiCw&pid=News",
+      "resumen": "El vicepresidente cerró la Milagro Week en Nueva York agradeciendo los votos y las remesas de la diáspora, aunque la comitiva admitió no tener proyectos para ella ...",
+      "fecha": "2026-11-23T13:02:00.000Z"
+    },
     {
       "titulo": "Antalya y Nueva York: lo que esta semana deja para los bosques de Colombia",
       "link": "https://www.semana.com/mujeres/opinion/articulo/antalya-y-nueva-york-lo-que-esta-semana-deja-para-los-bosques-de-colombia/202639/",
@@ -15,7 +39,8 @@
       "fuente": "El Meridiano",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-23T06:03:09.000Z"
+      "fecha": "2026-11-23T06:03:09.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Inversiones de la Milagro Week impulsarán proyectos de infraestructura y energía en el Caribe",
@@ -99,6 +124,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.kvF9iEV90VZGtlE7qR6LgQ&pid=News",
       "resumen": "El sonido de una campana se convirtió en una de las escenas más recurrentes de la primera Milagro Week. En la sede principal de Citi, en Nueva York, ...",
       "fecha": "2026-11-20T12:38:00.000Z"
+    },
+    {
+      "titulo": "Milagro Week - El Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pOW1vZDlDWElrejNSVU52cVNKeGlCY29KYWlzU0FPZldfUlRHTnh3RElpcUR2dlZwSElKWDhMRkVGNGVpNWZRZ1FUbHF3SUVvX216UnNGaWxJajFmb2hWSGtaMmpXWEloNXJmTFh1ZVJubHQ5?oc=5",
+      "fuente": "El Colombiano",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-20T11:42:38.000Z"
     },
     {
       "titulo": "Cundinamarca busca en la Milagro Week inversionistas para el RegioTram del Norte, un tren de $17,4 billones",
@@ -400,6 +433,14 @@
       "resumen": "",
       "fecha": "2026-11-19T13:15:06.000Z",
       "sinFoto": true
+    },
+    {
+      "titulo": "'Milagro Week' - Zona Cero",
+      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XTmh3UTJPeEhBazUyTDR4VjBKb2tpUzJqeDZ0NUg4RTNrSWUwa09pUThWYXF3c1dtOEpqdjJPRWtMcDdaMnJv?oc=5",
+      "fuente": "Zona Cero",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-19T13:11:29.000Z"
     },
     {
       "titulo": "¿Cómo le fue a Colombia en la ‘Milagro Week’?",
@@ -978,49 +1019,6 @@
       "imagen": "https://d33tk5b80rpokn.cloudfront.net/images/milagro-week-empresas-20261118-092947_20261118_092947_twitter.jpg",
       "resumen": "Avianca, Addi, AngloGold Ashanti y Parex están entre las compañías que anunciaron inversiones durante la Milagreo Week.",
       "fecha": "2026-11-18T03:55:00.000Z"
-    },
-    {
-      "titulo": "Milagro Week: Colombia Despierta Interés Y Abre Nuevas Oportunidades De Inversión",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUtaeVNRNUVzbzN5cEdpcFRuN1VCaHZYNVRUMm9NTENsOHpleGVCNElwQ3Z4ZUFZXzlUbzhpZmRoYnM3VzZWN1NIUExaaU1uSmFyV2FDS3FXU18xMHVmMnlRcnp0YTdVdzhpZ3FBYWRiMUZxV1RZNDF3NXZWVVNqMlhsdEctN3BBQzNmTnR3cVV4YUxYVXgwV1ZEVWQ4TUNxdmlWV3RUMUU0M3pjRXlEdVRPMmhKUFl3LWMxUFQ0YmVRMElvMGZDUDFMeC1pR1NFM3g2UEMwZWhFRWpP?oc=5",
-      "fuente": "Cámara de Comercio Colombo Americana",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T03:28:05.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week: ¿cuánto dinero anunciaron empresas y bancos para Colombia desde Nueva York?",
-      "link": "https://www.eltiempo.com/economia/milagro-week-cuanto-dinero-anunciaron-empresas-y-bancos-para-colombia-desde-nueva-york-3602023",
-      "fuente": "Eltiempo",
-      "imagen": "http://www.bing.com/th?id=ONUT.ffN-Lqav_9wCa-Sk5A27TA&pid=News",
-      "resumen": "Entre bancos, aerolíneas, petroleras y mineras, el Gobierno anunció montos y plazos distintos, y varios se encuentran a la espera de permisos.",
-      "fecha": "2026-11-18T03:05:00.000Z"
-    },
-    {
-      "titulo": "Colombia fortalecerá las habilidades digitales y la inteligencia artificial gracias a Memorando de Entendimiento firmado por MinTIC y Meta en la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQRGt0UnFRZ3VQajJRTWRibmFBeE4zRTRZbF9lUDhEYk54Q1gwM0d0Y04yVHVZVzRoeW8zYm1CMlR6eG5tUGFhQW14SVoxcFZkWU9DaDhmT0hhUk1waUJucGh2eXlYUm9HanF4QlA1Vl9GaWFpM3RwelF0a3pCUkd6OVZFLW02cFlnd2FJd1RGenBDRk9BaFpXNjVfcXNyX01EMlhZcXNOMUxwNEF4eU1Qb3RNYTgyTVJONnNhRlZaLWxueHlwU0w5aFNucWtSS2dXbExmTkpBX3ctUEphVFdtek51bnhXUWg1X0FVTUtBZFp6TE9Pdi14Wlc0VnY2UnZONDZpZHlIUHF4bEYyRzFRblFvMHdGSnJyMVdERG5jZW9qaWhIV3NQTjZOc04yU3JVSFk2MUN5UjVPZ05PWHItcmVHMVlyUVplVUJrSA?oc=5",
-      "fuente": "MINTIC Colombia",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T02:12:12.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "De Quebradona al Catatumbo: los proyectos que han conseguido inversión en la Milagro Week en Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSmxNSWNxTlhpOEw2ZF9KU1phZHdsOEVjVTFHcDlkdU5zT3Bpb1hac192cG8tS0hDNmRjaWw2c0JIYldHM3BZN2phZDZnM3Z1X2RxZ3pfSHNrTEJoSldfTXd2U3RqX2lBNlUydkxYcUZGX25PdlIyemxELTIydTQ4bXJQWnQ3dUpGMTd3WWhsUGhEQUpwLUg1R05Za1NUQTkyN08xWk1iVUtGeTAydzQ3bGxNZHhGb0NrTEhTRFEweVF2b3REQzBtcGh0TG9kRmdEWWd4WlFwaEdJNjZqdGV4T1h6ZVRjM0RS0gHuAUFVX3lxTE9xV0dGREJZYjV1UHBBVkhVdVZlVExaaHdTdzJMVXBZcUtGUDRKcTU5QVRZLVZidmpRUHQ1S18xbGJyTGtsSnFZU2Mwc1ZKdHl1VU5mbG5qbjhzUXg2NDRuZl9GYklHVEhwSXJrSjVnWDI3YTNYaWR4b0tMY2t5a3FKcV8zd09TYS1MM0JVQ1BMUGpBYkpMUTRWNW5vRnFGbGNnLXlObHZVU3lhaVdWZjB1dDN0cDFEMWtRQVRhdk5GeWNRYk5vNTFoajlnUkxQVGdLRmlUNzhOY1EtMFpnakhJQnZybG0yODQ3dUFrT1E?oc=5",
-      "fuente": "El Tiempo",
-      "imagen": "http://www.bing.com/th?id=ONUT.d1O4mWZYII3KNWQb0Qyfqg&pid=News",
-      "resumen": "",
-      "fecha": "2026-11-18T01:16:40.000Z"
-    },
-    {
-      "titulo": "Addi anunció una millonaria inversión en Colombia durante la ‘Milagro Week’",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbU03UnJ0VFJFeUNGU3NzRUdMYzV5VDlTVVQ0dldNcllCMkZnMDhpd1o5NS1RTE90REtQUzhzNkpKSUZvbjUwY05kXzRrVjJBRjdfSUFESmF4c1Jmc2liOGxwd242TXVDN2JuLWRFb19jbE9FZjVLZmhTU0N2LXVsREtNWHVVSXJCc0Y2SlQ1bktXSmMwaDBqZC02UHdxcmFNLU9oTS0tTjdfUlF2SWZfS0VveVNadnFNT0QwRXdyQVZqOGJpME5jVldtc9IB0AFBVV95cUxPUzJIY2lYTWNzcW9fa1BudVlFZTljMmo2SE9wUURRckVHMEhvOWNaZk9FVlpoTG56SDRqYWkzWHRrRVF0UFZzSDU4NkstemFMcDdjLVVjZFpac1pndmJOTURrS29SX2J6S21JcWhsM1lrcDQySGhNaGN5WjZscUhwa1RPTUFhak9Zb2dGYWxmcjk1YXBJeUpQcVpnTmRXNlZlVGZnNThCanJBeFd6S28xcWpKc0NIaGotSFhIUkNUb09TNmptT0VvazF2SzcxcXJ4?oc=5",
-      "fuente": "Revista Semana",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T01:03:50.000Z",
-      "sinFoto": true
     }
   ]
 }
