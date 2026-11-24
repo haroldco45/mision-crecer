@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-24T04:24:23.499Z",
+  "revisado": "2026-11-24T15:12:20.110Z",
   "noticias": [
     {
       "titulo": "Bien por la Milagro Week",
@@ -15,7 +15,8 @@
       "fuente": "Diario del Cauca",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-23T21:00:29.000Z"
+      "fecha": "2026-11-23T21:00:29.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Muchos elogios, cero proyectos concretos: así fue la visita del vicepresidente a Nueva York por la \"Milagro Week\"",
@@ -131,7 +132,8 @@
       "fuente": "El Colombiano",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-20T11:42:38.000Z"
+      "fecha": "2026-11-20T11:42:38.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Cundinamarca busca en la Milagro Week inversionistas para el RegioTram del Norte, un tren de $17,4 billones",
@@ -440,7 +442,8 @@
       "fuente": "Zona Cero",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-19T13:11:29.000Z"
+      "fecha": "2026-11-19T13:11:29.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¿Cómo le fue a Colombia en la ‘Milagro Week’?",
