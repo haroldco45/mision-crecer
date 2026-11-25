@@ -1,13 +1,70 @@
 {
-  "revisado": "2026-11-25T09:01:43.547Z",
+  "revisado": "2026-11-25T19:32:12.167Z",
   "noticias": [
+    {
+      "titulo": "Antioquia logra compromisos de inversión por US$6.284 millones en la «Milagro Week» de Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPYVRkTXlIQzY2d3lfQTlQaEI2SWJlSkFmZHpTMGF4M3VtaW1TelB1cUZlZzF1T1RLOHFUaWxFaGJxMS14bXNucGV6X2JNbjBkUmZodkoyYTU4TF8yNWt5V2JPN0t5SkpzY0l6ZDduVXFYSml3dFhwcnQydVJWeVFBeDBoQnlrNVN4dmZYMlRmSUhqZHFVTkZNRkt2aGRzM2U2NlNyMVM2cWU2OTVPdkt5V0xkd3ZMTE1zNzg3UEw1Qlk0T3Q3bDFxWg?oc=5",
+      "fuente": "ABC Economía",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-25T15:17:43.000Z"
+    },
+    {
+      "titulo": "Milagro Week: 29 proyectos por US$18.000 millones ya tienen avances materializados",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUmN4QVFSbmtIc01mWXZLYnNCTkhPcUxFMHdaTVNDSU5kMWNjTzVpNXNiQ2Ezcm5UemRzZWVvcW1jczhZLTVYcEk3U2RaNGZ5dzZ1WHBZS2Z2ZEdFMVR2eU1tVl9VbnNHNmJYRVVDV0FuVk01U2ZyZTRHb0ZhcEQzSWJGa0RwOFRtUm5sMFozandFTlU?oc=5",
+      "fuente": "abceconomia.co",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-25T13:33:09.000Z"
+    },
+    {
+      "titulo": "Milagro Week: 29 proyectos adicionales por 18 mil millones de dólares avanzan en conversaciones con inversionistas",
+      "link": "https://www.elheraldo.co/economia/2026/11/25/milagro-week-29-proyectos-adicionales-por-18-mil-millones-de-dolares-avanzan-en-conversaciones-con-inversionistas/",
+      "fuente": "Elheraldo",
+      "imagen": "http://www.bing.com/th?id=ONUT.WdtInWcFwYfilVKuS5lxOw&pid=News",
+      "resumen": "El vicepresidente José Manuel Restrepo anunció este miércoles que otros 29 proyectos de inversión 18 mil millones, presentados durante la Milagro Week de Nueva York, avanzan en conversaciones con pote ...",
+      "fecha": "2026-11-25T08:09:00.000Z"
+    },
+    {
+      "titulo": "Siguen resultados de la Milagro Week: otros 29 proyectos por US$18.000 millones buscan inversionistas",
+      "link": "https://www.msn.com/es-co/noticias/otras/siguen-resultados-de-la-milagro-week-otros-29-proyectos-por-us-18000-millones-buscan-inversionistas/ar-AA2idjM4",
+      "fuente": "Msn",
+      "imagen": "http://www.bing.com/th?id=ONUT.Y-U6RUW1GPN9H3yS4GpcTQ&pid=News",
+      "resumen": "La Vicepresidencia confirmó que nuevas iniciativas aparecieron tras las reuniones en Nueva York.",
+      "fecha": "2026-11-25T06:26:16.000Z"
+    },
+    {
+      "titulo": "Los puertos del Urabá antioqueño generaron interés de los inversionistas durante la Milagro Week",
+      "link": "https://caracol.com.co/2026/11/25/los-puertos-del-uraba-antioqueno-generaron-interes-de-los-inversionistas-durante-la-milagro-week/",
+      "fuente": "Caracol",
+      "imagen": "http://www.bing.com/th?id=ONUT.HN-lHzMrKWu61JM8CaaBbQ&pid=News",
+      "resumen": "Durante la Milagro Week, Puerto Progreso de Urabá captó un interés efectivo e intenciones de inversión por más de US$2.200 millones por parte de destacados fondos globales y bancas de inversión. Este ...",
+      "fecha": "2026-11-25T05:39:00.000Z"
+    },
+    {
+      "titulo": "Antioquia logró inversiones por 6.200 millones de dólares en 28 proyectos durante la ‘Milagro Week’",
+      "link": "https://www.bluradio.com/regiones/antioquia/antioquia-logro-inversiones-por-6-200-millones-de-dolares-en-28-proyectos-durante-la-milagro-week-rg10",
+      "fuente": "Bluradio",
+      "imagen": "http://www.bing.com/th?id=ONUT.pPKFvddi_ndeINH-HFZFvw&pid=News",
+      "resumen": "Durante la reciente ‘Milagro Week’ Antioquia logró inversiones por más de 6.200 millones de dólares en 28 proyectos. Uno de los más ambiciosos se trata de un datacenter en San José de la Montaña.",
+      "fecha": "2026-11-25T04:34:00.000Z"
+    },
+    {
+      "titulo": "Gobierno De La Espriella logra inversiones por US$43.200 millones en la Milagro Week de Nueva York",
+      "link": "https://prensamercosur.org/2026/11/25/gobierno-de-la-espriella-logra-inversiones-por-us43-200-millones-en-la-milagro-week-de-nueva-york/",
+      "fuente": "Prensamercosur",
+      "imagen": "http://www.bing.com/th?id=ONUT.eXkLe0ATO-HHGvP2iflpCA&pid=News",
+      "resumen": "El vicepresidente José Manuel Restrepo anunció que el Gobierno de Abelardo De La Espriella cerró la Milagro Week de Nueva York con compromisos de inversión y financiación por US$43.205 millones, según ...",
+      "fecha": "2026-11-25T02:06:00.000Z"
+    },
     {
       "titulo": "Medellín y Antioquia regresaron de la Milagro Week en Nueva York con un portafolio de inversión superior a los US$6.800 millones",
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQekk4MENGc0FuZVBRSTZ4R3liQmpDOHFZdGI2Tl9kRTFTancwM0lYcXVGVTZGTDlVOXROLWJtZTFGUmdyaWhTekJxTUtuMW1KRy1mVk9QakRjWnZyZ0h1X19sRW5HZl82TlVJSXU1eUluVlh3UDRwTXlrUXFMVEZYR1VqamZJOHp5S01kYTcxbVYxcVcxQ1pZMmpPajBMVXFLM1I4aWQ3aHNaXy05ZEJDamRlZTZ1Znd0U1ZSUnlVVjRvYjZXUTctT2N0Qll2LUd2X3NuZkhiUDM0emhXVmk5Snp1T0RhZU9JalN6cVZMWDVIaHR2RmRlZ3d2NThTZnc3ekHSAY4CQVVfeXFMUFR6QzlZaVB2WU9SUW80SG1Jd0hkMDJQYS1DdU14WTh1d3BjbEkyWDdjSW1ScW83OWpOWXdQanQ2elVoTHl5WU9xSGZWVVk0bmxRVEJTX2JNbzQzQWtaa3ZBbS1iLXhMUFBiUElLbmlqSE9nVUdOZzdqRG5YemtWYUdhWUFrUzkxcC1CdWx0N3lRbFlobkczWW9QMzNMZEpCNjVydENmaHpUYlMtR1lRQ1VkUkphRlB1NUNia0ZDUWt0clZmVDBDMVFHZHh1SkNGY2dPS1FBUXJFX1NNUm41X2RuM1JJSGhmMnNnWXc3QUJHSnFOOUU5OWhXNW1xQnQ4TDROZUNsLXlYaHo1X2VR?oc=5",
       "fuente": "Teleantioquia",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-25T00:41:00.000Z"
+      "fecha": "2026-11-25T00:41:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Medellín y Antioquia presentaron 28 proyectos a inversionistas en la Milagro Week",
@@ -964,65 +1021,6 @@
       "resumen": "",
       "fecha": "2026-11-18T12:47:55.000Z",
       "sinFoto": true
-    },
-    {
-      "titulo": "Madrid, la próxima parada de 'Milagro week': el Gobierno De la Espriella busca inversiones millonarias tras su paso por Nueva York",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTnB4VGs4MHo2VEtlTExDNzRuUEVWNTNqRTRrazdOdXdzS24yZWhKdFBENWtiYWRzWFpvWHh3RV9zT21wcU1WMDZaNzdPQTl0VjNybzh6VmJNZldQaVMzbmg4VmpibFJ0OHNsZENCM2VjaGF3SEctWFVobTRsVExhR2NDSnBwRWs3YmdNeU12SGt5M1ozcXdYRENVMGh6TEI3WWJBeEhnS3ZRUklYUmVjVdIBsAFBVV95cUxQOUhIRmxXY0p3VDZIUk5qWFVwNUdmS2ZhYWQ0ejVBWFA3TUNydDBoNEptT1VyTDYza0wwanhEdzZJcndUYlJSeHVQRjdpankzOGZXY1Rza2hKWFZJWEhRVkU4QlhvMlF5UGs5ZDdjbmpPQ085dGFfNXdBWW5MdjFodzlGMjBmLTgyOGFNZ1FPZGo1bF9xZjc1RmRWelA5VzMtUmZlLUVwcjc0Um1SRFMyVA?oc=5",
-      "fuente": "El Periódico de España",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T12:32:22.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "¿Cuándo será la Milagro Week de los empresarios colombianos?",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDI3YzdRN1dmQnVrS1ozQXlYTjdPOExSTzZVMzNubWIzcVFVSTB0dUtVTlRtdHhLc1U2V1pTTW5VSU80UDlVWUhMelJhQlNHWGl2SHZnaWVMUW5MTVhCRXZLOWR5NXdwUFNxRjBzOVJzUE9zTkY2eGV0SlF1XzFfRGJyTUVyM19jdUpoYQ?oc=5",
-      "fuente": "Revista C-Level",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T12:26:17.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Este es el balance de inversiones de la Milagro Week, según el vicepresidente Restrepo",
-      "link": "https://www.elespectador.com/economia/este-es-el-balance-de-inversiones-de-la-milagro-week-segun-el-vicepresidente-restrepo/",
-      "fuente": "Elespectador",
-      "imagen": "http://www.bing.com/th?id=ONUT.dUsHKZUqeWJZbd4pQ4W8fw&pid=News",
-      "resumen": "El vicepresidente José Manuel Restrepo emitió un comunicado con el balance de inversiones que se concretaron en la Milagro Week.",
-      "fecha": "2026-11-18T11:43:00.000Z"
-    },
-    {
-      "titulo": "Milagro Week: MinTic anunció acuerdo con Meta para proteger a menores en entornos digitales",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRjBHcXJQN0trdndmdzRfVjFWWk1RZ0VsMGFlT0RJZ1VleGhPNk8xN3hNb0JfUC1DaWFmX25CS0xlU0RfT2RGRGN2aDNJNTJ1bzc1OERIYnJZaWNlSGxENmRibkpmejB5eU0zaURDa2hmbklrSXRmenJxSFl4THNoSXhvZDI3aWVSdDBMYmFCRUhQa3BhYlhoeGNBMWYtU1VBVl8zNlloR3FDQ2FXd1hBelB1WDNlTFZydEp4TUJiWmVtdnJoX0hiN0k3c0FoQ3FXdFE?oc=5",
-      "fuente": "ELHERALDO.CO",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T11:30:48.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno anuncia inversiones en salud durante la Milagro Week",
-      "link": "https://hoydiariodelmagdalena.com.co/archivos/1314355/gobierno-anuncia-inversiones-en-salud-durante-la-milagro-week",
-      "fuente": "Hoydiariodelmagdalena",
-      "imagen": "http://www.bing.com/th?id=ONUT.d0hx6HwOUiwNYLr7JXtI7Q&pid=News",
-      "resumen": "Publicado el 18 de nov de 2026 a las 02:12 p. m. La ministra de Salud, Ana María Vesga, lideró en la 'Milagro Week' una agenda de trabajo con organismos multilaterales, inversionistas y líderes de la ...",
-      "fecha": "2026-11-18T11:12:00.000Z"
-    },
-    {
-      "titulo": "Minería, petróleo y aeropuertos: anuncios de inversión cercanos a US$8.815 millones en segundo día de Milagro Week",
-      "link": "https://www.msn.com/es-co/dinero/other/miner%C3%ADa-petr%C3%B3leo-y-aeropuertos-anuncios-de-inversi%C3%B3n-cercanos-a-us-8-815-millones-en-segundo-d%C3%ADa-de-milagro-week/ar-AA2hHoAM",
-      "fuente": "Msn",
-      "imagen": "http://www.bing.com/th?id=ONUT.guV0DMJt6hr_bCVK4WkeSg&pid=News",
-      "resumen": "Empresas como AngloGold Ashanti, Parex Resources, Addi y ASUR anunciaron millonarias inversiones.",
-      "fecha": "2026-11-18T10:11:50.000Z"
-    },
-    {
-      "titulo": "Milagro Week ya sumá más de US$35.500 millones en anuncios de inversión y crédito",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdnhGR25BSm5keG5XeFdNaEp2aWxSNDQzWEhDVkc0dm1XZTdxVDNUSDVnVHdUN0lOTzNZNjg4UmRuQVBueS1KNEllSDFsSFEtZjVnVm1JR1ltVzI4b0xrcjZCV1ozejJxWmlJNjNHcW9RYk03UTltYnQ3VVE4Y2xyc09lbGhqZTBNd1Y5RlZqeVlYVFlNZTVlUGFpVmVYU2p0eHhCM2ZqaEJGQk93VzFZSDRQWnFkWm55OEZtanhlRXRHSzjSAcMBQVVfeXFMTzNDRUZVbkg3VFRkZEk5eFRBR3FOdDFiam1teF9oZmZadGVTT1dXM3VRSWRmMWN6NF80ekRUeG0xMFBRXzMwM1pSQ0t3d29TOThRRklJcTZFM2g0T3dOSTN0NGJSZVFFR2t4anBuaUliUHpCLTZEb1hMZ19jcHFtTEtzS3RsVGVrOUJzMGl2T3JzZHMyQ285c0JCOTJaMWpiNEJuTWhIc0JwMTZpRXd1NlRaRG9NZklhMGRTM2RLR3gxQTFz?oc=5",
-      "fuente": "LaRepublica.co",
-      "imagen": "http://www.bing.com/th?id=ONUT.OsdfxoofMXPcJ1cZ8sTG1w&pid=News",
-      "resumen": "",
-      "fecha": "2026-11-18T10:11:26.000Z"
     }
   ]
 }
