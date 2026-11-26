@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-25T19:32:12.167Z",
+  "revisado": "2026-11-26T02:44:09.453Z",
   "noticias": [
     {
       "titulo": "Antioquia logra compromisos de inversión por US$6.284 millones en la «Milagro Week» de Nueva York",
@@ -7,7 +7,8 @@
       "fuente": "ABC Economía",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-25T15:17:43.000Z"
+      "fecha": "2026-11-25T15:17:43.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: 29 proyectos por US$18.000 millones ya tienen avances materializados",
@@ -15,7 +16,8 @@
       "fuente": "abceconomia.co",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-25T13:33:09.000Z"
+      "fecha": "2026-11-25T13:33:09.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week: 29 proyectos adicionales por 18 mil millones de dólares avanzan en conversaciones con inversionistas",
@@ -24,6 +26,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.WdtInWcFwYfilVKuS5lxOw&pid=News",
       "resumen": "El vicepresidente José Manuel Restrepo anunció este miércoles que otros 29 proyectos de inversión 18 mil millones, presentados durante la Milagro Week de Nueva York, avanzan en conversaciones con pote ...",
       "fecha": "2026-11-25T08:09:00.000Z"
+    },
+    {
+      "titulo": "ColCapital y Endeavor Colombia impulsarán en Nueva York la conexión entre inversionistas internacionales y emprendedores colombianos",
+      "link": "https://lanotaeconomica.com.co/movidas-empresarial/colcapital-y-endeavor-colombia-impulsaran-en-nueva-york-la-conexion-entre-inversionistas-internacionales-y-emprendedores-colombianos/",
+      "fuente": "Lanotaeconomica",
+      "imagen": "http://www.bing.com/th?id=ONUT.GZ-WrxR1fR-BN2NKxRKoZQ&pid=News",
+      "resumen": "Las dos organizaciones reunirán a inversionistas internacionales, gestores de fondos, emprendedores y representantes del Gobierno en una mesa de diálogo durante Milagro Week, para identificar iniciati ...",
+      "fecha": "2026-11-25T07:26:00.000Z"
     },
     {
       "titulo": "Siguen resultados de la Milagro Week: otros 29 proyectos por US$18.000 millones buscan inversionistas",
@@ -40,6 +50,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.HN-lHzMrKWu61JM8CaaBbQ&pid=News",
       "resumen": "Durante la Milagro Week, Puerto Progreso de Urabá captó un interés efectivo e intenciones de inversión por más de US$2.200 millones por parte de destacados fondos globales y bancas de inversión. Este ...",
       "fecha": "2026-11-25T05:39:00.000Z"
+    },
+    {
+      "titulo": "De la mano de la ACI, Medellín y Antioquia sumaron en la Milagro Week en Nueva York",
+      "link": "https://www.medellin.gov.co/es/sala-de-prensa/noticias/de-la-mano-de-la-aci-medellin-y-antioquia-sumaron-en-la-milagro-week-en-nueva-york/",
+      "fuente": "Medellin",
+      "imagen": "http://www.bing.com/th?id=ONUT.71h-OqSQvx2215RWEDvu4Q&pid=News",
+      "resumen": "Medellín y Antioquia presentaron 28 proyectos estratégicos por USD 6.824 millones en la Milagro Week de Nueva York. Con el ...",
+      "fecha": "2026-11-25T05:12:00.000Z"
     },
     {
       "titulo": "Antioquia logró inversiones por 6.200 millones de dólares en 28 proyectos durante la ‘Milagro Week’",
@@ -81,6 +99,14 @@
       "imagen": "http://www.bing.com/th?id=ONUT.SzdVDjKJApT-hzE_cOvdyA&pid=News",
       "resumen": "El proyecto portuario, ubicado en Turbo, Antioquia, llegó a la Milagro Week con un requerimiento inicial de capital de US$1.300 millones ...",
       "fecha": "2026-11-24T17:19:41.000Z"
+    },
+    {
+      "titulo": "¡Vitrina millonaria en Nueva York! Medellín y Antioquia presentaron 28 proyectos estratégicos en Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdHEyTk9YTUtmS0Fack94ajJvcWJ1UHV5Nk4wOHFpUWRib05QNUZhTm4ycEI1Q083VndkUE5nLUVEZG1fRmluRDhkN2Myd3BHTVNEVXNSLWFYVjBqQk4wQUVOQXB2Uk11YUxCdUVJaWNIS0l4ZG5kQUdSRWRMSkhacHRudzZSQlRPc2N6Mk9HeGlLc3NjaWJJa1BlaHdsa0ZwcGRXbG53UUZMMHVjQkwwU0tJS1R0bmdfM0kyZGNCakZaTE5sOEo1VU9PNFFMUUpVZHc?oc=5",
+      "fuente": "Nos Cogió la Noche",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-24T15:13:26.000Z"
     },
     {
       "titulo": "Inversionistas internacionales conocieron 28 proyectos estratégicos de Medellín y Antioquia durante Milagro Week",
@@ -456,6 +482,14 @@
       "fecha": "2026-11-19T16:53:00.000Z"
     },
     {
+      "titulo": "Así les fue a Cartagena y Bolívar en Nueva York durante la Milagro Week",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTBMTF9ZM0d3REtoMlF1blNIaUNIY1VyU3pHY0JXZ0NNWldDSWlNRVY2YlQyc2NjU25nbW9xZzlxSGs0N0NiM0M3dGdSSWgwVTE4OVVsWlNyVHhtQkJLb3EyZ0FiY1lzYTZWd2RqTGdHemxtdmtWOWl1SDdub1RXdUhBdzVVT3U1Z1VRb1VvZ2UyNmdXeUFyLVdxY0hPNnM0SEltaGp3VTRuN3VFanNJVjJlOTJPLVUxSGN2b0pldUc?oc=5",
+      "fuente": "Eluniversal.com.co",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-19T16:12:00.000Z"
+    },
+    {
       "titulo": "Milagro Week anuncia compromisos de inversión por más de 43.000 millones de dólares",
       "link": "https://www.diariodelsur.com.co/noticias/milagro-week-anuncia-compromisos-de-inversion-por-mas-de-43-000-millones-de-dolares",
       "fuente": "Diariodelsur",
@@ -740,6 +774,14 @@
       "sinFoto": true
     },
     {
+      "titulo": "Este es el balance de inversiones de la Milagro Week, según el vicepresidente Restrepo",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ2dwM3B2SVlPcjZRbXozQ3NOczdwMDNXcXBzaGJ5NUd2QWdvUkV3clFnQ2w5am5zb3pKc3dueWl2Z0NLR3pzNUVIU0xSNDlnRHIxWWN4QmFFNmxDMnpYblhuYU9uQVdvMjRGZXE2RkltemJOZktnalRWaXBXMXA4QlEwcUcycDB3NjJJMU1UZ04xdWd4R21namxyUWhiYnkwbjRvSDJkZ2MxTnB2TUoxbUt1NlBBSloyTWs4ZzRob0pLQdIB1gFBVV95cUxPN3hFRGlHTEN1QUxaYzZZU0EyM25ia2FaWEk4enlhZDdBUUdRUkRtQWNNbG9sNGxNejluTGlzY2k4a3hSY1lfNU80VWcyTVNLaXNTdmRvb2YxbVo5cElQN3hFODRnVWhzR2tWLWVseVBXekdDU1hjdWgxZkg5NDlUbV85dDYxWk9fcExCRDlqZnl3b3Bzemt4ZU02MHpMdlFVdmdyTVVRT3NRdjlCeDBOTkFESlVLYjRSTUU5dTUwakN5bTZGaUVmR1JMMi05Um1wdHVlaXRn?oc=5",
+      "fuente": "El Espectador",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-19T00:43:55.000Z"
+    },
+    {
       "titulo": "La Guajira presentó en Milagro Week su proyecto para entrar a la industria espacial: busca lanzar cohetes y satélites desde Puerto Bolívar",
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNNm05dTVoejN3U1pMOVZFbF9CX3JIZFZibEJTQU5ySUZZNjBaWEZCRktrcmI3V3UtMTNsRUhhTUl2WGlub0F5b1c1eFhVclNSSzZKQkxSSG5uQ19PY3N4aXZreWRUNmNWRzRlcGttaEwyd3hTLWRFaGxlQng1dU5Id2F5Rlo5ZUxBNzdQZElEclBfcHQ4N3hmOVdKaW1ESklHUHVGOGlJNXB1S1dRN3huRzNoU1lRZHpTU194ZjBZV2xJTzJKVm9tYlowOHg4MC1mTmhwTERwOEJkcXR2TVktRmZ2bkJoV0diNUhSYTRsYU5QNXhQWHZHdGdGeWdvSWRXcnpFNE15VmNkeUJCYThZ0gGqAkFVX3lxTFAyOHRKa0Q1dU9pczFLVV9Bb0VwSWJGYkhURlVURnpBTkFhUHlGaGoyMGFzYmpsWWFxMzhpd2NzaTA4X1NleERQM1hRSjJwNEs0Z0JGYUhKN1VSZGE4SWdZbDJ4SE1DRURDbXBieFNSQnZFdGhDdDlNblNVcXpMN2doT2lwdjBNaGVFMlNMMWd2Q1hxWVRfMm4wdmoza1o4VkgzYzVmUGJLd0JSLVljMHBnV1J1U0d4ck5zVEFaWm9DQm9NRlpIaUpXTU1tLU9kb1JDVWN4ZHhWSHo0dmxEYnlqdXdDLTFnb0FxeUFLaE5QNVIyWHZqM21aeUlLOHJwSHY3S29YaHhpaFlBR182RXc3ZmdzaE9qUVBYUFRlNTVnUmRjckFjbHBmQVE?oc=5",
       "fuente": "Infobae",
@@ -885,6 +927,14 @@
       "fecha": "2026-11-18T20:02:00.000Z"
     },
     {
+      "titulo": "Milagro Week: estas son las empresas que anunciaron inversiones millonarias en Colombia",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUtUT3l4QkJwQ2ctMGlXWmhyYnJBTnQ4YmJjLUsyVnQ0Ui1FSzNxdGxwYjRtVDlFNlR1Z1dWSjZZNzFxc2pLUGdDNkRpOUQta1pQZmI3Rld0S2o0c3V6bnpmUlZnMGFpSm1ZYTRWc2Q4VGstSjFORUkzMVFoc0d2cWlCbDU0TFl2N0hTeEozdHZ3dU9IVHN6TUJLOFc?oc=5",
+      "fuente": "Minuto60",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-18T19:56:16.000Z"
+    },
+    {
       "titulo": "“Doblamos la meta que nos propusimos”: ‘Milagro Week’ cierra con US$43.200 millones en inversiones para Colombia",
       "link": "https://www.semana.com/economia/macroeconomia/articulo/doblamos-la-meta-que-nos-propusimos-milagro-week-cierra-con-us43200-millones-en-inversiones-para-colombia/202615/",
       "fuente": "Semana",
@@ -928,6 +978,14 @@
       "sinFoto": true
     },
     {
+      "titulo": "Milagro Week: Cifras de inversión para Colombia desde Nueva York",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBXdVlzSjI5VkpqMy10dk5fcHIya3loZUFXNDJuNGY3dzJweGpFcTJENjRXNzFQenhybVlvbDdvRGw3Y3YzczlQMHBScndReVV0OWlmU293ejVzZ3hmeEVfMHJ0YWo2T2MxNkxjM0NTRDVRcXA2QUZEMEZpRk56elE?oc=5",
+      "fuente": "Estrella Digital Colombia",
+      "imagen": "",
+      "resumen": "",
+      "fecha": "2026-11-18T16:20:47.000Z"
+    },
+    {
       "titulo": "Gobierno De la Espriella firma acuerdo con Meta durante la Milagro Week: estos serán los beneficios para",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNQ0M2SEJnQ3ZLV2l0ZzFjTU10QkN1c3JCVHJaeHdSRmI3ZHhYbUlvYng2N2JjRTZ3QnFRWUZDV1ZsdVphZG9UbG1qd1VzSHljc3ExLW9WZVduM3dRc1BDSXU3TTVpcXRWUFVneXduZzhpZ2hJX0M1R1p3VjVLT2M0RlFXZXhzRE5QLXdxTEpPZkxFa1lGRzJNU2ZHTG1ZUVJqR0x5MTh3VHBzN1M0dXJWRWo1MmF0NXZ5Wkc0c2VyY2hCOWw0b0U0MUZRZlZOMmduNFhLSHQ2Sl9yVVJY0gHiAUFVX3lxTE93X3BCQWhHUDFJdF9hN2ZKU3cxWjJoMnZOcy1KZUFLSlVnOG1OVjhmSFV2M0RCbG9sa3ZtOWIzRlBqdloxVEZ3bkIwdkdrM2VlUXVhYTVLdW5Odmx1Mkd1YmR4RHU2b3VZZGFXbjhidUJWbFd0akJUdkFEYkRIelFLV1dvaDVLQ2RUNXNoWGJFc29IemFXZlc0NlBpd2J3SWlyWXRvS3Y0MXVWSFZiYWt0cHUzNmt5QU9RejZaUm9NVGdHSDdOdHBQbnpzR0xjNGZsVUtvNFVGSk5PZzNQOWVmTWc?oc=5",
       "fuente": "Valora Analitik",
@@ -961,66 +1019,6 @@
       "imagen": "http://www.bing.com/th?id=ONUT.whaI60nIYCmabU5V83u7ZQ&pid=News",
       "resumen": "El vicepresidente José Manuel Restrepo indicó que los compromisos abarcan 11 sectores, 24 departamentos y tienen un potencial de generar 55 mil empleos.",
       "fecha": "2026-11-18T14:38:00.000Z"
-    },
-    {
-      "titulo": "En la Milagro Week, Rionegro asegura inversión para su aeropuerto",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSkxSaG1yUEJRQkVQWFg4MlhKVGw3MExqeDVUaU01WUotZnQ2eV9aanpzMHBxSlp4azYwd3BUN0NuV1pSWTBONC1kR3JsbXRuOEg2WnVPUVBUZ1k4QW9DOElnbWVCcHp0SVViekpuR1V1cTNGU2otdjBfaG15dU1SNUI4WUlyV0haSUROZE5rbWVPOTRMNUJDZXBrSUlSQVk?oc=5",
-      "fuente": "MiOriente",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T14:11:16.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Milagro Week: Éxito anuncia inversiones de hasta US$1.200 millones en Colombia durante los próximos cuatro años",
-      "link": "https://www.portafolio.co/negocios/empresas/milagro-week-exito-anuncia-inversiones-de-hasta-us-1-200-millones-en-colombia-durante-los-proximos-cuatro-anos-506629",
-      "fuente": "Portafolio",
-      "imagen": "http://www.bing.com/th?id=ONUT.uBDftJ8zaJmKd-rLLnrlew&pid=News",
-      "resumen": "Grupo Éxito anunció que proyecta invertir entre US$1.000 millones y US$1.200 millones en Colombia durante los próximos cuatro años, con recursos destinados a modernizar sus almacenes, desarrollar ...",
-      "fecha": "2026-11-18T13:49:00.000Z"
-    },
-    {
-      "titulo": "Restrepo habla sobre posibilidad de vender activos del Estado y resultados de la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTEVJTmhocW9VeTUwNU05V0p2dXRIYVE0bzVyekEzak9HTjByS3dZUUs1S1FRelEzemNaZFI0N3ExYUpSVk0wSm1veXNNdUZSZkE4QmJRalFPT1hoSFBRMXN3UFVQTDZKVnFVeEZZOVF5T3V4N2VGLXdjOHF6OHNHMm5Mejlma29neF83czhKT0p6YTlVdE1IM0ZxWERWNWROazlaRHZjRkRwX25YX1FOdjdISFQ0ZGVPOXdYV1E0elFmU3RPdmZKRmlWbGU4a3l5ZThDVHNB0gHjAUFVX3lxTE1EWk9HS0ctWi1hZTFHWmphWkIyZTBTV2p4dVNBLUJzcnJqSkVsQlU2bE9ERnVZajRxY1AyYTRKMWM0NWVMVGtCZkNFd1o5bTNNZXVCS0R5SHFtVUdzdDVyZVNRTUpHdFNuVXNwVGNzZGdleUlXY1lyYWRPVHZUanMwZUROQzBQRG9jeEtQZ1dkZG5oNEFTb3FXWmNoRGdYQkZ4Z2NfcnAwbmk2UmJSdHFxOXpCelFfNjRwbERkVDY4OFhYd1FGSjV6OTF4eVNteU45dGVYblFCU0ZCUGpPcVE5Wi0w?oc=5",
-      "fuente": "Noticias Caracol",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T13:31:04.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Balance Milagro Week: Así se han movido los proyectos de inversión en Nueva York",
-      "link": "https://canal1.com.co/noticias/nacional/balance-milagro-week-asi-se-han-movido-los-proyectos-de-inversion-en-nueva-york/",
-      "fuente": "Canal1",
-      "imagen": "http://www.bing.com/th?id=ONUT.FahCUUpauEeQXiHAc6VGnw&pid=News",
-      "resumen": "El vicepresidente, a través de su cuenta de X, ha anunciado las inversiones que se han logrado durante la Milagro Week en Nueva York. La Milagro Week es una apuesta del gobierno; a través de la Misión ...",
-      "fecha": "2026-11-18T13:21:00.000Z"
-    },
-    {
-      "titulo": "Sonó La Campana Del Cobre En La Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHBSYndWa1JHcDJwNGlyMWhOUVpBX0lYMjIzakQzVWhSTzBXenBGX0laeWFDRmpYdnpkTmdidFl2b3dYUWVCSmF1aUh5YWtJdW1IN1JrUm9jcDZkOFRMdXdaWFoyOExSTS1aRk90UUY5WjVHbFNvdE5VbkJOVVhua3RSdEpjQUhSaXI3eU5xZ3JuT2pj?oc=5",
-      "fuente": "Cámara de Comercio Colombo Americana",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T13:17:15.000Z",
-      "sinFoto": true
-    },
-    {
-      "titulo": "Gobierno cierra la Milagro Week con proyectos de inversión por US$43.205 millones",
-      "link": "https://caracol.com.co/2026/11/19/gobierno-cierra-la-milagro-week-con-proyectos-de-inversion-por-us43205-millones/",
-      "fuente": "Caracol",
-      "imagen": "http://www.bing.com/th?id=ONUT.GYiNuj7UwvSho5oBfF3KHA&pid=News",
-      "resumen": "El Gobierno de Abelardo De La Espriella presentó el balance del cierre de la Milagro Week, que desarrollaron durante tres días en Nueva York. El vicepresidente José Manuel Restrepo, quien lideró la ...",
-      "fecha": "2026-11-18T12:57:00.000Z"
-    },
-    {
-      "titulo": "Minería, petróleo y aeropuertos: los anuncios de inversión por cerca de US$8.815 del segundo día de la Milagro Week",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTjZhWEFvRE5wVEJGT1ltSjBETTJDU3JVcnIydE5IVFI4MWcwdFU2WTgtWWJBWUhqeG5NQ3pkRVYtZm5kd0h5eXBKaW4xRC1oUEl0R2NYZTNLMlV0blRXN2FEU1ozVnFjV1Vld1RaX1pwb3QxSEUwRllpdGJPVWN4SzA2WDhwQ05NQk9ZUE1LV29XRHVvcnp5Njd4XzR3c1lIWEFpNkhxekJXLTRTOHhaVGlzWVpiNDFuSkQ0Nl9aM0FjS0xocy1hcVM1TkFYU3BQckNyb3kxaE1Rdi1la0lSSXhVeWRNQ243ZDJOYjZuRG1yQ3pRb3RUUNIB_gFBVV95cUxQdHFQcncxNnJtNmdURkRhR3pCcUVoMldRQWNqTUFCSGx4VDlsWnVEaHJYRWc0Yy15MGJYWWtwLXdjbHNiRTNjOFlpS2I2U1FLOXFzdEg4TkVuZklxUFExQ1R4dTZpUFhTaTdOcVZ5LWRleVB0dTJhRHZWVFFDa3FFLTBCODRuOXR5VTdVQmd4UFM2VXVpZXNvUVdoUHdWYVBxRHVWTktCWW1HRE1ETkhwa0s4TElvM21fS2ZfdzRFamZTaWtpNUtXTzV0cGhXc3VLV1pqV0FoUi1UcGhyd0hIMGpYWGZoeWw1ODQtclk5UWplQjUyMW8zUVV3RmxUZw?oc=5",
-      "fuente": "Portafolio.co",
-      "imagen": "",
-      "resumen": "",
-      "fecha": "2026-11-18T12:47:55.000Z",
-      "sinFoto": true
     }
   ]
 }
