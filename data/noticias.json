@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-26T12:11:13.556Z",
+  "revisado": "2026-11-26T21:51:16.599Z",
   "noticias": [
     {
       "titulo": "¿Milagro Week o Milagro Weak?",
@@ -7,7 +7,8 @@
       "fuente": "El Espectador",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-26T02:02:00.000Z"
+      "fecha": "2026-11-26T02:02:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Antioquia logra compromisos de inversión por US$6.284 millones en la «Milagro Week» de Nueva York",
@@ -747,7 +748,8 @@
       "fuente": "Portafolio.co",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-19T03:32:20.000Z"
+      "fecha": "2026-11-19T03:32:20.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Milagro Week logró reunir US$43.205 millones en compromisos de inversión para Colombia: estos son los proyectos",
@@ -779,7 +781,8 @@
       "fuente": "Caracol Radio",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-19T01:57:17.000Z"
+      "fecha": "2026-11-19T01:57:17.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno De la Espriella cierra Milagro Week con US$43.205 millones en compromisos de inversión y financiación",
@@ -1000,7 +1003,7 @@
       "titulo": "Milagro Week: ¿cuánto dinero anunciaron empresas y bancos para Colombia desde Nueva York?",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV2pFZTJNX09FcEhtSk1PVllSbHFwaEU4bnI4ZXZ3em15aWhDaGNXdHBhQ0tUREwzdnFHbHRkbE1EX2RTZnQ2czhVbmMwbERodE1qOGhqNTc5TGRfU1dFNHY3Q21ZV0JTUkE4ZkNGamx1Y0FvOFhFSzBzRDVUX09Jc3RMV1ZzenFIT2U2SF90clJDaGl4dTlWd1gzdXpJLUdGX1RFa0dYZ2djakFyTmFVVktlREhlRXhQYVBjWUNyTU9CTDRJQUZr0gHMAUFVX3lxTE55cWpTanRPcWszUGJqNjZveXctQ29vLWZCZnFPQUxZa0xYYmFYa1FHTVdwQ2sxcmRlS0RBNzU3bHYzQUpYUUVFU1JlN2h2SnFPMVdlcU40ZEh3bldudUNRWURtSFg0TWRObmJKS01aNDNRYnN4R3FxMXVsVVN0ZERJdVg5VGZpNmphWlRZMi1WOThSVEVYQ3R1UENJVWE2WFFtVDJJeVdwUkdCXzFIQ01uNjZoWlJrRDc4Y0F2ZkdYMnozQlFieUU5MXJ1aQ?oc=5",
       "fuente": "El Tiempo",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.xBp-_pTBy_C-y9UsS69u_w&pid=News",
       "resumen": "",
       "fecha": "2026-11-18T16:20:47.000Z",
       "sinFoto": true
