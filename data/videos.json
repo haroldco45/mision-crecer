@@ -1,6 +1,132 @@
 {
-  "revisado": "2026-11-27T04:03:38.537Z",
+  "revisado": "2026-11-27T14:12:36.402Z",
   "videos": [
+    {
+      "id": "DBerUc4u7SI",
+      "titulo": "El milagro de la misión crecer | Congreso Nacional de la Infraestructura en Cartagena",
+      "canal": "Portafolio",
+      "publicado": "",
+      "duracion": "",
+      "imagen": "https://i.ytimg.com/vi/DBerUc4u7SI/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "oL0Wf__r1us",
+      "titulo": "El milagro de la misión crecer | Congreso Nacional de la Infraestructura en Cartagena",
+      "canal": "EL TIEMPO",
+      "publicado": "",
+      "duracion": "",
+      "imagen": "https://i.ytimg.com/vi/oL0Wf__r1us/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "8XIU9oe-ZP8",
+      "titulo": "Restrepo impulsa la Misión Crecer en EE. UU. durante semana de la ONU | Pulzo",
+      "canal": "Pulzo",
+      "publicado": "hace 2 m",
+      "duracion": "3:31",
+      "imagen": "https://i.ytimg.com/vi/8XIU9oe-ZP8/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "b223rOJWKGc",
+      "titulo": "Culto | Misión Crecer | Jueves 28 de Abril 2026",
+      "canal": "IPUC La Victoria Sur",
+      "publicado": "Transmitido hace 6 m",
+      "duracion": "1:23:27",
+      "imagen": "https://i.ytimg.com/vi/b223rOJWKGc/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "6RguX_oUqCg",
+      "titulo": "BID se suma a la Misión Crecer para atraer inversión y modernizar el Estado colombiano",
+      "canal": "Canal 1 Noticias Colombia",
+      "publicado": "hace 1 m",
+      "duracion": "1:15",
+      "imagen": "https://i.ytimg.com/vi/6RguX_oUqCg/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "Ix2iZYebM0Q",
+      "titulo": "US$43.200 millones en Milagro Week consiguió Colombia del sector privado",
+      "canal": "Bloomberg Línea",
+      "publicado": "hace 8 días",
+      "duracion": "10:12",
+      "imagen": "https://i.ytimg.com/vi/Ix2iZYebM0Q/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "WsBFUPoYGG8",
+      "titulo": "Abelardo lleva Colombia a Nueva York | Milagro Week: ¿y por qué no Londres, Vice?",
+      "canal": "Juan Felipe",
+      "publicado": "hace 4 sem.",
+      "duracion": "1:16",
+      "imagen": "https://i.ytimg.com/vi/WsBFUPoYGG8/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "ICw6CmsqEF4",
+      "titulo": "Colombia llevará a Nueva York 176 proyectos en busca de inversión internacional durante“Milagro Week",
+      "canal": "Diario Digital LARAZONCO",
+      "publicado": "hace 1 m",
+      "duracion": "0:33",
+      "imagen": "https://i.ytimg.com/vi/ICw6CmsqEF4/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "mK6tWi1FDQQ",
+      "titulo": "¡Van por inversión y empleo! Restrepo y Mauricio Gómez llevan la Misión Crecer a Madrid",
+      "canal": "Canta Vallenato",
+      "publicado": "hace 3 sem.",
+      "duracion": "0:54",
+      "imagen": "https://i.ytimg.com/vi/mK6tWi1FDQQ/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "GavMbZyhEN0",
+      "titulo": "MISIÓN CRECER BUSCA INVERSIONES EN NUEVA YORK",
+      "canal": "Valle de Aburrá es Noticia",
+      "publicado": "hace 2 m",
+      "duracion": "0:44",
+      "imagen": "https://i.ytimg.com/vi/GavMbZyhEN0/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "p42AdXi_LOg",
+      "titulo": "MISIÓN CRECER CONTINÚA SU AGENDA EMPRESARIAL EN NUEVA YORK",
+      "canal": "El Republicano",
+      "publicado": "hace 2 m",
+      "duracion": "0:46",
+      "imagen": "https://i.ytimg.com/vi/p42AdXi_LOg/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "XK6tv-PhqQU",
+      "titulo": "Gobierno construye la “Misión Crecer” para llevar el PIB de Colombia al 6%",
+      "canal": "360 Radio Colombia",
+      "publicado": "hace 2 m",
+      "duracion": "1:38",
+      "imagen": "https://i.ytimg.com/vi/XK6tv-PhqQU/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "rq-JJdVq_us",
+      "titulo": "¡US$41.900 MILLONES! José Manuel Restrepo anuncia 97 proyectos colombianos en Nueva York",
+      "canal": "NACIÓN COLOMBIA",
+      "publicado": "hace 2 sem.",
+      "duracion": "2:27",
+      "imagen": "https://i.ytimg.com/vi/rq-JJdVq_us/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
+    {
+      "id": "VopukR-iOXk",
+      "titulo": "EMISIÓN 1.554 - 30 MINUTOS DE ECONOMÍA - OCTUBRE 23 DE 2026",
+      "canal": "30 Minutos De Economía",
+      "publicado": "hace 1 m",
+      "duracion": "35:50",
+      "imagen": "https://i.ytimg.com/vi/VopukR-iOXk/hqdefault.jpg",
+      "visto": "2026-11-27T14:12:36.402Z"
+    },
     {
       "id": "W5xIKYI-Wnk",
       "titulo": "Ministra TIC se reúne con empresarios argentinos para impulsar la conectividad #MilagroWeek",
@@ -14,7 +140,7 @@
       "id": "u1WsaWSEV78",
       "titulo": "El Editorial | La Milagro Week confirma que Colombia está de regreso | 27 de noviembre de 2026",
       "canal": "EL HERALDO",
-      "publicado": "hace 1 h",
+      "publicado": "hace 11 h",
       "duracion": "4:15",
       "imagen": "https://i.ytimg.com/vi/u1WsaWSEV78/hqdefault.jpg",
       "visto": "2026-11-27T04:03:38.537Z"
@@ -248,7 +374,7 @@
       "id": "TaSh5hlSrBs",
       "titulo": "Abelardo despidió delegación que se va a Nueva York para la Milagro Week",
       "canal": "Diario Editorial",
-      "publicado": "hace 10 días",
+      "publicado": "hace 11 días",
       "duracion": "0:51",
       "imagen": "https://i.ytimg.com/vi/TaSh5hlSrBs/hqdefault.jpg",
       "visto": "2026-11-26T12:11:13.605Z"
@@ -275,7 +401,7 @@
       "id": "jEFTmhCcNlU",
       "titulo": "El vicepresidente JOSÉ MANUEL RESTREPO habla de la Milagro Week | El Debate",
       "canal": "RevistaSemana",
-      "publicado": "Transmitido hace 13 días",
+      "publicado": "Transmitido hace 2 sem.",
       "duracion": "40:41",
       "imagen": "https://i.ytimg.com/vi/jEFTmhCcNlU/hqdefault.jpg",
       "visto": "2026-11-26T12:11:13.605Z"
@@ -329,7 +455,7 @@
       "id": "VHdeDE7Jdoo",
       "titulo": "Misión Crecer Antioquia: la apuesta para convertir a Urabá en un motor de desarrollo",
       "canal": "Momento Emprendedor",
-      "publicado": "hace 3 sem.",
+      "publicado": "hace 4 sem.",
       "duracion": "15:38",
       "imagen": "https://i.ytimg.com/vi/VHdeDE7Jdoo/hqdefault.jpg",
       "visto": "2026-11-26T02:44:09.496Z"
@@ -383,7 +509,7 @@
       "id": "pB2zhnMrRmc",
       "titulo": "AngloGold alista inversiones en Quebradona, Minería como aliado del medioambiente y Milagro Week",
       "canal": "Bloomberg Línea",
-      "publicado": "hace 8 días",
+      "publicado": "hace 9 días",
       "duracion": "8:56",
       "imagen": "https://i.ytimg.com/vi/pB2zhnMrRmc/hqdefault.jpg",
       "visto": "2026-11-26T02:44:09.496Z"
@@ -414,132 +540,6 @@
       "duracion": "8:46",
       "imagen": "https://i.ytimg.com/vi/8oyUi0Ad7RI/hqdefault.jpg",
       "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "4F5BQ6r8RGY",
-      "titulo": "Milagro week new york",
-      "canal": "Mapa Celis Páez - Topic",
-      "publicado": "",
-      "duracion": "1:15",
-      "imagen": "https://i.ytimg.com/vi/4F5BQ6r8RGY/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "JfAHg5B01Oc",
-      "titulo": "500 inversionistas llegarán a Nueva York para la Milagro Week: Colombia presentará 97 proyectos",
-      "canal": "DE FRENTE CASANARE",
-      "publicado": "hace 12 días",
-      "duracion": "1:47",
-      "imagen": "https://i.ytimg.com/vi/JfAHg5B01Oc/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "yv-lv9c_28k",
-      "titulo": "Colombia busca $41.000 millones de dólares en Nueva York: Habla el vicepresidente Restrepo",
-      "canal": "Canal 1",
-      "publicado": "hace 9 días",
-      "duracion": "9:03",
-      "imagen": "https://i.ytimg.com/vi/yv-lv9c_28k/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "4SU0FzuIi0E",
-      "titulo": "Milagro Week en Nueva York: Colombia se abre al mundo",
-      "canal": "La era del tigre",
-      "publicado": "hace 8 días",
-      "duracion": "12:59",
-      "imagen": "https://i.ytimg.com/vi/4SU0FzuIi0E/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "lnOQyZuqfAA",
-      "titulo": "🇨🇴🇱🇷MILAGRO WEEK: SEMANA DE LA INVERSION EXTRANJERA EN CBIA DESDE NEW YORK #newyork #colombia",
-      "canal": "En La Rumba Miami",
-      "publicado": "hace 1 m",
-      "duracion": "0:43",
-      "imagen": "https://i.ytimg.com/vi/lnOQyZuqfAA/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "z55thh4H3MY",
-      "titulo": "Vicepresidente José Manuel Restrepo anuncia nueva inversión de Mineros S.A.",
-      "canal": "Acento Colombia",
-      "publicado": "hace 8 días",
-      "duracion": "0:47",
-      "imagen": "https://i.ytimg.com/vi/z55thh4H3MY/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "l30RPG9C1IA",
-      "titulo": "🚀 ¡MISIÓN CRECER LLEGA A ANTIOQUIA!  #seguridad #antioquia #medellin",
-      "canal": "Antioquia Noticias",
-      "publicado": "hace 1 m",
-      "duracion": "0:20",
-      "imagen": "https://i.ytimg.com/vi/l30RPG9C1IA/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "1bU2oCZDe8Y",
-      "titulo": "NUEVA YORK, ESCENARIO PARA BUSCAR INVERSIÓN EN COLOMBIA",
-      "canal": "Antioquia Noticias",
-      "publicado": "hace 2 m",
-      "duracion": "0:40",
-      "imagen": "https://i.ytimg.com/vi/1bU2oCZDe8Y/hqdefault.jpg",
-      "visto": "2026-11-26T02:44:09.496Z"
-    },
-    {
-      "id": "jM1PuY6DMlk",
-      "titulo": "Colombia Inmarcesible 🇨🇴✋🏻🚂 Ep 8 \"Milagro Week, Duvalier  y ¿Bolivar va a denunciar a Rentas?\"",
-      "canal": "F4NCHOS",
-      "publicado": "Transmitido hace 8 días",
-      "duracion": "2:01:06",
-      "imagen": "https://i.ytimg.com/vi/jM1PuY6DMlk/hqdefault.jpg",
-      "visto": "2026-11-25T19:32:12.208Z"
-    },
-    {
-      "id": "IASdGGVpKxc",
-      "titulo": "Milagro Week avanza en Nueva York con anuncios de inversión por US$25.900 millones para Colombia",
-      "canal": "Noticias RCN",
-      "publicado": "hace 9 días",
-      "duracion": "6:07",
-      "imagen": "https://i.ytimg.com/vi/IASdGGVpKxc/hqdefault.jpg",
-      "visto": "2026-11-25T19:32:12.208Z"
-    },
-    {
-      "id": "5vZ1zDraSmc",
-      "titulo": "LO QUE ESCONDE LA MILAGRO WEEK: 41.900 millones de dólares que no son lo que parecen",
-      "canal": "Will Cotrino",
-      "publicado": "hace 12 días",
-      "duracion": "11:38",
-      "imagen": "https://i.ytimg.com/vi/5vZ1zDraSmc/hqdefault.jpg",
-      "visto": "2026-11-25T19:32:12.208Z"
-    },
-    {
-      "id": "6C68-XQ2sJ4",
-      "titulo": "MILAGRO WEEK",
-      "canal": "CONSTRUYENDO CIUDAD BOGOTÁ-REGIÓN",
-      "publicado": "hace 7 días",
-      "duracion": "3:19",
-      "imagen": "https://i.ytimg.com/vi/6C68-XQ2sJ4/hqdefault.jpg",
-      "visto": "2026-11-25T19:32:12.208Z"
-    },
-    {
-      "id": "_nSIwjzf9Lk",
-      "titulo": "Gobierno impulsa la \"Milagro Week\" para atraer inversión extranjera y reactivar la economía",
-      "canal": "CABLENOTICIAS",
-      "publicado": "hace 2 m",
-      "duracion": "2:31",
-      "imagen": "https://i.ytimg.com/vi/_nSIwjzf9Lk/hqdefault.jpg",
-      "visto": "2026-11-25T19:32:12.208Z"
-    },
-    {
-      "id": "vmauffSlLYA",
-      "titulo": "El presidente Abelardo de la Espriella dio apertura a Milagro Week en Nueva York.",
-      "canal": "El Bolivarense",
-      "publicado": "hace 4 días",
-      "duracion": "3:01",
-      "imagen": "https://i.ytimg.com/vi/vmauffSlLYA/hqdefault.jpg",
-      "visto": "2026-11-25T19:32:12.208Z"
     }
   ]
 }
