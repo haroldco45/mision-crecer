@@ -1,5 +1,5 @@
 {
-  "revisado": "2026-11-27T22:52:53.840Z",
+  "revisado": "2026-11-28T04:39:43.929Z",
   "noticias": [
     {
       "titulo": "Plan del Gobierno para crecer al 6 %: así se invertirán $288 billones en transporte",
@@ -7,7 +7,8 @@
       "fuente": "Canal 1 En vivo",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-27T22:04:24.000Z"
+      "fecha": "2026-11-27T22:04:24.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno defendió los resultados de la Milagro Week tras cuestionamientos a sus inversiones",
@@ -15,13 +16,14 @@
       "fuente": "Vanguardia",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-27T21:27:00.000Z"
+      "fecha": "2026-11-27T21:27:00.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "“Logramos el cierre financiero, para el dolor del que quiera”: José Manuel Restrepo responde a críticas a la Milagro Week | El Colombiano",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLTNTeERBQXZkNUpYcnczNzhGdm9DT3NLUTVzTERfWVpHbWRteEl5LWhYbWYzcF9yVDBsa3BSZl9yeVdHVHpxaFRhRVZOOU1DMERyNEN2RGNtQ3l3MkV5ZjI2OTZGdzdEM1lmUTE0c1lnM0J5RlVVZmV1VmFTSWFyWTlLZWxoQjRoMmJlOGszcjZRQXN6VjM5SFVBcU9MU0hDeFHSAacBQVVfeXFMTjJjTGtfdGZEMUpYYmxuOWJRRkRFcVJwWU1CaVdyTFdoRkhQei0ycllxTnI5cEhlaVdRc0JTQ1k4NFBCbEZUd3RkU2xJMklOTi1EcFV6R0lCTlptV1Y2VEZWN0hKdGI5b3VtYVEtcC1ZbWRTZ3VYd1F0YXRmWlB6WmRxd1FZZjF2QVczb2o5Mm90OXpmSXN2SHVfTmpOaXNlY0cyRnl5dDA?oc=5",
       "fuente": "El Colombiano",
-      "imagen": "",
+      "imagen": "http://www.bing.com/th?id=ONUT.yhJQo1gGH2zVCP_wyjz7Rg&pid=News",
       "resumen": "",
       "fecha": "2026-11-27T19:49:02.000Z"
     },
@@ -64,7 +66,8 @@
       "fuente": "Las2orillas",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-26T21:28:29.000Z"
+      "fecha": "2026-11-26T21:28:29.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "¿Milagro Week o Milagro Weak?",
@@ -305,7 +308,8 @@
       "fuente": "Emisora Nueva Época",
       "imagen": "",
       "resumen": "",
-      "fecha": "2026-11-22T02:03:18.000Z"
+      "fecha": "2026-11-22T02:03:18.000Z",
+      "sinFoto": true
     },
     {
       "titulo": "Gobierno anuncia US$41.600 millones en inversiones durante la ‘Milagro Week’ en Nueva York",
